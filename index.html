@@ -7,7 +7,7 @@
   <meta http-equiv="Pragma" content="no-cache" />
   <meta http-equiv="Expires" content="0" />
   <title>Smart Ass — Who / What / Where / Hard Ass</title>
-  <link rel="stylesheet" href="style.css?v=10" />
+  <link rel="stylesheet" href="style.css?v=11" />
 </head>
 <body class="on-landing">
   <header class="topbar">
@@ -75,21 +75,23 @@
     <div id="drawCard" class="draw-card">
       <div class="draw-header">
         <span id="drawCat" class="draw-cat"></span>
-        <span id="drawNum" class="draw-num"></span>
+        <div class="draw-header-right">
+          <button id="removeBtn" class="remove-x" title="Remove this card from the site forever">✕ Remove forever</button>
+          <span id="drawNum" class="draw-num"></span>
+        </div>
       </div>
       <div id="drawBody" class="draw-body"></div>
       <div class="draw-controls">
         <button id="anotherBtn" class="btn btn-primary">Draw Another</button>
         <button id="discardBtn" class="btn btn-warn">Discard</button>
-        <button id="removeBtn" class="btn btn-danger">Remove Forever</button>
         <button id="backBtn" class="btn btn-ghost">Back</button>
       </div>
     </div>
   </div>
 
   <!-- data: init must load first, then the part files -->
-  <script src="data/_init.js?v=10"></script>
-  <script src="data/manifest.js?v=10"></script>
-  <script src="app.js?v=10"></script>
+  <script src="data/_init.js?v=11"></script>
+  <script src="data/manifest.js?v=11"></script>
+  <script src="app.js?v=11"></script>
 </body>
 </html>

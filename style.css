@@ -112,7 +112,16 @@ body.on-landing .topbar{display:none}
 .draw-card.where .draw-header{background:var(--where)}
 .draw-card.hard .draw-header{background:var(--hard)}
 .draw-cat{font-size:22px;letter-spacing:.5px}
+.draw-header-right{display:flex;align-items:center;gap:12px}
 .draw-num{font-size:13px;opacity:.85;font-weight:700}
+.remove-x{
+  border:1px solid rgba(255,255,255,.6);background:rgba(0,0,0,.18);color:#fff;
+  font-size:12px;font-weight:800;letter-spacing:.3px;
+  padding:5px 10px;border-radius:999px;cursor:pointer;line-height:1;
+  transition:background .1s,transform .05s;
+}
+.remove-x:hover{background:rgba(0,0,0,.32)}
+.remove-x:active{transform:translateY(1px)}
 .draw-body{
   padding:22px 24px;overflow-y:auto;font-size:19px;line-height:1.55;flex:1;
 }
