@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  <title>Smart Ass — Who / What / Where / Hard Ass</title>
+  <link rel="stylesheet" href="style.css?v=10" />
+</head>
+<body class="on-landing">
+  <header class="topbar">
+    <h1>SMART <span class="ass">ASS</span> 🫏</h1>
+    <div class="topbar-actions">
+      <span id="poolStatus" class="pool-status"></span>
+      <button id="newGameBtn" class="btn btn-ghost">New Game</button>
+    </div>
+  </header>
+
+  <!-- START SCREEN -->
+  <section id="startScreen" class="start-screen">
+    <div class="hero">
+      <div class="hero-donkey">🫏</div>
+      <h1 class="hero-title">SMART <span class="ass">ASS</span></h1>
+      <p class="hero-tag">The know-it-all guessing game — hundreds of cards.</p>
+      <div class="hero-chips">
+        <span class="chip chip-who">WHO</span>
+        <span class="chip chip-what">WHAT</span>
+        <span class="chip chip-where">WHERE</span>
+        <span class="chip chip-hard">HARD ASS</span>
+      </div>
+      <button id="startBtn" type="button" class="btn-start">START GAME</button>
+      <p class="hero-foot" id="heroFoot"></p>
+    </div>
+  </section>
+
+  <!-- HOME: the 4 category cards -->
+  <main id="home" class="home hidden">
+    <button class="cat-card cat-who" data-cat="who">
+      <div class="cat-inner">
+        <div class="cat-title">WHO AM I?</div>
+        <div class="cat-sub">Real or fictional<br>living or dead<br>groups or individuals</div>
+        <div class="cat-donkey">🫏</div>
+      </div>
+    </button>
+
+    <button class="cat-card cat-what" data-cat="what">
+      <div class="cat-inner">
+        <div class="cat-title">WHAT AM I?</div>
+        <div class="cat-sub">Any <b>THING</b><br>you can think of!</div>
+        <div class="cat-donkey">🫏</div>
+      </div>
+    </button>
+
+    <button class="cat-card cat-where" data-cat="where">
+      <div class="cat-inner">
+        <div class="cat-title">WHERE AM I?</div>
+        <div class="cat-sub">Real or fictional<br>on this world<br>or out of it</div>
+        <div class="cat-donkey">🫏</div>
+      </div>
+    </button>
+
+    <button class="cat-card cat-hard" data-cat="hard">
+      <div class="cat-inner">
+        <div class="cat-title">HARD ASS</div>
+        <div class="cat-sub">Two tough questions.<br>Think fast.</div>
+        <div class="cat-donkey">🫏</div>
+      </div>
+    </button>
+  </main>
+
+  <!-- DRAW overlay -->
+  <div id="overlay" class="overlay hidden">
+    <div id="drawCard" class="draw-card">
+      <div class="draw-header">
+        <span id="drawCat" class="draw-cat"></span>
+        <span id="drawNum" class="draw-num"></span>
+      </div>
+      <div id="drawBody" class="draw-body"></div>
+      <div class="draw-controls">
+        <button id="anotherBtn" class="btn btn-primary">Draw Another</button>
+        <button id="discardBtn" class="btn btn-warn">Discard</button>
+        <button id="removeBtn" class="btn btn-danger">Remove Forever</button>
+        <button id="backBtn" class="btn btn-ghost">Back</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- data: init must load first, then the part files -->
+  <script src="data/_init.js?v=10"></script>
+  <script src="data/manifest.js?v=10"></script>
+  <script src="app.js?v=10"></script>
+</body>
+</html>
