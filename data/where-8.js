@@ -3,9 +3,9 @@ window.GAME.where.push(
     "I am a famous structure.",
     "I am a skyscraper.",
     "I stand in the Middle East.",
+    "A spectacular fountain show dances at my base each night.",
     "I am located in a glittering desert city.",
     "I soar more than 828 meters into the sky.",
-    "A spectacular fountain show dances at my base each night.",
     "I am currently the tallest building in the world.",
     "My home city of Dubai named me after a ruler of the UAE."
   ]},
@@ -25,8 +25,8 @@ window.GAME.where.push(
     "I am located in the United States.",
     "I am a suspension bridge spanning a strait.",
     "Thick fog often rolls in and swallows my towers.",
-    "I am painted a striking shade called International Orange.",
     "I connect a famous city to Marin County.",
+    "I am painted a striking shade called International Orange.",
     "I cross the entrance to San Francisco Bay."
   ]},
   { a:"Brooklyn Bridge", init:"B.B.", clues:[
@@ -35,8 +35,8 @@ window.GAME.where.push(
     "I am located in the United States.",
     "I opened in 1883 and was an engineering marvel of my day.",
     "I have a wooden pedestrian promenade above the traffic.",
-    "My Gothic stone arches and steel cables are instantly recognizable.",
     "I span the East River.",
+    "My Gothic stone arches and steel cables are instantly recognizable.",
     "I connect Manhattan to a famous borough of New York City."
   ]},
   { a:"Tower Bridge", init:"T.B.", clues:[
@@ -54,10 +54,10 @@ window.GAME.where.push(
     "I am a bridge.",
     "I am located in Australia.",
     "I opened in 1932 and carry trains, cars, and pedestrians.",
-    "I am a giant steel arch nicknamed the Coathanger.",
     "Brave visitors can climb to my summit on guided tours.",
-    "A famous sail-roofed opera house sits just beside me.",
-    "I span the sparkling waterway of a famous Australian city."
+    "I am a giant steel arch nicknamed the Coathanger.",
+    "I span the sparkling waterway of a famous Australian city.",
+    "A famous sail-roofed opera house sits just beside me."
   ]},
   { a:"Millau Viaduct", init:"M.V.", clues:[
     "I am a famous structure.",
@@ -75,8 +75,8 @@ window.GAME.where.push(
     "I stand in Russia.",
     "I was one of the tallest statues in the world when built.",
     "I raise a sword high above my head.",
-    "I commemorate a brutal World War II battle.",
     "I stand on Mamayev Kurgan hill.",
+    "I commemorate a brutal World War II battle.",
     "I tower over the city once called Stalingrad, now Volgograd."
   ]},
   { a:"Spring Temple Buddha", init:"S.T.B.", clues:[
@@ -85,8 +85,8 @@ window.GAME.where.push(
     "I am located in East Asia.",
     "I am one of the tallest statues in the world.",
     "My base alone is taller than many buildings.",
-    "I depict a serene religious teacher standing on a lotus.",
     "I rise from a hilly region in Henan province.",
+    "I depict a serene religious teacher standing on a lotus.",
     "I stand in China near thermal pools that lend me my name."
   ]},
   { a:"Crazy Horse Memorial", init:"C.H.M.", clues:[
@@ -95,9 +95,9 @@ window.GAME.where.push(
     "I am located in the United States.",
     "I have been under construction since 1948 and remain unfinished.",
     "When complete, I will dwarf the four presidents carved nearby.",
-    "I honor a famous Lakota war leader.",
+    "I sit in the Black Hills of South Dakota.",
     "I depict a Lakota warrior pointing forward from atop his steed.",
-    "I sit in the Black Hills of South Dakota."
+    "I honor a famous Lakota war leader."
   ]},
   { a:"London Eye", init:"L.E.", clues:[
     "I am a famous structure.",
@@ -106,8 +106,8 @@ window.GAME.where.push(
     "I opened to mark the new millennium in 2000.",
     "I turn slowly so riders can step on without stopping.",
     "My 32 sealed glass capsules each hold a small crowd.",
-    "I sit on the South Bank across from Parliament.",
-    "I give sweeping views over a famous British capital's skyline."
+    "I give sweeping views over a famous British capital's skyline.",
+    "I sit on the South Bank across from Parliament."
   ]},
   { a:"Trevi Fountain", init:"T.F.", clues:[
     "I am a famous monument.",
@@ -144,8 +144,8 @@ window.GAME.where.push(
     "I am a huge basilica.",
     "I am located in Spain.",
     "I have been under construction for over a century.",
-    "My towers look like dripping sandcastles or melting wax.",
     "I am still unfinished to this day.",
+    "My towers look like dripping sandcastles or melting wax.",
     "My architect was the visionary Antoni Gaudi.",
     "I am the iconic church of Barcelona."
   ]},
@@ -163,9 +163,9 @@ window.GAME.where.push(
     "I am a famous building.",
     "I am a royal residence.",
     "I am located in England.",
-    "Guards in tall bearskin hats stand watch outside me.",
     "A flag flies above me when the monarch is home.",
     "I have 775 rooms and a grand balcony.",
+    "Guards in tall bearskin hats stand watch outside me.",
     "Crowds gather to watch the Changing of the Guard at my gates.",
     "I am the London home of the British royal family."
   ]},
@@ -184,9 +184,9 @@ window.GAME.where.push(
     "I am one of the largest office buildings in the world.",
     "I am located in the United States.",
     "I have five concentric rings of corridors.",
-    "My shape gives me my name and five sides.",
     "I sit in Arlington, Virginia, near the capital.",
     "I was struck during the attacks of September 11, 2001.",
+    "My shape gives me my name and five sides.",
     "I am the headquarters of the U.S. Department of Defense."
   ]},
   { a:"Petronas Towers", init:"P.T.", clues:[
@@ -214,8 +214,8 @@ window.GAME.where.push(
     "I am an observation tower.",
     "I am located in the United States.",
     "I was built for the 1962 World's Fair.",
-    "My top looks like a flying saucer on legs.",
     "I have a rotating restaurant and glass floor near my peak.",
+    "My top looks like a flying saucer on legs.",
     "I appear in the skyline of a rainy Pacific Northwest city.",
     "I am the symbol of Seattle, Washington."
   ]},
@@ -235,9 +235,9 @@ window.GAME.where.push(
     "I am located in the United States.",
     "I originally spelled out a longer real-estate slogan ending in 'LAND'.",
     "I sit on Mount Lee above a famous city.",
-    "I spell out the name of the movie-making capital.",
     "I overlook the film studios of Los Angeles.",
-    "My letters spell out a district of LA tied to cinema."
+    "My letters spell out a district of LA tied to cinema.",
+    "I spell out the name of the movie-making capital."
   ]},
   { a:"Brandenburg Gate", init:"B.G.", clues:[
     "I am a famous monument.",
@@ -264,9 +264,9 @@ window.GAME.where.push(
     "I am a building shaped like a model of a molecule.",
     "I am located in Europe.",
     "I was built for the 1958 World's Fair.",
-    "My nine gleaming spheres are connected by tubes.",
     "I represent an iron crystal magnified 165 billion times.",
     "Escalators and elevators run through my metal balls.",
+    "My nine gleaming spheres are connected by tubes.",
     "I stand in Brussels, the capital of Belgium."
   ]},
   { a:"Hagia Sophia", init:"H.S.", clues:[
@@ -294,8 +294,8 @@ window.GAME.where.push(
     "I am a luxury resort and casino.",
     "I am located in Southeast Asia.",
     "I have three towers standing side by side.",
-    "A boat-shaped deck balances across my three rooftops.",
     "My infinity pool sits high in the sky for guests only.",
+    "A boat-shaped deck balances across my three rooftops.",
     "I overlook a famous bay with a Merlion statue nearby.",
     "I am the landmark of Singapore."
   ]},
@@ -304,9 +304,9 @@ window.GAME.where.push(
     "I am a luxury hotel.",
     "I am located in the Middle East.",
     "I stand on my own artificial island.",
-    "I am shaped like the billowing sail of a ship.",
-    "I am often called the world's only seven-star hotel.",
     "A helipad on my roof has hosted tennis matches.",
+    "I am often called the world's only seven-star hotel.",
+    "I am shaped like the billowing sail of a ship.",
     "I rise above the coast of Dubai."
   ]},
   { a:"Wembley Stadium", init:"W.S.", clues:[
@@ -314,10 +314,10 @@ window.GAME.where.push(
     "I am a sports stadium.",
     "I am located in England.",
     "I seat about 90,000 spectators.",
-    "A giant steel arch curves over my roof.",
     "I host cup finals and major concerts.",
-    "I am the home of English national football.",
-    "I stand in the suburbs of London."
+    "A giant steel arch curves over my roof.",
+    "I stand in the suburbs of London.",
+    "I am the home of English national football."
   ]},
   { a:"Maracana Stadium", init:"M.S.", clues:[
     "I am a famous structure.",
@@ -334,8 +334,8 @@ window.GAME.where.push(
     "I am a baseball stadium.",
     "I am located in the United States.",
     "The current me opened in 2009 beside my historic predecessor.",
-    "I am nicknamed the House that Ruth Built.",
     "Monument Park honors my team's legends behind the outfield.",
+    "I am nicknamed the House that Ruth Built.",
     "My pinstriped team has won 27 World Series titles.",
     "I stand in the Bronx in New York City."
   ]},
@@ -354,9 +354,9 @@ window.GAME.where.push(
     "I am a theme park.",
     "I am located in the United States.",
     "I opened my gates in 1955.",
+    "Walt himself oversaw my creation, my original park.",
     "A castle stands at the end of my Main Street.",
     "I am billed as the Happiest Place on Earth.",
-    "Walt himself oversaw my creation, my original park.",
     "I sit in Anaheim, California."
   ]},
   { a:"Walt Disney World", init:"W.D.W.", clues:[
@@ -365,8 +365,8 @@ window.GAME.where.push(
     "I am located in the United States.",
     "I opened in 1971, larger than my California sibling.",
     "A giant geodesic golf-ball sphere greets visitors at one park.",
-    "I include the Magic Kingdom, Epcot, and more.",
     "Cinderella Castle is one of my icons.",
+    "I include the Magic Kingdom, Epcot, and more.",
     "I sprawl across Orlando, Florida."
   ]},
   { a:"Universal Studios", init:"U.S.", clues:[
@@ -403,10 +403,10 @@ window.GAME.where.push(
     "I am a famous monument.",
     "I am a marble temple-like building.",
     "I am located in the United States.",
-    "I honor a beloved 16th president.",
+    "I anchor one end of the National Mall.",
     "A huge seated statue of him sits inside me.",
     "Martin Luther King Jr. gave a famous speech on my steps.",
-    "I anchor one end of the National Mall.",
+    "I honor a beloved 16th president.",
     "I stand in Washington, D.C."
   ]},
   { a:"Washington Monument", init:"W.M.", clues:[
@@ -415,8 +415,8 @@ window.GAME.where.push(
     "I am located in the United States.",
     "I was once the tallest structure in the world.",
     "My marble changes shade partway up where building paused.",
-    "I honor the first president of my nation.",
     "I stand on the National Mall near a long reflecting pool.",
+    "I honor the first president of my nation.",
     "I rise above the U.S. capital's National Mall."
   ]},
   { a:"The Louvre", init:"T.L.", clues:[
@@ -444,19 +444,19 @@ window.GAME.where.push(
     "I am a fairy-tale castle.",
     "I am located in Germany.",
     "I perch dramatically on a rugged Alpine hill.",
-    "I inspired the castle in Disney's logo and parks.",
-    "I was built by the eccentric King Ludwig II of Bavaria.",
     "I was never fully finished before my king died.",
+    "I was built by the eccentric King Ludwig II of Bavaria.",
+    "I inspired the castle in Disney's logo and parks.",
     "I overlook the Bavarian countryside near the Alps."
   ]},
   { a:"Willis Tower", init:"W.T.", clues:[
     "I am a famous structure.",
     "I am a skyscraper.",
     "I am located in the United States.",
-    "I was once known by the name Sears.",
     "I have a bundled-tube design of nine square towers.",
     "I was the tallest building in the world for nearly 25 years.",
     "My glass Skydeck ledges let visitors step out over the street.",
+    "I was once known by the name Sears.",
     "I rise above the skyline of Chicago."
   ]},
   { a:"One World Trade Center", init:"O.W.T.C.", clues:[
@@ -465,8 +465,8 @@ window.GAME.where.push(
     "I am located in the United States.",
     "I am the tallest building in the Western Hemisphere.",
     "My symbolic height is 1,776 feet.",
-    "I was built where the Twin Towers once stood.",
     "I am sometimes called the Freedom Tower.",
+    "I was built where the Twin Towers once stood.",
     "I rise over Lower Manhattan in New York City."
   ]}
 );

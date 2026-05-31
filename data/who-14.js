@@ -4,9 +4,9 @@ window.GAME.who.push(
     "I am a famous athlete.",
     "I play a sport with a ball and goals using my feet.",
     "I am from Argentina but became a legend in Europe.",
+    "I won a record number of Ballon d'Or awards.",
     "I spent most of my club career at Barcelona.",
     "I led my national team to win the 2022 World Cup.",
-    "I won a record number of Ballon d'Or awards.",
     "My nickname is 'La Pulga', the Flea."
   ]},
   { a:"Cristiano Ronaldo", init:"C.R.", clues:[
@@ -14,8 +14,8 @@ window.GAME.who.push(
     "I am a famous athlete.",
     "I play a sport with a ball and goals using my feet.",
     "I am from Portugal and famous for my athletic leaps.",
-    "I have played for Manchester United, Real Madrid, and Juventus.",
     "I later moved to play in Saudi Arabia for Al Nassr.",
+    "I have played for Manchester United, Real Madrid, and Juventus.",
     "I am one of the top goal scorers in football history.",
     "My personal brand uses the initials CR7."
   ]},
@@ -24,9 +24,9 @@ window.GAME.who.push(
     "I am a famous athlete.",
     "My sport is track and field.",
     "I am from Jamaica.",
+    "My victory pose is called the 'Lightning' celebration.",
     "I won eight Olympic gold medals.",
     "I hold world records in the 100m and 200m sprints.",
-    "My victory pose is called the 'Lightning' celebration.",
     "I am the fastest man ever timed."
   ]},
   { a:"Tom Brady", init:"T.B.", clues:[
@@ -34,8 +34,8 @@ window.GAME.who.push(
     "I am a famous athlete.",
     "I played an American sport with an oval ball.",
     "I played the quarterback position.",
-    "I spent most of my career with the New England Patriots.",
     "I later played for the Tampa Bay Buccaneers.",
+    "I spent most of my career with the New England Patriots.",
     "I won seven championship rings, more than any player.",
     "Fans nicknamed me 'The GOAT' of my sport."
   ]},
@@ -65,8 +65,8 @@ window.GAME.who.push(
     "My sport is played on a course with clubs and a small ball.",
     "I turned professional in 1996.",
     "I have won 15 major championships.",
-    "I have worn a red shirt on the final round of tournaments.",
     "I have won the Masters multiple times at Augusta.",
+    "I have worn a red shirt on the final round of tournaments.",
     "My first name shares its name with a big striped cat."
   ]},
   { a:"Roger Federer", init:"R.F.", clues:[
@@ -74,8 +74,8 @@ window.GAME.who.push(
     "I am a famous athlete.",
     "My sport uses a racket and a net.",
     "I am from Switzerland.",
-    "I won 20 Grand Slam singles titles.",
     "My elegant one-handed backhand was praised worldwide.",
+    "I won 20 Grand Slam singles titles.",
     "I am especially famous for my success at Wimbledon.",
     "Fans nicknamed me 'The Maestro'."
   ]},
@@ -114,8 +114,8 @@ window.GAME.who.push(
     "I am a famous athlete.",
     "I play a team sport with a ball and a hoop.",
     "I spent my entire 20-year career with one team.",
-    "I won five championships with the Los Angeles Lakers.",
     "I once scored 81 points in a single game.",
+    "I won five championships with the Los Angeles Lakers.",
     "My competitive attitude is called the 'Mamba Mentality'.",
     "My nickname was the 'Black Mamba'."
   ]},
@@ -124,20 +124,20 @@ window.GAME.who.push(
     "I am a famous athlete.",
     "My sport uses a racket and a net.",
     "I am from the United States.",
-    "I have won Wimbledon five times.",
     "I won Olympic gold in both singles and doubles.",
-    "My younger sibling is also a tennis legend.",
-    "My first name is also the name of a planet."
+    "I have won Wimbledon five times.",
+    "My first name is also the name of a planet.",
+    "My younger sibling is also a tennis legend."
   ]},
   { a:"Michael Phelps", init:"M.P.", clues:[
     "I am a real person.",
     "I am a famous athlete.",
     "My sport takes place in a pool.",
     "I am from the United States.",
+    "I am nicknamed the 'Baltimore Bullet'.",
     "I won a record eight golds at the 2008 Beijing Games.",
     "I won 23 Olympic gold medals.",
-    "I am the most decorated Olympian of all time.",
-    "I am nicknamed the 'Baltimore Bullet'."
+    "I am the most decorated Olympian of all time."
   ]},
   { a:"Simone Biles", init:"S.B.", clues:[
     "I am a real person.",
@@ -146,18 +146,18 @@ window.GAME.who.push(
     "I am from the United States.",
     "I am known for my incredible height on tumbling passes despite being short.",
     "I won multiple gold medals across several Olympic Games.",
-    "I am one of the most decorated gymnasts in history.",
-    "Several skills are named after me because no one else could do them."
+    "Several skills are named after me because no one else could do them.",
+    "I am one of the most decorated gymnasts in history."
   ]},
   { a:"Lewis Hamilton", init:"L.H.", clues:[
     "I am a real person.",
     "I am a famous athlete.",
     "My sport involves driving very fast cars.",
     "I am from Britain.",
+    "I am the first Black driver in my sport's top series.",
     "I raced for years with the Mercedes team.",
-    "I have won seven world drivers' championships.",
-    "I hold the record for most career race wins in Formula 1.",
-    "I am the first Black driver in my sport's top series."
+    "I won seven world drivers' championships.",
+    "I hold the record for most career race wins in Formula 1."
   ]},
   { a:"Michael Schumacher", init:"M.S.", clues:[
     "I am a real person.",
@@ -165,9 +165,9 @@ window.GAME.who.push(
     "My sport involves driving very fast cars.",
     "I am from Germany.",
     "I dominated Formula 1 in the early 2000s.",
+    "A skiing accident in 2013 ended my public life.",
     "I won five titles in a row with Ferrari.",
-    "I won seven world drivers' championships.",
-    "A skiing accident in 2013 ended my public life."
+    "I won seven world drivers' championships."
   ]},
   { a:"Wayne Gretzky", init:"W.G.", clues:[
     "I am a real person.",
@@ -245,8 +245,8 @@ window.GAME.who.push(
     "I play a team sport with a ball and a hoop.",
     "I am from the United States.",
     "I starred for the Boston Celtics in the 1980s.",
-    "My rivalry with Magic Johnson was legendary.",
     "I was nicknamed 'The Hick from French Lick'.",
+    "My rivalry with Magic Johnson was legendary.",
     "My last name is also a flying animal."
   ]},
   { a:"Neymar", init:"N.", clues:[
@@ -256,8 +256,8 @@ window.GAME.who.push(
     "I am from Brazil.",
     "My country jersey number is often 10.",
     "I am known for my flashy skills and frequent tumbles.",
-    "I starred at Barcelona alongside Messi and Suarez.",
-    "I joined Paris Saint-Germain for a world record fee."
+    "I joined Paris Saint-Germain for a world record fee.",
+    "I starred at Barcelona alongside Messi and Suarez."
   ]},
   { a:"Kylian Mbappe", init:"K.M.", clues:[
     "I am a real person.",
@@ -305,8 +305,8 @@ window.GAME.who.push(
     "My sport uses a racket and a net.",
     "I am from Russia.",
     "I was known for my loud grunting during matches.",
-    "I won Wimbledon as a teenager in 2004.",
     "I completed a career Grand Slam.",
+    "I won Wimbledon as a teenager in 2004.",
     "I later launched a candy brand called Sugarpova."
   ]},
   { a:"Cristiano's rival Andres Iniesta", init:"A.I.", clues:[
@@ -314,10 +314,10 @@ window.GAME.who.push(
     "I am a famous athlete.",
     "I play a sport with a ball and goals using my feet.",
     "I am from Spain.",
+    "My calm playmaking earned me the nickname 'The Illusionist'.",
     "I was a creative central midfielder for Barcelona.",
     "I formed a legendary midfield with Xavi.",
-    "I scored the winning goal in the 2010 World Cup final.",
-    "My calm playmaking earned me the nickname 'The Illusionist'."
+    "I scored the winning goal in the 2010 World Cup final."
   ]},
   { a:"Conor McGregor", init:"C.M.", clues:[
     "I am a real person.",
@@ -355,8 +355,8 @@ window.GAME.who.push(
     "I play a sport with a ball and goals using my feet.",
     "I am from Egypt.",
     "I am known for my left foot and curling finishes.",
-    "I became a star forward for Liverpool.",
     "I have won the Premier League Golden Boot multiple times.",
+    "I became a star forward for Liverpool.",
     "Fans nicknamed me the 'Egyptian King'."
   ]},
   { a:"Erling Haaland", init:"E.H.", clues:[
@@ -366,8 +366,8 @@ window.GAME.who.push(
     "I am from Norway.",
     "My father was also a professional footballer.",
     "I am a towering, prolific goal scorer.",
-    "I starred for Borussia Dortmund before joining Manchester City.",
-    "I broke the record for goals in a single Premier League season."
+    "I broke the record for goals in a single Premier League season.",
+    "I starred for Borussia Dortmund before joining Manchester City."
   ]},
   { a:"Kevin Durant", init:"K.D.", clues:[
     "I am a real person.",
@@ -406,8 +406,8 @@ window.GAME.who.push(
     "I am from Romania.",
     "I competed at the 1976 Montreal Olympics.",
     "I was only 14 years old at the time.",
-    "I scored the first perfect 10 in Olympic gymnastics history.",
-    "The scoreboard couldn't even display my perfect score."
+    "The scoreboard couldn't even display my perfect score.",
+    "I scored the first perfect 10 in Olympic gymnastics history."
   ]},
   { a:"Ayrton Senna", init:"A.S.", clues:[
     "I am a real person.",
@@ -425,8 +425,8 @@ window.GAME.who.push(
     "My sport involves driving very fast cars.",
     "I am from the Netherlands.",
     "My father Jos was also a Formula 1 driver.",
-    "I race for the Red Bull team.",
     "I became the youngest driver to win a Formula 1 race.",
+    "I race for the Red Bull team.",
     "I won multiple world championships in a row in the 2020s."
   ]},
   { a:"Manny Pacquiao", init:"M.P.", clues:[
@@ -444,10 +444,10 @@ window.GAME.who.push(
     "I am a famous athlete.",
     "My sport is track and field.",
     "I am an Indigenous Australian.",
+    "I won gold in the 400m at the 2000 Sydney Olympics.",
     "I carried both the Australian and Aboriginal flags.",
-    "I lit the cauldron at the 2000 Sydney Olympics.",
-    "I won gold in the 400m at those same Games.",
-    "My victory was a huge moment for reconciliation."
+    "My victory was a huge moment for reconciliation.",
+    "I lit the cauldron at the 2000 Sydney Olympics."
   ]},
   { a:"Jackie Robinson", init:"J.R.", clues:[
     "I am a real person.",
@@ -455,8 +455,8 @@ window.GAME.who.push(
     "My sport uses a bat, a diamond, and bases.",
     "I am from the United States.",
     "I played for the Brooklyn Dodgers.",
-    "I broke the color barrier in my sport in 1947.",
     "A day each year honors my legacy.",
+    "I broke the color barrier in my sport in 1947.",
     "My number 42 is retired across the entire league."
   ]},
   { a:"Lindsey Vonn", init:"L.V.", clues:[
@@ -465,17 +465,17 @@ window.GAME.who.push(
     "My sport takes place on snowy mountain slopes.",
     "I am from the United States.",
     "Injuries repeatedly interrupted my racing career.",
-    "I am one of the greatest alpine ski racers ever.",
     "I won four overall World Cup titles.",
-    "I won an Olympic gold in the downhill in 2010."
+    "I won an Olympic gold in the downhill in 2010.",
+    "I am one of the greatest alpine ski racers ever."
   ]},
   { a:"Eliud Kipchoge", init:"E.K.", clues:[
     "I am a real person.",
     "I am a famous athlete.",
     "My sport is long-distance running on roads.",
     "I am from Kenya.",
-    "I won Olympic marathon gold twice.",
     "My motto is 'No human is limited'.",
+    "I won Olympic marathon gold twice.",
     "I am considered the greatest marathon runner in history.",
     "I was the first person to run a marathon under two hours."
   ]}

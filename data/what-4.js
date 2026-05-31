@@ -3,9 +3,9 @@ window.GAME.what.push(
     "I am an animal.",
     "I am a bird.",
     "I live on the open plains of Africa.",
+    "Legend wrongly says I bury my head in the sand.",
     "I can run faster than 40 miles per hour.",
     "I lay the biggest eggs of any living bird.",
-    "Legend wrongly says I bury my head in the sand.",
     "Despite my huge wings, I cannot fly.",
     "I am the largest bird alive today."
   ]},
@@ -22,8 +22,8 @@ window.GAME.what.push(
   { a:"Woodpecker", init:"W.", clues:[
     "I am an animal.",
     "I am a bird that lives in forests.",
-    "I climb up and down tree trunks.",
     "I eat insects hidden under bark.",
+    "I climb up and down tree trunks.",
     "I have a strong, chisel-like beak.",
     "My skull is specially built to absorb shock.",
     "You often hear me before you see me.",
@@ -32,9 +32,9 @@ window.GAME.what.push(
   { a:"Toucan", init:"T.", clues:[
     "I am an animal.",
     "I am a colorful bird.",
-    "I live in the rainforests of Central and South America.",
-    "I eat mostly fruit.",
     "I nest in holes in trees.",
+    "I eat mostly fruit.",
+    "I live in the rainforests of Central and South America.",
     "My feathers are mostly black with a bright bib.",
     "I am a famous mascot for a fruity cereal.",
     "My enormous rainbow-colored beak is my trademark."
@@ -42,10 +42,10 @@ window.GAME.what.push(
   { a:"Raven", init:"R.", clues:[
     "I am an animal.",
     "I am a bird.",
-    "I am entirely glossy black.",
     "I am one of the smartest birds, able to use tools.",
     "I can mimic sounds, including human speech.",
     "I appear in myths as a trickster and an omen.",
+    "I am entirely glossy black.",
     "Edgar Allan Poe wrote a famous poem about me.",
     "I croak 'Nevermore,' larger and shaggier than a crow."
   ]},
@@ -53,11 +53,11 @@ window.GAME.what.push(
     "I am an animal.",
     "I am a water bird.",
     "I glide gracefully across lakes and ponds.",
-    "I am usually pure white with a long neck.",
     "A young one of me is called a cygnet.",
+    "I am usually pure white with a long neck.",
     "Two of me facing each other form a heart shape.",
-    "An 'ugly duckling' grows up to become me.",
-    "Tchaikovsky wrote a famous ballet named after my lake."
+    "Tchaikovsky wrote a famous ballet named after my lake.",
+    "An 'ugly duckling' grows up to become me."
   ]},
   { a:"Robin", init:"R.", clues:[
     "I am an animal.",
@@ -65,8 +65,8 @@ window.GAME.what.push(
     "I am common in gardens and parks.",
     "I am often seen hopping on lawns hunting worms.",
     "My cheerful song is a sign of spring.",
-    "I appear on many Christmas cards.",
     "Batman has a sidekick who shares my name.",
+    "I appear on many Christmas cards.",
     "My bright orange-red breast makes me easy to spot."
   ]},
   { a:"Vulture", init:"V.", clues:[
@@ -74,9 +74,9 @@ window.GAME.what.push(
     "I am a large bird of prey.",
     "I soar high in the sky on warm air currents.",
     "I have keen eyesight and a strong sense of smell.",
+    "I help clean the environment of disease.",
     "I am often shown circling over the desert.",
     "My head is often bald.",
-    "I help clean the environment of disease.",
     "I feed mainly on the carcasses of dead animals."
   ]},
   { a:"Salmon", init:"S.", clues:[
@@ -84,17 +84,17 @@ window.GAME.what.push(
     "I am a fish.",
     "I am born in freshwater rivers.",
     "I migrate out to the ocean to grow up.",
-    "Bears love to catch me in their paws.",
-    "My pink flesh is popular as food and in sushi.",
     "I return to the exact stream where I was born.",
-    "I swim upstream and leap up waterfalls to spawn."
+    "Bears love to catch me in their paws.",
+    "I swim upstream and leap up waterfalls to spawn.",
+    "My pink flesh is popular as food and in sushi."
   ]},
   { a:"Stingray", init:"S.", clues:[
     "I am an animal.",
     "I am a sea creature.",
     "I am a flat fish related to sharks.",
-    "I glide through the water like an underwater bird.",
     "I often bury myself in sand on the seafloor.",
+    "I glide through the water like an underwater bird.",
     "My mouth and gills are on my underside.",
     "Steve Irwin was tragically killed by one of me.",
     "My long whip-like tail carries a venomous barb."
@@ -102,11 +102,11 @@ window.GAME.what.push(
   { a:"Eel", init:"E.", clues:[
     "I am an animal.",
     "I am a fish.",
-    "I have a long, snake-like body.",
     "I live in both rivers and the sea.",
     "I can wriggle across wet ground for short distances.",
-    "I am served as 'unagi' in Japanese restaurants.",
     "Some of my kind can generate electric shocks.",
+    "I am served as 'unagi' in Japanese restaurants.",
+    "I have a long, snake-like body.",
     "I look like a slippery snake but I am truly a fish."
   ]},
   { a:"Swordfish", init:"S.", clues:[
@@ -122,9 +122,9 @@ window.GAME.what.push(
   { a:"Piranha", init:"P.", clues:[
     "I am an animal.",
     "I am a fish.",
-    "I live in the rivers of South America.",
     "I usually travel in large groups.",
     "My reputation is far scarier than reality.",
+    "I live in the rivers of South America.",
     "I have a powerful bite and a taste for meat.",
     "Movies show me stripping prey to the bone in seconds.",
     "My rows of razor-sharp triangular teeth are famous."
@@ -143,10 +143,10 @@ window.GAME.what.push(
     "I am an animal.",
     "I am a sea creature.",
     "I live on the ocean floor.",
-    "I have a hard shell and many legs.",
     "I molt my shell as I grow larger.",
-    "I turn bright red when I am cooked.",
+    "I have a hard shell and many legs.",
     "I am a pricey treat dipped in melted butter.",
+    "I turn bright red when I am cooked.",
     "My two large front claws are my most famous feature."
   ]},
   { a:"Squid", init:"S.", clues:[
@@ -164,8 +164,8 @@ window.GAME.what.push(
     "I am a sea creature.",
     "I have a hard outer shell.",
     "I have ten legs in total.",
-    "My two front claws can pinch.",
     "Some of my kind borrow empty snail shells for homes.",
+    "My two front claws can pinch.",
     "Sebastian from 'The Little Mermaid' is one of me.",
     "I am famous for walking sideways along the beach."
   ]},
@@ -184,8 +184,8 @@ window.GAME.what.push(
     "I am a furry mammal that lives in the ocean.",
     "I love to eat clams, urchins, and shellfish.",
     "I have the densest fur of any animal.",
-    "I float on my back at the surface of the water.",
     "I wrap myself in kelp to anchor in place.",
+    "I float on my back at the surface of the water.",
     "I hold hands with others so I do not drift apart while sleeping.",
     "I crack shells open with a rock balanced on my belly."
   ]},
@@ -236,18 +236,18 @@ window.GAME.what.push(
     "I have no venom.",
     "I am one of the longest snakes in the world.",
     "I ambush prey and swallow it whole.",
-    "A programming language shares my name.",
-    "I squeeze and constrict my prey to subdue it."
+    "I squeeze and constrict my prey to subdue it.",
+    "A programming language shares my name."
   ]},
   { a:"Newt", init:"N.", clues:[
     "I am an animal.",
     "I am an amphibian.",
     "I am small with a long tail.",
     "I live both in water and on land.",
-    "I am a close relative of the salamander.",
     "Some of my kind have bright warning colors and toxic skin.",
-    "A character in Harry Potter shares my name.",
-    "I can regrow lost limbs and even parts of my heart."
+    "I can regrow lost limbs and even parts of my heart.",
+    "I am a close relative of the salamander.",
+    "A character in Harry Potter shares my name."
   ]},
   { a:"Toad", init:"T.", clues:[
     "I am an animal.",
@@ -255,8 +255,8 @@ window.GAME.what.push(
     "I hop and live near damp places.",
     "I lay my eggs in water.",
     "I have glands that release a bitter toxin.",
-    "I am the warty, land-loving relative of the frog.",
     "Fairy tales say a kiss can turn me into a prince.",
+    "I am the warty, land-loving relative of the frog.",
     "My skin is dry, bumpy, and warty compared to my cousin."
   ]},
   { a:"Axolotl", init:"A.", clues:[
@@ -264,8 +264,8 @@ window.GAME.what.push(
     "I am an amphibian.",
     "I live in water my whole life.",
     "I come from lakes near Mexico City.",
-    "I never fully grow up, keeping my baby form forever.",
     "I can regrow lost limbs, organs, and even brain parts.",
+    "I never fully grow up, keeping my baby form forever.",
     "I became a popular creature in the game Minecraft.",
     "Frilly pink gills stick out like feathers from my head."
   ]},
@@ -295,9 +295,9 @@ window.GAME.what.push(
     "I am often found near ponds and streams.",
     "I have a long, slender body.",
     "I am one of the fastest-flying insects.",
-    "I have two pairs of large, see-through wings.",
     "I am a fierce hunter of mosquitoes and gnats in midair.",
-    "I can hover and even fly backwards."
+    "I can hover and even fly backwards.",
+    "I have two pairs of large, see-through wings."
   ]},
   { a:"Ant", init:"A.", clues:[
     "I am an animal.",
@@ -312,21 +312,21 @@ window.GAME.what.push(
   { a:"Bee", init:"B.", clues:[
     "I am an animal.",
     "I am an insect that can fly.",
-    "I have black and yellow stripes.",
     "I buzz from flower to flower.",
     "I help plants by carrying pollen.",
     "I live in a hive ruled by a queen.",
     "I do a special dance to tell others where flowers are.",
+    "I have black and yellow stripes.",
     "I make honey and can sting to defend my colony."
   ]},
   { a:"Mosquito", init:"M.", clues:[
     "I am an animal.",
     "I am an insect that can fly.",
     "I am most active at dusk and night.",
-    "My high-pitched whine annoys people trying to sleep.",
     "I am often called the deadliest animal to humans.",
-    "I can spread diseases like malaria.",
     "Only my females bite.",
+    "I can spread diseases like malaria.",
+    "My high-pitched whine annoys people trying to sleep.",
     "I leave an itchy bump after sucking your blood."
   ]},
   { a:"Cricket", init:"C.", clues:[
@@ -343,19 +343,19 @@ window.GAME.what.push(
     "I am an animal.",
     "I am an insect.",
     "I am the most diverse group of animals on Earth.",
-    "I have a hard shell covering my wings.",
-    "My hard wing-covers snap open to reveal flying wings.",
     "One of my kind rolls balls of dung.",
     "The ancient Egyptians considered the scarab kind of me sacred.",
+    "I have a hard shell covering my wings.",
+    "My hard wing-covers snap open to reveal flying wings.",
     "A famous Volkswagen car is named after me."
   ]},
   { a:"Wasp", init:"W.", clues:[
     "I am an animal.",
     "I am an insect that can fly.",
-    "I have black and yellow markings.",
     "I have a narrow waist between my body sections.",
     "I am known for crashing outdoor meals.",
     "I build paper nests under roofs and in trees.",
+    "I have black and yellow markings.",
     "Unlike my honey-making cousin, I can sting many times.",
     "My painful sting makes me feared at summer picnics."
   ]},
@@ -382,10 +382,10 @@ window.GAME.what.push(
   { a:"Centipede", init:"C.", clues:[
     "I am an animal.",
     "I am a small creature with many legs.",
-    "I have a long, flattened, segmented body.",
     "I hide in damp, dark places under rocks and logs.",
     "I move very quickly when disturbed.",
     "I am a predator that hunts other small bugs.",
+    "I have a long, flattened, segmented body.",
     "My front legs are modified into venomous fangs.",
     "My name suggests I have a hundred legs."
   ]},
@@ -394,9 +394,9 @@ window.GAME.what.push(
     "I am a small creature with no legs.",
     "I have a long, soft, segmented body.",
     "I live in the soil underground.",
+    "Gardeners value me for enriching the dirt.",
     "Birds love to pull me out of the ground.",
     "Fishermen use me as bait on hooks.",
-    "Gardeners value me for enriching the dirt.",
     "I tunnel through earth and surface after the rain."
   ]},
   { a:"Tick", init:"T.", clues:[
@@ -404,17 +404,17 @@ window.GAME.what.push(
     "I am a tiny creature with eight legs.",
     "I am related to spiders and mites.",
     "I lurk in tall grass and woods.",
+    "I swell up as I feed.",
     "I latch onto passing animals and people.",
     "I can spread Lyme disease.",
-    "I swell up as I feed.",
     "I bury my head in skin to suck blood for days."
   ]},
   { a:"Albatross", init:"A.", clues:[
     "I am an animal.",
     "I am a bird.",
     "I spend most of my life out over the open ocean.",
-    "I can glide for hours without flapping.",
     "Sailors once saw me as a sign of good or bad luck.",
+    "I can glide for hours without flapping.",
     "In golf, my name means three under par on a hole.",
     "A poem hangs my dead body around a sailor's neck as a burden.",
     "I have the longest wingspan of any living bird."
@@ -432,9 +432,9 @@ window.GAME.what.push(
   { a:"Hornet", init:"H.", clues:[
     "I am an animal.",
     "I am an insect that can fly.",
-    "I am a large kind of wasp.",
     "I build big papery nests.",
     "I can deliver a very painful sting.",
+    "I am a large kind of wasp.",
     "I am bigger and more feared than ordinary wasps.",
     "My huge stinging nest sends people running.",
     "A giant 'murder' variety of me made scary headlines."
@@ -445,8 +445,8 @@ window.GAME.what.push(
     "I live in streams, rivers, and ponds.",
     "I have a hard shell and small front claws.",
     "I scuttle backwards along the bottom of the creek.",
-    "I look like a tiny lobster.",
     "I am boiled in spicy pots in Cajun cooking.",
+    "I look like a tiny lobster.",
     "People also call me a crawdad or mudbug."
   ]},
   { a:"Mantis Shrimp", init:"M.S.", clues:[

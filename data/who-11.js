@@ -4,8 +4,8 @@ window.GAME.who.push(
     "I star in one of the best-selling manga series ever made.",
     "I am a pirate with a very big dream.",
     "I am the captain of a small but famous crew.",
-    "I wear a signature straw hat given to me by a mentor.",
     "My full name begins with Monkey D.",
+    "I wear a signature straw hat given to me by a mentor.",
     "My goal is to find a legendary treasure and become King of the Pirates.",
     "I ate a Devil Fruit that turned my body to stretchy rubber, in 'One Piece'."
   ]},
@@ -15,8 +15,8 @@ window.GAME.who.push(
     "I am a swordsman with a terrible sense of direction.",
     "I serve as the right-hand fighter of my crew's captain.",
     "I have a distinctive scar over one eye later in the story.",
-    "My green hair and bushido code make me instantly recognizable.",
     "I dream of becoming the greatest swordsman in the world.",
+    "My green hair and bushido code make me instantly recognizable.",
     "I fight using a unique three-sword style, holding one blade in my mouth, aboard the Straw Hat crew's ship in 'One Piece'."
   ]},
   { a:"Nami", init:"N.", clues:[
@@ -24,9 +24,9 @@ window.GAME.who.push(
     "I appear in a famous pirate anime.",
     "I joined a crew of seafaring adventurers.",
     "I have a deep love of money and tangerines.",
-    "I am the navigator who charts our course across the seas.",
     "I once worked under a fish-man pirate to free my village.",
     "I dream of drawing a complete map of the entire world.",
+    "I am the navigator who charts our course across the seas.",
     "I have orange hair, wield the weather-controlling Clima-Tact, and sail with Luffy in 'One Piece'."
   ]},
   { a:"Light Yagami", init:"L.Y.", clues:[
@@ -44,8 +44,8 @@ window.GAME.who.push(
     "I am not human at all.",
     "I come from a grim realm of bored immortal beings.",
     "I dropped something into the human world out of pure boredom.",
-    "I have an unending craving for apples.",
     "I follow a teenage boy and watch his deadly games unfold.",
+    "I have an unending craving for apples.",
     "I am a Shinigami, a god of death with a ghoulish grin.",
     "I observe Light Yagami and the cursed notebook in 'Death Note'."
   ]},
@@ -64,8 +64,8 @@ window.GAME.who.push(
     "I appear in a dark, intense manga and anime.",
     "I grew up inside enormous protective walls.",
     "I watched a monster devour my mother as a child.",
-    "I swore to destroy the giant creatures that ravage humanity.",
     "I joined an elite corps that ventures beyond the walls.",
+    "I swore to destroy the giant creatures that ravage humanity.",
     "I inherit a power tied to ancient titans.",
     "I can transform into one of the very monsters I hunt, in 'Attack on Titan'."
   ]},
@@ -73,18 +73,18 @@ window.GAME.who.push(
     "I am a fictional character.",
     "I appear in a dark action manga and anime.",
     "I live in a world surrounded by towering walls.",
-    "I am fiercely devoted to my adoptive family member.",
-    "I wear a red scarf that holds great sentimental meaning.",
     "I carry rare elite-soldier combat instincts in my bloodline.",
+    "I am fiercely devoted to my adoptive family member.",
     "I am considered the most gifted soldier of my generation.",
+    "I wear a red scarf that holds great sentimental meaning.",
     "I zip through the air using gas-powered gear to protect Eren in 'Attack on Titan'."
   ]},
   { a:"Levi", init:"L.", clues:[
     "I am a fictional character.",
     "I appear in a grim action manga and anime.",
-    "I am short but feared across the battlefield.",
-    "I am obsessed with cleanliness and order.",
     "I came from a harsh underground city before rising up.",
+    "I am obsessed with cleanliness and order.",
+    "I am short but feared across the battlefield.",
     "I lead an elite special operations squad.",
     "I am called humanity's strongest soldier.",
     "I slice through titan napes with breathtaking speed in the Survey Corps in 'Attack on Titan'."
@@ -93,9 +93,9 @@ window.GAME.who.push(
     "I am a fictional character.",
     "I appear in a hugely popular manga and anime.",
     "I come from a large mountain family of charcoal makers.",
+    "I have an extraordinary sense of smell.",
     "I returned home to find my family slaughtered.",
     "My younger sister survived but was transformed into a monster.",
-    "I have an extraordinary sense of smell.",
     "I wear a hanafuda earring and a checkered haori.",
     "I am a demon slayer using water and sun breathing to protect my sister Nezuko in 'Demon Slayer'."
   ]},
@@ -104,9 +104,9 @@ window.GAME.who.push(
     "I appear in a wildly popular manga and anime.",
     "I was once an ordinary human girl in a large family.",
     "I was attacked and changed into a creature of the night.",
-    "I keep a piece of bamboo clamped in my mouth.",
     "Unlike others of my kind, I refuse to harm people.",
     "I can shrink to a tiny size to be carried in a box.",
+    "I keep a piece of bamboo clamped in my mouth.",
     "My brother Tanjiro carries me as he hunts demons in 'Demon Slayer'."
   ]},
   { a:"Itadori Yuji", init:"I.Y.", clues:[
@@ -114,17 +114,17 @@ window.GAME.who.push(
     "I appear in a modern dark fantasy manga and anime.",
     "I am a remarkably athletic high schooler.",
     "I joined a secret society that battles supernatural threats.",
+    "I train as a sorcerer at a hidden Tokyo school.",
     "I swallowed a cursed object to save my friends.",
     "A powerful ancient spirit now shares my body.",
-    "I train as a sorcerer at a hidden Tokyo school.",
     "I host the King of Curses, Sukuna, in 'Jujutsu Kaisen'."
   ]},
   { a:"Gojo Satoru", init:"G.S.", clues:[
     "I am a fictional character.",
     "I appear in a popular dark fantasy manga and anime.",
     "I am a teacher at a secret school for special students.",
-    "I cover my eyes with a blindfold or dark glasses.",
     "I have striking white hair and bright blue eyes.",
+    "I cover my eyes with a blindfold or dark glasses.",
     "I am widely considered the strongest of my kind.",
     "I wield a rare technique involving limitless infinity.",
     "My signature moves are Blue, Red, and Hollow Purple, in 'Jujutsu Kaisen'."
@@ -135,16 +135,16 @@ window.GAME.who.push(
     "I grew up in a world where most people have special powers.",
     "I was born without any abilities, which once crushed my dream.",
     "I idolize the greatest hero of my era.",
-    "That hero chose me and passed his power down to me.",
     "I attend a famous academy training future heroes.",
+    "That hero chose me and passed his power down to me.",
     "My borrowed power is One For All; my real name is Izuku Midoriya, in 'My Hero Academia'."
   ]},
   { a:"Bakugo Katsuki", init:"B.K.", clues:[
     "I am a fictional character.",
     "I appear in a superhero manga and anime.",
     "I am a hot-tempered and fiercely competitive student.",
-    "I have looked down on a childhood classmate for years.",
     "I attend an elite school for aspiring heroes.",
+    "I have looked down on a childhood classmate for years.",
     "I am loud, ambitious, and obsessed with being number one.",
     "My power lets me create explosions from my sweat.",
     "My hero name is Dynamight, and I am Deku's rival in 'My Hero Academia'."
@@ -153,18 +153,18 @@ window.GAME.who.push(
     "I am a fictional character.",
     "I appear in a superhero manga and anime.",
     "I am the most beloved hero of my generation.",
-    "My catchphrase reassures people that I have arrived.",
-    "I have a muscular form and a frail, true form I hide.",
     "I was badly wounded in a battle long ago.",
+    "I have a muscular form and a frail, true form I hide.",
     "I chose a quirkless boy to be my successor.",
+    "My catchphrase reassures people that I have arrived.",
     "I am the Symbol of Peace who once wielded One For All and now mentor Deku in 'My Hero Academia'."
   ]},
   { a:"Sasuke Uchiha", init:"S.U.", clues:[
     "I am a fictional character.",
     "I appear in a blockbuster ninja manga and anime.",
     "I come from a once-proud clan that was wiped out.",
-    "I am the rival and friend of the series' loud hero.",
     "I am driven by a desire for revenge against my own brother.",
+    "I am the rival and friend of the series' loud hero.",
     "I possess special eyes inherited from my bloodline.",
     "My eyes can copy techniques and cast powerful illusions.",
     "I left my village to seek power from a snake-like villain, hunting my brother Itachi in 'Naruto'."
@@ -172,8 +172,8 @@ window.GAME.who.push(
   { a:"Kakashi Hatake", init:"K.H.", clues:[
     "I am a fictional character.",
     "I appear in a famous ninja manga and anime.",
-    "I am a teacher leading a squad of young ninja.",
     "I always read a cheeky novel and arrive late.",
+    "I am a teacher leading a squad of young ninja.",
     "I cover most of my face with a mask.",
     "I hide one of my eyes under a slanted headband.",
     "That hidden eye holds a transplanted copying technique.",
@@ -184,17 +184,17 @@ window.GAME.who.push(
     "I appear in a famous ninja manga and anime.",
     "I started out as a member of a squad of three genin.",
     "I had a crush on a brooding teammate for years.",
-    "I have pink hair and a large forehead I was once teased about.",
     "I trained under a legendary slug-summoning sannin.",
     "I became a master medical ninja and healer.",
+    "I have pink hair and a large forehead I was once teased about.",
     "I shatter the ground with chakra-enhanced strength as the third member of Team 7 in 'Naruto'."
   ]},
   { a:"Ichigo Kurosaki", init:"I.K.", clues:[
     "I am a fictional character.",
     "I appear in a popular supernatural manga and anime.",
     "I am a teenager who can see ghosts.",
-    "I have unusual bright orange hair that gets me in fights.",
     "I gained spiritual powers to protect my family.",
+    "I have unusual bright orange hair that gets me in fights.",
     "I take on the duties of a death-guiding warrior.",
     "I wield an enormous blade to battle evil spirits.",
     "I fight Hollows as a Soul Reaper with my zanpakuto Zangetsu in 'Bleach'."
@@ -202,8 +202,8 @@ window.GAME.who.push(
   { a:"Spike Spiegel", init:"S.S.", clues:[
     "I am a fictional character.",
     "I appear in a classic sci-fi anime.",
-    "I drift through space in a ragtag crew of bounty hunters.",
     "I am laid-back, lanky, and love a good cigarette.",
+    "I drift through space in a ragtag crew of bounty hunters.",
     "I have a mysterious past tied to a criminal syndicate.",
     "I practice a fluid martial art and dodge bullets with ease.",
     "I pilot a ship called the Swordfish II.",
@@ -223,9 +223,9 @@ window.GAME.who.push(
     "I am a fictional character.",
     "I appear in an adventure manga and anime.",
     "I grew up on Whale Island raised by my aunt.",
+    "I have an incredible sense of smell and superhuman athleticism.",
     "I have spiky green-tipped black hair and boundless optimism.",
     "I set out to find the father who abandoned me.",
-    "I have an incredible sense of smell and superhuman athleticism.",
     "I passed a deadly exam to earn a special license.",
     "I am a Hunter wielding Nen and a fishing-rod weapon, searching for Ging in 'Hunter x Hunter'."
   ]},
@@ -233,20 +233,20 @@ window.GAME.who.push(
     "I am a fictional character.",
     "I appear in an adventure manga and anime.",
     "I was raised in a notorious family of assassins.",
-    "I have silver-white hair and a love of sweets.",
-    "I became the loyal best friend of a cheerful green-haired boy.",
     "I am incredibly fast and skilled at killing despite my age.",
     "I left my deadly family to live my own life.",
+    "I have silver-white hair and a love of sweets.",
+    "I became the loyal best friend of a cheerful green-haired boy.",
     "I can channel electricity through my body and travel with Gon in 'Hunter x Hunter'."
   ]},
   { a:"Saitama", init:"S.", clues:[
     "I am a fictional character.",
     "I appear in a comedic superhero manga and anime.",
     "I became a hero just for fun as a hobby.",
+    "I am bored because no enemy can challenge me.",
+    "I trained with 100 push-ups, sit-ups, squats, and a run every day.",
     "I am completely bald, which I am a bit sad about.",
     "I wear a plain yellow jumpsuit and a white cape.",
-    "I trained with 100 push-ups, sit-ups, squats, and a run every day.",
-    "I am bored because no enemy can challenge me.",
     "I defeat every foe with a single strike as the title hero of 'One-Punch Man'."
   ]},
   { a:"Asta", init:"A.", clues:[
@@ -273,9 +273,9 @@ window.GAME.who.push(
     "I am a fictional character.",
     "I appear in a feudal-era fantasy manga and anime.",
     "I am a half-demon torn between two worlds.",
-    "I have long silver hair and dog-like ears on my head.",
     "I was pinned to a tree for fifty years before being freed.",
     "A girl from modern times travels back to join me.",
+    "I have long silver hair and dog-like ears on my head.",
     "A magic beaded necklace lets her subdue me with a word.",
     "I wield a sword forged from my father's fang and hunt Shikon Jewel shards in a series named after me."
   ]},
@@ -285,8 +285,8 @@ window.GAME.who.push(
     "I am a clumsy, crybaby schoolgirl by day.",
     "My civilian name is Usagi Tsukino.",
     "I am guided by a talking black cat named Luna.",
-    "I wear a nautical-collared schoolgirl outfit when I transform.",
     "I have long blonde hair in twin buns and ponytails.",
+    "I wear a nautical-collared schoolgirl outfit when I transform.",
     "I lead a team of planetary guardians and fight evil by lunar light in the name of love."
   ]},
   { a:"Lelouch Lamperouge", init:"L.L.", clues:[
@@ -324,17 +324,17 @@ window.GAME.who.push(
     "I appear in a samurai-era manga and anime.",
     "I am a wandering swordsman in early modern Japan.",
     "I speak humbly and call myself by an old-fashioned pronoun.",
-    "I have long red hair and a cross-shaped scar on my cheek.",
     "I once was a feared assassin during a great revolution.",
     "I now vow never to kill again to atone for my past.",
+    "I have long red hair and a cross-shaped scar on my cheek.",
     "I carry a reverse-blade sword to spare my enemies."
   ]},
   { a:"Alphonse Elric", init:"A.E.", clues:[
     "I am a fictional character.",
     "I appear in a beloved alchemy manga and anime.",
     "I lost my body in a forbidden experiment as a boy.",
-    "I am gentle and kind despite my fearsome appearance.",
     "I have a soft spot for stray cats.",
+    "I am gentle and kind despite my fearsome appearance.",
     "My soul is bound to a hollow object by my brother.",
     "I tower over people as a massive suit of empty armor.",
     "I journey to restore our bodies with my older brother Edward in 'Fullmetal Alchemist'."
@@ -353,17 +353,17 @@ window.GAME.who.push(
     "I am a fictional character.",
     "I appear in a quirky supernatural manga and anime.",
     "I am a shy, expressionless middle schooler.",
-    "My real name is Shigeo Kageyama, but everyone calls me by a short nickname.",
-    "I work part-time for a phony spirit medium as his assistant.",
     "I try hard to live a normal life and impress a girl.",
+    "I work part-time for a phony spirit medium as his assistant.",
     "I bottle up my emotions to keep my powers in check.",
-    "When my feelings hit 100 percent, my immense esper powers explode and bend objects with my mind."
+    "When my feelings hit 100 percent, my immense esper powers explode and bend objects with my mind.",
+    "My real name is Shigeo Kageyama, but everyone calls me by a short nickname."
   ]},
   { a:"Thorfinn", init:"T.", clues:[
     "I am a fictional character.",
     "I appear in a historical manga and anime.",
-    "I am the son of a legendary warrior from the far north.",
     "I belong to a seafaring raiding culture of the medieval era.",
+    "I am the son of a legendary warrior from the far north.",
     "I watched my father die at the hands of a mercenary band.",
     "I joined that very band to seek my revenge.",
     "I am a skilled fighter wielding two daggers.",
@@ -375,18 +375,18 @@ window.GAME.who.push(
     "I am a teenage genius obsessed with discovery.",
     "I have distinctive green-and-white spiky hair.",
     "I awoke after all humanity was turned to stone for millennia.",
-    "My catchphrase celebrates how exhilarating science is.",
     "I aim to rebuild civilization from scratch.",
+    "My catchphrase celebrates how exhilarating science is.",
     "I recreate everything from gunpowder to medicine as the brain of 'Dr. Stone'."
   ]},
   { a:"Anya Forger", init:"A.F.", clues:[
     "I am a fictional character.",
     "I appear in a heartwarming comedy manga and anime.",
     "I am an adorable young girl adopted into a fake family.",
-    "I have pink hair with little horn-shaped tufts.",
-    "I attend a prestigious elite school for a secret mission.",
     "My telepathy comes from a mysterious experiment.",
     "I can secretly read the thoughts of those around me.",
+    "I attend a prestigious elite school for a secret mission.",
+    "I have pink hair with little horn-shaped tufts.",
     "I keep my spy dad and assassin mom's secrets to myself as the daughter in 'Spy x Family'."
   ]},
   { a:"Loid Forger", init:"L.F.", clues:[
@@ -394,17 +394,17 @@ window.GAME.who.push(
     "I appear in a comedy-spy manga and anime.",
     "I am a master of disguise and deception.",
     "I am calm, brilliant, and always thinking ten steps ahead.",
-    "I built a fake family to carry out a covert assignment.",
     "My codename references a flower-like thorn.",
     "I have no idea my wife is an assassin or my daughter a telepath.",
+    "I built a fake family to carry out a covert assignment.",
     "I am the spy codenamed Twilight, the father in 'Spy x Family'."
   ]},
   { a:"Power", init:"P.", clues:[
     "I am a fictional character.",
     "I appear in a bloody modern manga and anime.",
     "I am a chaotic, selfish, and boastful fighter.",
-    "I have a pair of small horns poking from my blonde hair.",
     "I have an odd attachment to my pet cat.",
+    "I have a pair of small horns poking from my blonde hair.",
     "I am actually a fiend, a demon in a human body.",
     "I can control and shape blood as a weapon.",
     "I am the Blood Fiend who teams up with a chainsaw-wielding boy in 'Chainsaw Man'."
@@ -434,17 +434,17 @@ window.GAME.who.push(
     "I appear in an isekai manga and anime.",
     "I was once an ordinary office worker who was stabbed and died.",
     "I was reincarnated into a fantasy world in a strange new form.",
-    "I began my new life as a humble blue slime.",
     "I can absorb and mimic the abilities of others.",
     "I befriended a sealed storm dragon underground.",
+    "I began my new life as a humble blue slime.",
     "I founded and rule a nation of monsters in 'That Time I Got Reincarnated as a Slime'."
   ]},
   { a:"Subaru Natsuki", init:"S.N.", clues:[
     "I am a fictional character.",
     "I appear in a dark isekai manga and anime.",
     "I was suddenly transported to a fantasy world from my normal life.",
-    "I fell for a silver-haired half-elf girl I met early on.",
     "I have no special combat powers of my own.",
+    "I fell for a silver-haired half-elf girl I met early on.",
     "I suffer and die over and over again.",
     "Whenever I die, I return to an earlier point in time.",
     "My power is called Return by Death, and I star in 'Re:Zero'."
@@ -465,16 +465,16 @@ window.GAME.who.push(
     "I belong to a legendary group of powerful knights.",
     "I am meek, gentle, and humble during the night.",
     "But my power and arrogance swell as the sun rises.",
-    "At high noon I reach my absolute, unstoppable peak.",
     "I represent the sin of pride.",
+    "At high noon I reach my absolute, unstoppable peak.",
     "My power is literally called Sunshine, and I am one of 'The Seven Deadly Sins'."
   ]},
   { a:"Meliodas", init:"M.", clues:[
     "I am a fictional character.",
     "I appear in a fantasy manga and anime.",
     "I look like a harmless young boy but I am far older.",
-    "I run a tavern and lead a band of legendary knights.",
     "I am cursed and connected to a demon clan.",
+    "I run a tavern and lead a band of legendary knights.",
     "I wield a broken sword for much of my journey.",
     "I can reflect attacks back with my power Full Counter.",
     "I am the Dragon's Sin of wrath and captain of 'The Seven Deadly Sins'."
@@ -493,8 +493,8 @@ window.GAME.who.push(
     "I am a fictional character.",
     "I appear in a supernatural manga and anime.",
     "I am a minor deity with almost no worshippers.",
-    "I take odd jobs for just five yen at a time.",
     "I dream of one day having a grand shrine of my own.",
+    "I take odd jobs for just five yen at a time.",
     "I wear a tracksuit and a scarf.",
     "I am partnered with a weapon spirit who takes human form.",
     "I have a dark past as a god of calamity, the stray god of 'Noragami'."

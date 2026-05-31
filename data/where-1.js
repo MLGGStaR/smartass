@@ -3,9 +3,9 @@ window.GAME.where.push(
     "I am a country.",
     "I am in Western Europe.",
     "I have coastlines on both the Atlantic and the Mediterranean.",
-    "My people are famous for their wine and cheese.",
-    "My national motto is Liberty, Equality, Fraternity.",
     "I am the most-visited tourist destination on Earth.",
+    "My national motto is Liberty, Equality, Fraternity.",
+    "My people are famous for their wine and cheese.",
     "My capital is sometimes called the City of Light.",
     "A famous iron tower stands in my capital."
   ]},
@@ -14,9 +14,9 @@ window.GAME.where.push(
     "I am in East Asia.",
     "I am an island nation.",
     "I am made up of more than six thousand islands.",
+    "A snow-capped volcano named Fuji is one of my symbols.",
     "I am known as the Land of the Rising Sun.",
     "I gave the world sushi, anime, and the bullet train.",
-    "A snow-capped volcano named Fuji is one of my symbols.",
     "Tokyo is my capital city."
   ]},
   { a:"Egypt", init:"E.", clues:[
@@ -24,10 +24,10 @@ window.GAME.where.push(
     "I sit at the crossroads of Africa and the Middle East.",
     "A great river runs through my heart.",
     "I am home to one of the world's oldest civilizations.",
-    "Pharaohs wrote in picture symbols called hieroglyphics here.",
     "Cleopatra once ruled over me.",
-    "Giant triangular tombs of pharaohs rise from my sands.",
-    "The Sphinx guards my ancient monuments."
+    "Pharaohs wrote in picture symbols called hieroglyphics here.",
+    "The Sphinx guards my ancient monuments.",
+    "Giant triangular tombs of pharaohs rise from my sands."
   ]},
   { a:"Brazil", init:"B.", clues:[
     "I am a country.",
@@ -35,8 +35,8 @@ window.GAME.where.push(
     "Portuguese is my official language.",
     "A vast rainforest covers much of my land.",
     "The mighty Amazon River winds through me.",
-    "I have won the football World Cup five times.",
     "I host a world-famous Carnival each year.",
+    "I have won the football World Cup five times.",
     "A giant statue of Christ overlooks Rio de Janeiro within me."
   ]},
   { a:"Australia", init:"A.", clues:[
@@ -44,18 +44,18 @@ window.GAME.where.push(
     "I am surrounded by ocean in the Southern Hemisphere.",
     "I am also an entire continent.",
     "Much of my dry interior is nicknamed the Outback.",
-    "Kangaroos and koalas are native to me.",
-    "The Great Barrier Reef lies off my coast.",
     "A massive red rock called Uluru sits at my center.",
+    "The Great Barrier Reef lies off my coast.",
+    "Kangaroos and koalas are native to me.",
     "Sydney and Canberra are among my cities."
   ]},
   { a:"Italy", init:"I.", clues:[
     "I am a country.",
     "I am in Southern Europe.",
-    "I am shaped like a boot.",
-    "I am the birthplace of pizza and pasta.",
     "I was once the center of a great ancient empire.",
+    "I am shaped like a boot.",
     "The tiny nation of Vatican City sits within my borders.",
+    "I am the birthplace of pizza and pasta.",
     "An ancient amphitheatre called the Colosseum stands in my capital.",
     "Rome is my capital."
   ]},
@@ -63,8 +63,8 @@ window.GAME.where.push(
     "I am a country.",
     "I am in South Asia.",
     "The Himalayas form my northern border.",
-    "I am the most populous nation on Earth.",
     "I gave the world yoga and chess.",
+    "I am the most populous nation on Earth.",
     "I am famous for spicy curries and colorful festivals like Holi.",
     "A white marble mausoleum called the Taj Mahal lies within me.",
     "New Delhi is my capital."
@@ -85,27 +85,27 @@ window.GAME.where.push(
     "I am the second-largest nation by land area.",
     "Vast forests and frozen tundra stretch across my north.",
     "I have two official languages, English and French.",
-    "A red maple leaf appears on my flag.",
     "Niagara Falls thunders along my southern border.",
+    "A red maple leaf appears on my flag.",
     "Ottawa is my capital."
   ]},
   { a:"Mexico", init:"M.", clues:[
     "I am a country.",
     "I am in North America.",
     "Spanish is my official language.",
-    "I gave the world tacos and chocolate.",
     "Mariachi bands play lively music across my towns.",
     "I celebrate the Day of the Dead each year.",
     "Ancient Maya and Aztec pyramids stand within me.",
+    "I gave the world tacos and chocolate.",
     "My capital shares my name with the nation."
   ]},
   { a:"Greece", init:"G.", clues:[
     "I am a country.",
     "I am in Southeastern Europe.",
     "I have thousands of sunny islands.",
+    "Ancient gods were said to live on my Mount Olympus.",
     "I am the birthplace of democracy.",
     "I hosted the very first Olympic Games in ancient times.",
-    "Ancient gods were said to live on my Mount Olympus.",
     "A temple called the Parthenon crowns my capital's hill.",
     "Athens is my capital."
   ]},
@@ -113,8 +113,8 @@ window.GAME.where.push(
     "I am a country.",
     "I span two continents, Europe and Asia.",
     "I cross eleven time zones.",
-    "I am the largest nation in the world by land area.",
     "Bitter cold and vast snowy forests cover much of me.",
+    "I am the largest nation in the world by land area.",
     "The Kremlin sits at my heart.",
     "Colorful onion-domed cathedrals rise in my capital's Red Square.",
     "Moscow is my capital."
@@ -143,8 +143,8 @@ window.GAME.where.push(
     "I am a country.",
     "I am in Central Europe.",
     "I am one of the most populous nations on my continent.",
-    "I am famous for my beer festival called Oktoberfest.",
     "I am the land of fairy-tale castles like Neuschwanstein.",
+    "I am famous for my beer festival called Oktoberfest.",
     "A wall once divided my capital city in two.",
     "The Brandenburg Gate stands in my capital.",
     "Berlin is my capital."
@@ -175,17 +175,17 @@ window.GAME.where.push(
     "Two oceans meet along my coast.",
     "I have eleven official languages.",
     "I am home to lions, elephants, and safari parks.",
+    "I have three official capital cities.",
     "Nelson Mandela once led me.",
-    "A flat-topped mountain overlooks my city of Cape Town.",
-    "I have three official capital cities."
+    "A flat-topped mountain overlooks my city of Cape Town."
   ]},
   { a:"Argentina", init:"A.", clues:[
     "I am a country.",
     "I am in southern South America.",
     "Vast grassy plains called the Pampas stretch across me.",
     "I share the towering Andes with my neighbor Chile.",
-    "The tango dance was born within me.",
     "My southern tip reaches toward Antarctica at Patagonia.",
+    "The tango dance was born within me.",
     "I am famous for grilled beef and football star Lionel Messi.",
     "Buenos Aires is my capital."
   ]},
@@ -194,8 +194,8 @@ window.GAME.where.push(
     "I straddle both Europe and Asia.",
     "A strait runs through my largest city.",
     "I was once the center of the Ottoman Empire.",
-    "I am famous for hot-air balloons over Cappadocia.",
     "Visitors soak in my white terraced hot springs at Pamukkale.",
+    "I am famous for hot-air balloons over Cappadocia.",
     "The Hagia Sophia stands within my city of Istanbul.",
     "Ankara is my capital."
   ]},
@@ -205,8 +205,8 @@ window.GAME.where.push(
     "I am part of Scandinavia.",
     "In my far north the sun never sets in midsummer.",
     "I am a great place to see the Northern Lights.",
-    "Deep sea inlets called fjords cut into my coast.",
     "Vikings once sailed from my shores.",
+    "Deep sea inlets called fjords cut into my coast.",
     "Oslo is my capital."
   ]},
   { a:"Netherlands", init:"N.", clues:[
@@ -214,17 +214,17 @@ window.GAME.where.push(
     "I am in Western Europe.",
     "Much of my land lies below sea level.",
     "Orange is my national color.",
+    "Canals crisscross my capital city.",
     "I am famous for bicycles, clogs, and wooden shoes.",
     "Windmills and tulip fields dot my countryside.",
-    "Canals crisscross my capital city.",
     "Amsterdam is my capital."
   ]},
   { a:"Iceland", init:"I.", clues:[
     "I am a country.",
     "I am a remote island in the North Atlantic.",
     "I sit just below the Arctic Circle.",
-    "Volcanoes and glaciers cover me.",
     "Geysers shoot hot water into my air.",
+    "Volcanoes and glaciers cover me.",
     "Visitors relax in my steaming Blue Lagoon.",
     "I am called the Land of Fire and Ice.",
     "Reykjavik is my capital."
@@ -234,8 +234,8 @@ window.GAME.where.push(
     "I am in East Africa.",
     "I have a coastline on the Indian Ocean.",
     "The equator runs through me.",
-    "I am famous for safaris and long-distance runners.",
     "Great herds migrate across my Maasai Mara.",
+    "I am famous for safaris and long-distance runners.",
     "A famous mountain shares my name.",
     "Nairobi is my capital."
   ]},
@@ -245,8 +245,8 @@ window.GAME.where.push(
     "I am landlocked among my neighbors.",
     "I have four official languages.",
     "I have stayed neutral in wars for centuries.",
-    "I am famous for chocolate, cheese, and watches.",
     "The Matterhorn peak rises within me.",
+    "I am famous for chocolate, cheese, and watches.",
     "Bern is my capital."
   ]},
   { a:"United States", init:"U.S.", clues:[
@@ -263,18 +263,18 @@ window.GAME.where.push(
     "I am a country.",
     "I am in Southeast Asia.",
     "I straddle the equator.",
-    "I am made up of thousands of islands.",
     "I sit along the Pacific Ring of Fire.",
     "I am the world's most populous Muslim-majority nation.",
+    "I am made up of thousands of islands.",
     "The island of Bali is a famous part of me.",
     "Jakarta is my capital."
   ]},
   { a:"Eiffel Tower", init:"E.T.", clues:[
     "I am a famous structure.",
     "I am in Europe.",
-    "I am made of iron latticework.",
     "I was built for a World's Fair in 1889.",
     "I was the tallest building in the world when I was finished.",
+    "I am made of iron latticework.",
     "I sparkle with lights every evening.",
     "I am France's most recognized landmark.",
     "I rise high over the city of Paris."
@@ -282,10 +282,10 @@ window.GAME.where.push(
   { a:"Great Wall of China", init:"G.W.O.C.", clues:[
     "I am a famous structure.",
     "I am in Asia.",
-    "I am thousands of miles long.",
     "I was built to keep out invaders.",
     "I was constructed over many centuries by different dynasties.",
     "I am one of the largest human-made structures on Earth.",
+    "I am thousands of miles long.",
     "I wind across mountains and deserts.",
     "I stretch across the north of the world's most populous nation."
   ]},
@@ -293,8 +293,8 @@ window.GAME.where.push(
     "I am a famous structure.",
     "I am in Europe.",
     "I am nearly two thousand years old.",
-    "I am a giant oval amphitheatre.",
     "I could hold tens of thousands of spectators.",
+    "I am a giant oval amphitheatre.",
     "I was built by ancient Romans.",
     "Gladiators once fought within my walls.",
     "I stand in the city of Rome."
@@ -302,8 +302,8 @@ window.GAME.where.push(
   { a:"Statue of Liberty", init:"S.O.L.", clues:[
     "I am a famous structure.",
     "I am in North America.",
-    "I am a giant copper statue turned green with age.",
     "I was a gift from France.",
+    "I am a giant copper statue turned green with age.",
     "I stand on an island in a harbor.",
     "I wear a crown with seven spikes.",
     "I hold a torch high above my head.",
@@ -312,29 +312,29 @@ window.GAME.where.push(
   { a:"Taj Mahal", init:"T.M.", clues:[
     "I am a famous structure.",
     "I am in Asia.",
-    "I am made of white marble.",
+    "An emperor built me as a tomb for his wife.",
     "I am considered a symbol of eternal love.",
     "I have a grand central dome and four minarets.",
     "I shimmer beautifully at sunrise and sunset.",
-    "An emperor built me as a tomb for his wife.",
+    "I am made of white marble.",
     "I stand in the Indian city of Agra."
   ]},
   { a:"Pyramids of Giza", init:"P.O.G.", clues:[
     "I am a famous structure.",
     "I am in Africa.",
     "I am over four thousand years old.",
-    "I am made of millions of giant stone blocks.",
     "I was built as a tomb for pharaohs.",
     "I am the last of the ancient Seven Wonders still standing.",
+    "I am made of millions of giant stone blocks.",
     "A great Sphinx sits beside me.",
     "I rise from the desert near Cairo."
   ]},
   { a:"Big Ben", init:"B.B.", clues:[
     "I am a famous structure.",
     "I am in Europe.",
-    "I am really the name of a great bell inside a clock tower.",
-    "I chime to mark the hours.",
     "I have rung for more than 150 years.",
+    "I chime to mark the hours.",
+    "I am really the name of a great bell inside a clock tower.",
     "I stand beside a famous parliament building.",
     "Tourists snap photos of me by the River Thames.",
     "I rise above the city of London."
@@ -344,19 +344,19 @@ window.GAME.where.push(
     "I am in Oceania.",
     "I host concerts, ballet, and grand stage performances.",
     "I am a World Heritage building admired around the globe.",
-    "My roof looks like billowing white sails.",
-    "I sit beside a beautiful harbour.",
     "A great arched bridge stands near me.",
+    "I sit beside a beautiful harbour.",
+    "My roof looks like billowing white sails.",
     "I am the shimmering icon of a famous Australian harbour city."
   ]},
   { a:"Machu Picchu", init:"M.P.", clues:[
     "I am a famous place.",
     "I am in South America.",
-    "I am an ancient stone city.",
-    "I sit high in the Andes mountains.",
-    "I was built by the Inca people.",
     "I was hidden from the outside world for centuries.",
     "An explorer brought me to global fame in 1911.",
+    "I was built by the Inca people.",
+    "I am an ancient stone city.",
+    "I sit high in the Andes mountains.",
     "I am the most famous ruin in Peru."
   ]},
   { a:"Leaning Tower of Pisa", init:"L.T.O.P.", clues:[
@@ -364,9 +364,9 @@ window.GAME.where.push(
     "I am in Europe.",
     "I am a tall bell tower.",
     "My foundation sank into soft ground as I was built.",
-    "I am famous for tilting to one side.",
     "Engineers worked for years to keep me from toppling.",
     "Tourists pose as if holding me up.",
+    "I am famous for tilting to one side.",
     "I have stood, tilting, in an Italian city for centuries."
   ]},
   { a:"Mount Everest", init:"M.E.", clues:[
@@ -375,25 +375,25 @@ window.GAME.where.push(
     "I am a mountain.",
     "I sit in the Himalayas.",
     "My summit reaches more than five miles above sea level.",
+    "I stand on the border of Nepal and Tibet.",
     "Climbers from around the world try to reach my summit.",
-    "I am the tallest peak on Earth.",
-    "I stand on the border of Nepal and Tibet."
+    "I am the tallest peak on Earth."
   ]},
   { a:"Christ the Redeemer", init:"C.T.R.", clues:[
     "I am a famous structure.",
     "I am in South America.",
     "I am a giant statue.",
-    "I stand with my arms stretched wide.",
-    "I rise atop a mountain overlooking a bay.",
     "I am one of the New Seven Wonders of the World.",
+    "I rise atop a mountain overlooking a bay.",
+    "I stand with my arms stretched wide.",
     "I watch over the city of Rio de Janeiro.",
     "I am one of Brazil's greatest icons."
   ]},
   { a:"Grand Canyon", init:"G.C.", clues:[
     "I am a famous place.",
     "I am in North America.",
-    "I am an enormous gorge.",
     "A river carved me over millions of years.",
+    "I am an enormous gorge.",
     "I am over a mile deep.",
     "My layered red rock walls glow at sunset.",
     "Millions of visitors peer over my rim each year.",
@@ -402,9 +402,9 @@ window.GAME.where.push(
   { a:"Petra", init:"P.", clues:[
     "I am a famous place.",
     "I am in the Middle East.",
-    "I am an ancient city carved into rose-colored rock.",
     "I was built by the Nabataeans long ago.",
     "Visitors reach me through a narrow canyon.",
+    "I am an ancient city carved into rose-colored rock.",
     "I appeared in a famous Indiana Jones film.",
     "My most famous facade is called the Treasury.",
     "I lie within the country of Jordan."
@@ -414,8 +414,8 @@ window.GAME.where.push(
     "I am in Europe.",
     "I am built across many small islands.",
     "I am slowly sinking into a lagoon.",
-    "Canals serve as my streets.",
     "I host a famous masked carnival each year.",
+    "Canals serve as my streets.",
     "Gondolas glide along my waterways.",
     "I am the romantic jewel of northern Italy."
   ]},

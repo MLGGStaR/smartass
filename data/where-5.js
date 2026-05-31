@@ -3,18 +3,18 @@ window.GAME.where.push(
     "I am a city.",
     "I am in East Asia.",
     "I am one of the most populous urban areas on Earth.",
-    "Neon-lit districts and bullet trains run through me.",
     "An emperor lives in a palace at my center.",
-    "A busy scramble crossing in my Shibuya district is world-famous.",
+    "Neon-lit districts and bullet trains run through me.",
     "I hosted the Summer Olympics in 1964 and again in 2021.",
+    "A busy scramble crossing in my Shibuya district is world-famous.",
     "I am the capital of Japan."
   ]},
   { a:"London", init:"L.", clues:[
     "I am a city.",
     "I am in Europe.",
+    "A royal family lives in a palace within me.",
     "Red double-decker buses and black cabs fill my streets.",
     "A famous river called the Thames winds through me.",
-    "A royal family lives in a palace within me.",
     "A giant Ferris wheel called the Eye spins on my riverbank.",
     "A great clock tower chimes beside my parliament.",
     "I am the capital of the United Kingdom."
@@ -23,8 +23,8 @@ window.GAME.where.push(
     "I am a city.",
     "I am in Africa.",
     "I am one of the largest cities on my continent.",
-    "A great river runs through my heart.",
     "Ancient temples and mosques crowd my old quarters.",
+    "A great river runs through my heart.",
     "Giant stone tombs of pharaohs rise just outside me.",
     "A great Sphinx sits at my desert edge.",
     "I am the capital of Egypt."
@@ -33,8 +33,8 @@ window.GAME.where.push(
     "I am a city.",
     "I am in South America.",
     "I sit on a stunning bay with sugarloaf mountains.",
-    "Golden beaches like Copacabana line my shore.",
     "I host one of the world's biggest Carnival parties.",
+    "Golden beaches like Copacabana line my shore.",
     "I hosted the Summer Olympics in 2016.",
     "A giant statue of Christ stretches its arms above me.",
     "I am the most famous beach city in Brazil."
@@ -62,8 +62,8 @@ window.GAME.where.push(
   { a:"New York City", init:"N.Y.C.", clues:[
     "I am a city.",
     "I am in North America.",
-    "I am sometimes called the Big Apple.",
     "I am made up of five boroughs.",
+    "I am sometimes called the Big Apple.",
     "Bright billboards light up my Times Square.",
     "Yellow taxis crowd the streets of my Manhattan island.",
     "A great green statue holding a torch greets ships in my harbor.",
@@ -73,17 +73,17 @@ window.GAME.where.push(
     "I am a city.",
     "I am in East Asia.",
     "I am one of the most populous cities on Earth.",
+    "I hosted both the Summer and Winter Olympics.",
     "A vast plaza named Tiananmen lies in my heart.",
     "An ancient palace complex called the Forbidden City sits at my center.",
     "A great wall winds across the hills just north of me.",
-    "I hosted both the Summer and Winter Olympics.",
     "I am the capital of China."
   ]},
   { a:"Rome", init:"R.", clues:[
     "I am a city.",
     "I am in Southern Europe.",
-    "I am sometimes called the Eternal City.",
     "I was once the center of a mighty ancient empire.",
+    "I am sometimes called the Eternal City.",
     "Tourists toss coins into my Trevi Fountain.",
     "A giant oval amphitheatre stands among my ruins.",
     "The tiny Vatican City sits within my borders.",
@@ -94,9 +94,9 @@ window.GAME.where.push(
     "I straddle two continents, Europe and Asia.",
     "Domed mosques and grand bazaars fill my old town.",
     "A narrow strait called the Bosphorus splits me in two.",
-    "I was once known as Constantinople.",
     "I was the heart of the Ottoman Empire.",
     "A great building called the Hagia Sophia rises within me.",
+    "I was once known as Constantinople.",
     "I am the largest city in Turkey."
   ]},
   { a:"Sydney", init:"S.", clues:[
@@ -113,9 +113,9 @@ window.GAME.where.push(
     "I am a city.",
     "I am in Southeastern Europe.",
     "I am one of the oldest cities in the world.",
-    "I am called the birthplace of democracy.",
     "Ancient philosophers once taught in my streets.",
     "I hosted the very first modern Olympics in 1896.",
+    "I am called the birthplace of democracy.",
     "A marble temple called the Parthenon crowns my hilltop.",
     "I am the capital of Greece."
   ]},
@@ -143,9 +143,9 @@ window.GAME.where.push(
     "I am a city.",
     "I am in Southeast Asia.",
     "I am famous for spicy street food and tuk-tuks.",
-    "Golden Buddhist temples glitter across me.",
     "Boats and floating markets crowd my canals.",
     "I sit on the Chao Phraya River.",
+    "Golden Buddhist temples glitter across me.",
     "A dazzling Grand Palace sits at my center.",
     "I am the capital of Thailand."
   ]},
@@ -154,8 +154,8 @@ window.GAME.where.push(
     "I am on an island in Western Europe.",
     "I am famous for cozy pubs and live music.",
     "A river called the Liffey runs through me.",
-    "A dark stout beer was first brewed here.",
     "Writers like James Joyce wandered my streets.",
+    "A dark stout beer was first brewed here.",
     "Crowds flood me each Saint Patrick's Day.",
     "I am the capital of Ireland."
   ]},
@@ -163,8 +163,8 @@ window.GAME.where.push(
     "I am a city.",
     "I am in Africa.",
     "I sit where two oceans nearly meet.",
-    "A flat-topped mountain rises above me.",
     "Penguins waddle on beaches near me.",
+    "A flat-topped mountain rises above me.",
     "A cable car carries visitors up my famous peak.",
     "Robben Island, where Mandela was jailed, lies off my coast.",
     "I am a legislative capital of South Africa."
@@ -173,9 +173,9 @@ window.GAME.where.push(
     "I am a city.",
     "I am in South America.",
     "Grilled beef and football are my passions.",
-    "The tango dance was born in my streets.",
     "I sit on the wide Rio de la Plata.",
     "My colorful Caminito lane glows with painted houses.",
+    "The tango dance was born in my streets.",
     "I am sometimes called the Paris of South America.",
     "I am the capital of Argentina."
   ]},
@@ -185,8 +185,8 @@ window.GAME.where.push(
     "Much of me sits below sea level.",
     "Bicycles outnumber cars on my streets.",
     "Canals lined with narrow houses weave through me.",
-    "I am home to a famous museum of Van Gogh paintings.",
     "Anne Frank hid in a house within me.",
+    "I am home to a famous museum of Van Gogh paintings.",
     "I am the capital of the Netherlands."
   ]},
   { a:"Singapore", init:"S.", clues:[
@@ -206,27 +206,27 @@ window.GAME.where.push(
     "I sit on the coast of the Arabian Sea.",
     "A stone Gateway arch stands on my waterfront.",
     "I was once known as Bombay.",
-    "I am the home of a huge film industry called Bollywood.",
-    "I am the financial heart of India."
+    "I am the financial heart of India.",
+    "I am the home of a huge film industry called Bollywood."
   ]},
   { a:"Toronto", init:"T.", clues:[
     "I am a city.",
     "I am in North America.",
     "I am one of the most multicultural cities on Earth.",
     "I sit on the shore of a Great Lake.",
-    "A tall needle-shaped tower rises over me.",
     "My basketball team is named the Raptors.",
+    "A tall needle-shaped tower rises over me.",
     "Niagara Falls thunders not far from me.",
     "I am the largest city in Canada."
   ]},
   { a:"Barcelona", init:"B.", clues:[
     "I am a city.",
     "I am on the Mediterranean coast of Europe.",
+    "I am the capital of the Catalonia region.",
     "A famous tree-lined street called Las Ramblas runs through me.",
+    "My football club starred Lionel Messi for many years.",
     "An architect named Gaudi designed wavy buildings within me.",
     "An unfinished cathedral called the Sagrada Familia rises in me.",
-    "I am the capital of the Catalonia region.",
-    "My football club starred Lionel Messi for many years.",
     "I am a coastal jewel of Spain."
   ]},
   { a:"Nairobi", init:"N.", clues:[
@@ -235,8 +235,8 @@ window.GAME.where.push(
     "I sit high on a cool plateau.",
     "The equator passes near me.",
     "I am a major hub for safaris across my region.",
-    "A national park with lions lies right at my edge.",
     "Giraffes roam a famous sanctuary within me.",
+    "A national park with lions lies right at my edge.",
     "I am the capital of Kenya."
   ]},
   { a:"Seoul", init:"S.", clues:[
@@ -255,8 +255,8 @@ window.GAME.where.push(
     "I am one of the most populous cities on Earth.",
     "I sit high on a plateau over a mile above the sea.",
     "Mariachi bands play in my plazas.",
-    "I was built atop an ancient lake by the Aztecs.",
     "Aztec ruins lie beneath my modern streets.",
+    "I was built atop an ancient lake by the Aztecs.",
     "I am my country's huge, high-altitude capital, built on a former Aztec lake."
   ]},
   { a:"Vienna", init:"V.", clues:[
@@ -273,10 +273,10 @@ window.GAME.where.push(
     "I am a city.",
     "I am in Western Europe.",
     "I sit on hills above a wide river mouth.",
-    "Yellow trams climb my steep, winding streets.",
     "A great earthquake nearly destroyed me in 1755.",
     "Explorers set sail from me in the Age of Discovery.",
     "A mournful music called fado was born in me.",
+    "Yellow trams climb my steep, winding streets.",
     "I am the capital of Portugal."
   ]},
   { a:"Prague", init:"P.", clues:[
@@ -285,8 +285,8 @@ window.GAME.where.push(
     "I am nicknamed the City of a Hundred Spires.",
     "A river called the Vltava winds through me.",
     "An ancient astronomical clock ticks in my old square.",
-    "A grand stone bridge lined with statues crosses my river.",
     "A hilltop castle overlooks my red rooftops.",
+    "A grand stone bridge lined with statues crosses my river.",
     "I am the capital of the Czech Republic."
   ]},
   { a:"Hong Kong", init:"H.K.", clues:[
@@ -304,8 +304,8 @@ window.GAME.where.push(
     "I am in North Africa.",
     "I am nicknamed the Red City for my walls.",
     "Snowy Atlas Mountains rise behind me.",
-    "Snake charmers and storytellers fill my main square.",
     "A maze-like souk market winds through my old town.",
+    "Snake charmers and storytellers fill my main square.",
     "My Jemaa el-Fnaa square buzzes after dark.",
     "I am a famous imperial city of Morocco."
   ]},
@@ -315,8 +315,8 @@ window.GAME.where.push(
     "I am spread across fourteen islands.",
     "I am sometimes called the Venice of the North.",
     "A colorful old town called Gamla Stan sits at my center.",
-    "A pop group named ABBA came from me.",
     "The Nobel Prizes are awarded within me each year.",
+    "A pop group named ABBA came from me.",
     "I am the capital of Sweden."
   ]},
   { a:"Jerusalem", init:"J.", clues:[
@@ -334,9 +334,9 @@ window.GAME.where.push(
     "I am on a Caribbean island.",
     "I am famous for cigars, rum, and salsa music.",
     "Pastel colonial buildings line my seafront promenade.",
-    "Colorful 1950s American cars cruise my streets.",
     "A long seawall called the Malecon hugs my coast.",
     "The writer Hemingway loved my bars.",
+    "Colorful 1950s American cars cruise my streets.",
     "I am the capital of Cuba."
   ]},
   { a:"Edinburgh", init:"E.", clues:[
@@ -345,18 +345,18 @@ window.GAME.where.push(
     "Bagpipes echo through my cobbled streets.",
     "An ancient castle perches on a volcanic rock above me.",
     "A royal mile links my castle to a palace.",
-    "I host the world's largest arts festival, the Fringe.",
     "Author J.K. Rowling wrote part of Harry Potter in my cafes.",
+    "I host the world's largest arts festival, the Fringe.",
     "I am the capital of Scotland."
   ]},
   { a:"Cape Verde", init:"C.V.", clues:[
     "I am a place.",
     "I am off the west coast of Africa.",
     "I sit in the Atlantic Ocean.",
-    "I am a nation of ten volcanic islands.",
     "Sandy beaches and warm trade winds draw visitors to me.",
     "A soulful music style called morna comes from me.",
     "My singer Cesaria Evora was called the barefoot diva.",
+    "I am a nation of ten volcanic islands.",
     "My capital city is Praia."
   ]},
   { a:"Kyoto", init:"K.", clues:[
@@ -365,8 +365,8 @@ window.GAME.where.push(
     "Thousands of temples and shrines fill me.",
     "I was once the imperial capital of my country.",
     "Geisha walk my historic Gion district.",
-    "Rows of orange gates wind up a hill in my Fushimi shrine.",
     "A golden pavilion shimmers on one of my ponds.",
+    "Rows of orange gates wind up a hill in my Fushimi shrine.",
     "I am Japan's old cultural capital."
   ]},
   { a:"Reykjavik", init:"R.", clues:[
@@ -383,10 +383,10 @@ window.GAME.where.push(
     "I am a place.",
     "I am in North America.",
     "I am a lively seaside neighborhood, not a whole city.",
-    "Skaters and street performers fill my boardwalk.",
-    "Bodybuilders work out at my outdoor Muscle Beach.",
     "Canals built to mimic Italy give me my name.",
     "I sit on the Pacific coast of California.",
+    "Skaters and street performers fill my boardwalk.",
+    "Bodybuilders work out at my outdoor Muscle Beach.",
     "I am part of the city of Los Angeles."
   ]},
   { a:"Budapest", init:"B.", clues:[
@@ -395,8 +395,8 @@ window.GAME.where.push(
     "I am famous for steamy thermal bath houses.",
     "A river called the Danube splits me in two halves.",
     "Grand bridges join my eastern and western sides.",
-    "My two halves were once separate towns named Buda and Pest.",
     "A grand parliament glows along my riverbank.",
+    "My two halves were once separate towns named Buda and Pest.",
     "I am the capital of Hungary."
   ]},
   { a:"Lagos", init:"L.", clues:[
@@ -414,9 +414,9 @@ window.GAME.where.push(
     "I am in Southeast Asia.",
     "I sit in a hot, humid tropical capital.",
     "I gleam with steel and glass at night.",
-    "I am twin skyscrapers joined by a sky bridge.",
     "I was the tallest building in the world around 2000.",
     "I starred in a Hollywood heist film with Sean Connery.",
+    "I am twin skyscrapers joined by a sky bridge.",
     "I tower over Kuala Lumpur in Malaysia."
   ]},
   { a:"Santorini", init:"S.", clues:[
@@ -424,8 +424,8 @@ window.GAME.where.push(
     "I am in Southeastern Europe.",
     "I am a volcanic island in the Aegean Sea.",
     "My crescent shape was formed by an ancient eruption.",
-    "Whitewashed houses cling to my steep cliffs.",
     "Blue-domed churches dot my villages.",
+    "Whitewashed houses cling to my steep cliffs.",
     "I am famous for some of the most beautiful sunsets on Earth.",
     "I am one of the most romantic islands of Greece."
   ]},
@@ -434,19 +434,19 @@ window.GAME.where.push(
     "I am in Southeast Asia.",
     "Motorbikes swarm my busy streets.",
     "I am one of the oldest capitals in my region.",
-    "I am famous for a noodle soup called pho.",
     "A maze of narrow lanes makes up my Old Quarter.",
     "A small lake with a red bridge sits at my center.",
+    "I am famous for a noodle soup called pho.",
     "I am the capital of Vietnam."
   ]},
   { a:"Quebec City", init:"Q.C.", clues:[
     "I am a city.",
     "I am in North America.",
+    "I sit on a great river named the Saint Lawrence.",
     "French is the main language spoken in me.",
     "I am the only walled city north of Mexico.",
-    "I sit on a great river named the Saint Lawrence.",
-    "A grand chateau-style hotel towers over my old town.",
     "I host a famous winter carnival with an ice palace.",
+    "A grand chateau-style hotel towers over my old town.",
     "I am a historic capital in the province that shares my name in Canada."
   ]},
   { a:"Amman", init:"A.", clues:[
@@ -465,8 +465,8 @@ window.GAME.where.push(
     "I jut out into the Atlantic on a peninsula.",
     "I sit on the westernmost point of my continent.",
     "I am known for vibrant mbalax music.",
-    "A famous off-road rally was once named after me.",
     "A haunting Island of slaves lies just off my shore.",
+    "A famous off-road rally was once named after me.",
     "I am the capital of Senegal."
   ]},
   { a:"Helsinki", init:"H.", clues:[

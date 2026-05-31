@@ -24,8 +24,8 @@ window.GAME.who.push(
     "I am a heavy metal band.",
     "I formed in Birmingham, England, in 1968.",
     "I am often called the founders of heavy metal.",
-    "My name joins a dark color with a witches' gathering.",
     "My doom-laden riffs were written by a guitarist missing fingertips.",
+    "My name joins a dark color with a witches' gathering.",
     "My original singer later starred in a reality TV show with his family.",
     "My songs include 'Iron Man' and 'Paranoid'."
   ]},
@@ -45,8 +45,8 @@ window.GAME.who.push(
     "I played bass and wrote lyrics for a legendary band.",
     "My former band made concept albums about madness and isolation.",
     "I left that band in the 1980s amid bitter disputes.",
-    "I conceived a famous album about a wall.",
     "My surname is the plural of a flowing body of liquid.",
+    "I conceived a famous album about a wall.",
     "I helped create 'The Dark Side of the Moon' and 'The Wall' with the band Pink Floyd."
   ]},
   { a:"Slipknot", init:"S.", clues:[
@@ -54,8 +54,8 @@ window.GAME.who.push(
     "I am a heavy metal band.",
     "I formed in Des Moines, Iowa, in 1995.",
     "I am known as a nu-metal and aggressive metal act.",
-    "I have around nine members, several on percussion.",
     "My name is a type of knot that tightens when pulled.",
+    "I have around nine members, several on percussion.",
     "My members wear matching jumpsuits and grotesque masks.",
     "My songs include 'Duality' and 'Psychosocial'."
   ]},
@@ -74,8 +74,8 @@ window.GAME.who.push(
     "I am a punk rock band.",
     "I formed in London in 1975.",
     "I shocked Britain with my snarling, anti-establishment image.",
-    "My name pairs an adult word with a type of firearm.",
     "My manager was the provocateur Malcolm McLaren.",
+    "My name pairs an adult word with a type of firearm.",
     "My bassist Sid Vicious died young and notorious.",
     "My songs include 'Anarchy in the U.K.' and 'God Save the Queen'."
   ]},
@@ -125,8 +125,8 @@ window.GAME.who.push(
     "I formed in Seattle in 1990.",
     "I was a leading band of the grunge movement.",
     "My name pairs a sea gem with a fruit spread.",
-    "My frontman Eddie Vedder has a deep, distinctive baritone.",
     "My debut album 'Ten' sold millions.",
+    "My frontman Eddie Vedder has a deep, distinctive baritone.",
     "My songs include 'Alive' and 'Jeremy'."
   ]},
   { a:"Soundgarden", init:"S.", clues:[
@@ -144,9 +144,9 @@ window.GAME.who.push(
     "I am a rock band.",
     "I formed in Los Angeles in 1991.",
     "I fused rap, metal, and hard rock with radical politics.",
-    "My name describes furious anger battling a mechanical system or apparatus.",
     "My lyrics protest oppression and the establishment.",
     "My guitarist Tom Morello makes his guitar sound like a DJ scratch.",
+    "My name describes furious anger battling a mechanical system or apparatus.",
     "My songs include 'Killing in the Name' and 'Bulls on Parade'."
   ]},
   { a:"Tool", init:"T.", clues:[
@@ -154,9 +154,9 @@ window.GAME.who.push(
     "I am a progressive metal band.",
     "I formed in Los Angeles in 1990.",
     "I am known for complex rhythms and cryptic, philosophical lyrics.",
-    "My one-word name is something you use to fix or build things.",
     "My albums feature long songs and elaborate visual art.",
     "My frontman is Maynard James Keenan.",
+    "My one-word name is something you use to fix or build things.",
     "My tracks include 'Schism' and 'Sober'."
   ]},
   { a:"System of a Down", init:"S.O.A.D.", clues:[
@@ -185,8 +185,8 @@ window.GAME.who.push(
     "I formed in Cleveland in 1988.",
     "I am essentially the project of one man, Trent Reznor.",
     "My founder later won an Oscar for film scoring.",
-    "My album 'The Downward Spiral' is an industrial classic.",
     "My name pairs a single-digit number with a sharp little fingernail-like fastener.",
+    "My album 'The Downward Spiral' is an industrial classic.",
     "My songs include 'Closer' and 'Hurt', later covered by Johnny Cash."
   ]},
   { a:"Marilyn Manson", init:"M.M.", clues:[
@@ -195,8 +195,8 @@ window.GAME.who.push(
     "I front a shock-rock industrial metal band.",
     "I am known for ghoulish makeup and provocative stage shows.",
     "I was blamed by some critics after the Columbine tragedy.",
-    "My stage name fuses a Hollywood icon with a notorious cult leader.",
     "My first name honors a blonde actress; my surname a 1960s killer.",
+    "My stage name fuses a Hollywood icon with a notorious cult leader.",
     "My songs include 'The Beautiful People' and 'Sweet Dreams'."
   ]},
   { a:"Megadeth", init:"M.", clues:[
@@ -225,9 +225,9 @@ window.GAME.who.push(
     "I formed in New York City in 1981.",
     "I am one of the 'Big Four' of thrash metal.",
     "I helped pioneer the crossover of metal and rap.",
-    "My name is a deadly bacterial disease feared as a bioweapon.",
+    "My song 'Bring the Noise' featured the group Public Enemy.",
     "My albums include 'Among the Living'.",
-    "My song 'Bring the Noise' featured the group Public Enemy."
+    "My name is a deadly bacterial disease feared as a bioweapon."
   ]},
   { a:"Pantera", init:"P.", clues:[
     "I am a real musical group.",
@@ -245,9 +245,9 @@ window.GAME.who.push(
     "I formed in London in 1975.",
     "I am known for fast, loud, no-frills rock and roll.",
     "My name is biker slang for a speed-freak, with an umlaut over the O.",
+    "My signature song shares its name with a casino game.",
     "My logo features a fanged warpig mascot called Snaggletooth.",
-    "My late frontman Lemmy Kilmister had a gravelly voice and warts.",
-    "My signature song shares its name with a casino game."
+    "My late frontman Lemmy Kilmister had a gravelly voice and warts."
   ]},
   { a:"Judas Priest", init:"J.P.", clues:[
     "I am a real musical group.",
@@ -264,8 +264,8 @@ window.GAME.who.push(
     "I am a rock band.",
     "I formed in Sheffield, England, in 1977.",
     "I rose with the New Wave of British Heavy Metal then went pop-metal.",
-    "My name is a deliberately misspelled spotted big cat, paired with slang for 'deaf'.",
     "My drummer kept playing after losing an arm in a car crash.",
+    "My name is a deliberately misspelled spotted big cat, paired with slang for 'deaf'.",
     "My album 'Hysteria' produced seven hit singles.",
     "My songs include 'Pour Some Sugar on Me' and 'Photograph'."
   ]},
@@ -295,16 +295,16 @@ window.GAME.who.push(
     "I formed in New York City in 1973.",
     "I am famous for elaborate stage shows with fire and blood.",
     "My one-word name is what two people do when they touch lips.",
-    "My members wear black-and-white face paint as alter egos.",
     "My bassist sticks out a famously long tongue.",
+    "My members wear black-and-white face paint as alter egos.",
     "My hits include 'Rock and Roll All Nite' and 'Detroit Rock City'."
   ]},
   { a:"Ozzy Osbourne", init:"O.O.", clues:[
     "I am a real person and musician.",
     "I was born in Birmingham, England, in 1948.",
     "I was the original singer of a pioneering metal band.",
-    "I am nicknamed the 'Prince of Darkness'.",
     "My first and last names both start with the letter O.",
+    "I am nicknamed the 'Prince of Darkness'.",
     "I infamously bit the head off a bat on stage.",
     "I later starred in a reality show about my chaotic family.",
     "My solo hits include 'Crazy Train' and 'Mr. Crowley'."
@@ -313,10 +313,10 @@ window.GAME.who.push(
     "I am a real person and musician.",
     "I was born Vincent Furnier in Detroit in 1948.",
     "I pioneered theatrical shock rock.",
-    "My single name sounds like a woman's though I am a man.",
     "I am also a passionate golfer in real life.",
-    "My stage shows feature guillotines, snakes, and fake blood.",
+    "My single name sounds like a woman's though I am a man.",
     "My stage name is a woman's first name plus a barrel-maker's trade.",
+    "My stage shows feature guillotines, snakes, and fake blood.",
     "My hits include 'School's Out' and 'Poison'."
   ]},
   { a:"Jimi Hendrix", init:"J.H.", clues:[
@@ -334,8 +334,8 @@ window.GAME.who.push(
     "I was born in England in 1945.",
     "I am a legendary blues-rock guitarist.",
     "Fans once spray-painted that I am a deity.",
-    "My nickname is 'Slowhand' and my surname starts with 'Clap'.",
     "I played in bands like Cream and Derek and the Dominos.",
+    "My nickname is 'Slowhand' and my surname starts with 'Clap'.",
     "I wrote a tender song about my late young son.",
     "My hits include 'Layla' and 'Tears in Heaven'."
   ]},
@@ -343,9 +343,9 @@ window.GAME.who.push(
     "I am a real person and musician.",
     "I was born Saul Hudson in England in 1965.",
     "I am a hard rock lead guitarist.",
-    "I am instantly recognized by my top hat and curly hair.",
     "I often have a cigarette dangling while I shred.",
     "I rose to fame with a Los Angeles band formed in 1985.",
+    "I am instantly recognized by my top hat and curly hair.",
     "My single stage name is also a punctuation mark: the forward '/'.",
     "I played the epic solo on 'Sweet Child o\\' Mine'."
   ]},
@@ -354,18 +354,18 @@ window.GAME.who.push(
     "I was born in Pennsylvania in 1958.",
     "I am a pioneering female rock guitarist and singer.",
     "I am celebrated as a punk and rock icon for women.",
-    "I started in the all-girl teen band The Runaways.",
     "My surname rhymes with 'jet'.",
+    "I started in the all-girl teen band The Runaways.",
     "I lead a band called the Blackhearts.",
     "My signature hit is 'I Love Rock 'n' Roll'."
   ]},
   { a:"Kurt Cobain", init:"K.C.", clues:[
     "I am a real person and musician.",
     "I was born in Aberdeen, Washington, in 1967.",
+    "My surname starts with 'Co'.",
     "I was the frontman of a hugely influential grunge band.",
     "I am considered the voice of Generation X.",
     "I was married to musician Courtney Love.",
-    "My surname starts with 'Co'.",
     "I died tragically young in 1994, a member of the '27 Club'.",
     "I fronted Nirvana and wrote 'Smells Like Teen Spirit' and 'Come as You Are'."
   ]},
@@ -373,8 +373,8 @@ window.GAME.who.push(
     "I am a real person and musician.",
     "I was born William Bailey in Indiana in 1962.",
     "I front a famous hard rock band from Los Angeles.",
-    "I am known for a powerful screech and a snaky stage dance.",
     "I have a reputation for being late to my own concerts.",
+    "I am known for a powerful screech and a snaky stage dance.",
     "I later also toured as a singer for AC/DC.",
     "My stage name is an anagram of 'oral sex', surname a thorny flower.",
     "I sang 'Welcome to the Jungle' and 'November Rain'."
@@ -383,20 +383,20 @@ window.GAME.who.push(
     "I am a real person and musician.",
     "I was born in Glasgow, Scotland, in 1955.",
     "I am the lead guitarist of an Australian hard rock band.",
+    "My surname is the opposite of 'old', and I share a first name with a breed of beef cattle.",
+    "My brother Malcolm played rhythm guitar beside me.",
     "I do a duck-walk and spin on the floor while soloing.",
     "I famously wear a schoolboy uniform with short trousers on stage.",
-    "My brother Malcolm played rhythm guitar beside me.",
-    "My surname is the opposite of 'old', and I share a first name with a breed of beef cattle.",
     "I play the riffs on 'Thunderstruck' and 'Back in Black'."
   ]},
   { a:"Lemmy Kilmister", init:"L.K.", clues:[
     "I am a real person and musician.",
     "I was born in England in 1945 and died in 2015.",
+    "My nickname starts with the letter L.",
     "I founded and fronted a fast, loud heavy metal band.",
     "I sang and played bass with a gravelly growl.",
     "I tilted my microphone high and sang looking upward.",
     "I had two prominent facial warts and muttonchop sideburns.",
-    "My nickname starts with the letter L.",
     "My band was Motorhead, whose biggest song shares a name with a gambling game."
   ]},
   { a:"The Cure", init:"T.C.", clues:[
@@ -444,9 +444,9 @@ window.GAME.who.push(
     "I am a pop-punk band.",
     "I formed in California in 1992.",
     "I am known for juvenile humor and catchy fast songs.",
-    "My name is the verb for shutting your eyes quickly, plus a number.",
     "My members run around naked in one famous music video.",
     "My core trio includes Mark Hoppus and Tom DeLonge.",
+    "My name is the verb for shutting your eyes quickly, plus a number.",
     "My songs include 'All the Small Things' and 'What\\'s My Age Again?'."
   ]},
   { a:"My Chemical Romance", init:"M.C.R.", clues:[
@@ -455,38 +455,38 @@ window.GAME.who.push(
     "I formed in New Jersey in 2001.",
     "I became an icon of the 2000s emo scene.",
     "My name suggests a love affair involving science and substances.",
-    "My frontman is Gerard Way, who also writes comics.",
     "My concept album follows a dying character called the Patient.",
+    "My frontman is Gerard Way, who also writes comics.",
     "My songs include 'Welcome to the Black Parade' and 'Helena'."
   ]},
   { a:"James Hetfield", init:"J.H.", clues:[
     "I am a real person and musician.",
     "I was born in Los Angeles in 1963.",
+    "My surname starts with the letters H-E-T.",
     "I am the frontman and rhythm guitarist of a thrash metal giant.",
     "I co-founded my band in 1981 with a drummer named Lars.",
     "I am famed for tight, downpicked rhythm riffs.",
     "I growl 'Yeah!' and 'Hey!' between verses live.",
-    "My surname starts with the letters H-E-T.",
     "I front Metallica and sing 'Enter Sandman' and 'Master of Puppets'."
   ]},
   { a:"Dave Grohl", init:"D.G.", clues:[
     "I am a real person and musician.",
     "I was born in Ohio in 1969.",
+    "I am known as one of the nicest guys in rock.",
+    "My surname rhymes with 'troll', and I share a first name with a giant-slaying biblical king.",
     "I first found fame as a drummer in a grunge band.",
     "After that band's tragic end, I started my own group.",
     "In the new band I switched to guitar and lead vocals.",
-    "I am known as one of the nicest guys in rock.",
-    "My surname rhymes with 'troll', and I share a first name with a giant-slaying biblical king.",
     "I lead the Foo Fighters and once drummed for Nirvana."
   ]},
   { a:"Brian May", init:"B.M.", clues:[
     "I am a real person and musician.",
     "I was born in London in 1947.",
-    "I am the lead guitarist of a legendary British rock band.",
-    "I have a famously large head of curly hair.",
-    "I built my own guitar, the 'Red Special', with my father.",
     "I also earned a doctorate in astrophysics.",
     "My surname is the spring month between April and June.",
+    "I have a famously large head of curly hair.",
+    "I built my own guitar, the 'Red Special', with my father.",
+    "I am the lead guitarist of a legendary British rock band.",
     "I wrote 'We Will Rock You' for my band fronted by Freddie Mercury."
   ]},
   { a:"Twisted Sister", init:"T.S.", clues:[

@@ -2,38 +2,38 @@ window.GAME.what.push(
   { a:"Dragon", init:"D.", clues:[
     "I am a mythical creature.",
     "I appear in legends all over the world.",
-    "I am usually covered in scales.",
     "Many cultures imagine me as a giant reptile.",
     "In the East I am a symbol of luck; in the West, of danger.",
+    "I am usually covered in scales.",
     "I am sometimes shown coiled around a hoard of treasure.",
     "Knights in stories try to slay me.",
     "I can fly and breathe fire."
   ]},
   { a:"Unicorn", init:"U.", clues:[
     "I am a mythical creature.",
-    "I look like a graceful animal.",
-    "I am often shown as pure white.",
     "I am a symbol of purity and magic.",
+    "I am often shown as pure white.",
     "Legends say my touch can purify water.",
     "I appear on the royal coat of arms of Scotland.",
+    "I look like a graceful animal.",
     "I resemble a horse but with one important difference.",
     "A single spiraling horn grows from my forehead."
   ]},
   { a:"Vampire", init:"V.", clues:[
     "I am a mythical creature.",
-    "I appear in countless horror stories.",
     "I am said to be undead.",
+    "I appear in countless horror stories.",
+    "A wooden stake to the heart can destroy me.",
     "I cast no reflection in a mirror.",
     "Sunlight and garlic are my enemies.",
-    "A wooden stake to the heart can destroy me.",
-    "Count Dracula is my most famous example.",
-    "I survive by drinking blood, often through fang bites to the neck."
+    "I survive by drinking blood, often through fang bites to the neck.",
+    "Count Dracula is my most famous example."
   ]},
   { a:"Werewolf", init:"W.", clues:[
     "I am a mythical creature.",
     "I am a shape-shifter.",
-    "I am usually a human most of the time.",
     "I am also known as a lycanthrope.",
+    "I am usually a human most of the time.",
     "Folklore says my bite can curse another person to become like me.",
     "Silver bullets are said to harm me.",
     "I transform when the moon is full.",
@@ -41,8 +41,8 @@ window.GAME.what.push(
   ]},
   { a:"Phoenix", init:"P.", clues:[
     "I am a mythical creature.",
-    "I am a magnificent bird.",
     "I appear in ancient Greek and Egyptian myth.",
+    "I am a magnificent bird.",
     "I am associated with the sun and fire.",
     "I am a symbol of renewal and immortality.",
     "I live for hundreds of years before my end.",
@@ -51,8 +51,8 @@ window.GAME.what.push(
   ]},
   { a:"Mermaid", init:"M.", clues:[
     "I am a mythical creature.",
-    "I live beneath the waves.",
     "I appear in sailors' tales.",
+    "I live beneath the waves.",
     "I am often shown with long flowing hair.",
     "I am sometimes pictured sitting on a rock combing my hair.",
     "My song is said to lure men to the deep.",
@@ -91,8 +91,8 @@ window.GAME.what.push(
   ]},
   { a:"Kraken", init:"K.", clues:[
     "I am a mythical creature.",
-    "I am a legendary sea monster.",
     "I come from Scandinavian folklore.",
+    "I am a legendary sea monster.",
     "I am enormous and terrifying.",
     "I dwell in the deepest parts of the ocean.",
     "Sailors mistook my back for an island and feared I would drag their ships under.",
@@ -101,8 +101,8 @@ window.GAME.what.push(
   ]},
   { a:"Zombie", init:"Z.", clues:[
     "I am a mythical creature.",
-    "I appear in countless movies and games.",
     "My roots lie in Haitian voodoo folklore.",
+    "I appear in countless movies and games.",
     "I shamble and groan as I move.",
     "I roam in hungry, shuffling hordes.",
     "A bite from me can spread my condition.",
@@ -115,18 +115,18 @@ window.GAME.what.push(
     "I am large, hairy, and apelike.",
     "I am a cousin to North America's Bigfoot.",
     "Sherpa people of Nepal tell stories about me.",
-    "I haunt the snowy Himalayan mountains.",
     "Explorers claim to find my giant footprints.",
+    "I haunt the snowy Himalayan mountains.",
     "I am also called the Abominable Snowman."
   ]},
   { a:"Telephone", init:"T.", clues:[
     "I am an invention.",
     "I am a communication device.",
     "I let people far apart share a moment together.",
-    "I carry the sound of voices across great distances.",
-    "I once had a rotary dial and a cord on the wall.",
     "I was patented in the year 1876.",
+    "I carry the sound of voices across great distances.",
     "Alexander Graham Bell is credited with creating me.",
+    "I once had a rotary dial and a cord on the wall.",
     "\"Hello\" is what you often say when you pick me up."
   ]},
   { a:"Light Bulb", init:"L.B.", clues:[
@@ -134,18 +134,18 @@ window.GAME.what.push(
     "I am found in nearly every home.",
     "I made the night far easier to live in.",
     "I turn electricity into brightness.",
-    "I screw into a socket to do my job.",
     "Inside older versions of me, a thin filament glows.",
     "Thomas Edison helped make me practical.",
+    "I screw into a socket to do my job.",
     "I often appear over a cartoon head to show a bright idea."
   ]},
   { a:"Printing Press", init:"P.P.", clues:[
     "I am an invention.",
     "I changed how knowledge spread across the world.",
     "I made books affordable to ordinary people.",
+    "I was perfected in Germany in the 1400s.",
     "I use movable type and ink.",
     "I stamp words onto page after page in great numbers.",
-    "I was perfected in Germany in the 1400s.",
     "The first major book I produced was the Bible.",
     "Johannes Gutenberg built a famous version of me."
   ]},
@@ -153,8 +153,8 @@ window.GAME.what.push(
     "I am an invention.",
     "I am a small navigation tool.",
     "I fit easily in the palm of your hand.",
-    "I was vital to early explorers and sailors.",
     "I was first developed in ancient China.",
+    "I was vital to early explorers and sailors.",
     "I rely on the Earth's magnetic field.",
     "My magnetized needle floats and swings to settle in place.",
     "That needle always points toward north."
@@ -163,8 +163,8 @@ window.GAME.what.push(
     "I am an invention.",
     "I capture moments in time.",
     "I use a lens to focus what I see.",
-    "You look through me and press a button to use me.",
     "My shutter opens for just an instant to let in light.",
+    "You look through me and press a button to use me.",
     "Early versions of me used film and chemicals.",
     "Today I am built into nearly every phone.",
     "I take photographs."
@@ -173,9 +173,9 @@ window.GAME.what.push(
     "I am an invention.",
     "I am a scientific instrument.",
     "I help reveal hidden worlds.",
+    "I was key to discovering germs and cells.",
     "I am a common tool in school science labs.",
     "You place a tiny sample on a glass slide beneath me.",
-    "I was key to discovering germs and cells.",
     "I use lenses to magnify what is too small to see.",
     "Through me, bacteria become visible to the eye."
   ]},
@@ -184,36 +184,36 @@ window.GAME.what.push(
     "I am a scientific instrument.",
     "I bring distant things into view.",
     "I magnify objects that are very far away.",
-    "Astronomers point me at the night sky.",
     "Galileo used me to study the heavens.",
+    "Astronomers point me at the night sky.",
     "A famous one of me orbits Earth and is named Hubble.",
     "Through me, the moon, planets, and stars appear close."
   ]},
   { a:"Clock", init:"C.", clues:[
     "I am an invention.",
-    "I am found in homes, towers, and on walls.",
     "I help people keep their schedules.",
+    "I am found in homes, towers, and on walls.",
     "I tick steadily without stopping.",
     "I am divided into twelve numbered marks.",
-    "I have hands that sweep in a circle.",
     "Big Ben in London is a very famous one of me.",
+    "I have hands that sweep in a circle.",
     "I tell you the time of day."
   ]},
   { a:"Battery", init:"B.", clues:[
     "I am an invention.",
     "I am usually small and portable.",
+    "I store energy in chemical form.",
+    "Alessandro Volta built an early version of me.",
     "I power countless devices.",
     "I have a plus end and a minus end.",
     "I come in sizes labeled AA, AAA, C, and D.",
-    "I store energy in chemical form.",
-    "Alessandro Volta built an early version of me.",
     "I supply electricity until I run flat and need recharging."
   ]},
   { a:"Wheel", init:"W.", clues:[
     "I am an invention.",
     "I am one of humanity's oldest tools.",
-    "I made transport and machinery possible.",
     "I am often described as humanity's greatest breakthrough.",
+    "I made transport and machinery possible.",
     "Without me, the cart and the potter's craft could not work.",
     "I am round and turn on an axle.",
     "Carts, cars, and bikes all depend on me.",
@@ -222,11 +222,11 @@ window.GAME.what.push(
   { a:"Parachute", init:"P.", clues:[
     "I am an invention.",
     "I am used for safety high above the ground.",
-    "I am packed tightly into a backpack until needed.",
     "I was imagined by Leonardo da Vinci long ago.",
-    "Skydivers depend on me.",
+    "I am packed tightly into a backpack until needed.",
     "A ripcord is pulled to deploy me.",
     "I fill with air and create drag.",
+    "Skydivers depend on me.",
     "I let a person fall slowly and land safely from the sky."
   ]},
   { a:"Helicopter", init:"H.", clues:[
@@ -244,9 +244,9 @@ window.GAME.what.push(
     "I am built to carry people.",
     "I am sealed tight against the outside world.",
     "Navies around the world use me.",
-    "I travel beneath the surface of the water.",
-    "I use a periscope to peek above the surface.",
     "I fill tanks with water to sink and with air to rise.",
+    "I use a periscope to peek above the surface.",
+    "I travel beneath the surface of the water.",
     "I dive deep into the ocean and stay hidden underwater."
   ]},
   { a:"Bicycle", init:"B.", clues:[
@@ -255,8 +255,8 @@ window.GAME.what.push(
     "I am a cheap and healthy way to get around.",
     "I keep my balance only while moving.",
     "Beginners often start riding me with training wheels.",
-    "You steer me with handlebars and push my pedals.",
     "A chain connects my pedals to my back wheel.",
+    "You steer me with handlebars and push my pedals.",
     "I roll along on two wheels."
   ]},
   { a:"Hot Air Balloon", init:"H.A.B.", clues:[
@@ -264,8 +264,8 @@ window.GAME.what.push(
     "I drift gently through the sky.",
     "I was one of the first ways humans ever flew.",
     "I cannot be steered, so I float wherever the wind takes me.",
-    "I carry passengers in a basket below.",
     "The Montgolfier brothers built an early famous one of me.",
+    "I carry passengers in a basket below.",
     "A burner heats the air inside me.",
     "I rise because hot air is lighter than cool air."
   ]},
@@ -274,18 +274,18 @@ window.GAME.what.push(
     "I carry many passengers or heavy cargo.",
     "I follow a fixed path I cannot leave.",
     "My cars are linked together in a long line.",
-    "I run on rails of steel.",
     "Long ago I was pulled by a steam engine.",
     "I am led from the front by a locomotive.",
+    "I run on rails of steel.",
     "A station is where you board me, and I chug along the tracks."
   ]},
   { a:"Rocket", init:"R.", clues:[
     "I am a vehicle.",
     "I travel at incredible speeds.",
     "I burn enormous amounts of fuel.",
+    "I must reach escape velocity to break free of Earth.",
     "NASA and others use me to explore space.",
     "Mission control counts down before I leave the ground.",
-    "I must reach escape velocity to break free of Earth.",
     "I blast off with a roar and a tower of flame.",
     "I carry astronauts and satellites beyond the atmosphere."
   ]},
@@ -293,10 +293,10 @@ window.GAME.what.push(
     "I am a vehicle.",
     "I am built for hard, heavy work.",
     "I am a common sight in the countryside.",
-    "I am often colored bright green or red.",
     "I move slowly but with enormous pulling strength.",
-    "I am used mostly by farmers.",
+    "I am often colored bright green or red.",
     "I have large rear wheels and a powerful engine.",
+    "I am used mostly by farmers.",
     "I pull plows and machinery across fields."
   ]},
   { a:"Canoe", init:"C.", clues:[
@@ -311,9 +311,9 @@ window.GAME.what.push(
   ]},
   { a:"Ambulance", init:"A.", clues:[
     "I am a vehicle.",
-    "I rush through traffic with flashing lights.",
     "I carry trained medical staff.",
     "Other drivers must pull over to let me pass.",
+    "I rush through traffic with flashing lights.",
     "People dial emergency numbers to summon me.",
     "I am equipped to treat the sick and injured.",
     "I carry a stretcher in the back to lift patients aboard.",
@@ -334,9 +334,9 @@ window.GAME.what.push(
     "I am large and often a centerpiece in a room.",
     "I can play both melody and harmony at once.",
     "I come in grand and upright shapes.",
-    "My black and white keys span many octaves.",
     "Pressing a foot pedal lets my notes ring out longer.",
     "Pressing my keys makes hammers strike strings inside.",
+    "My black and white keys span many octaves.",
     "I have eighty-eight keys in all."
   ]},
   { a:"Violin", init:"V.", clues:[
@@ -344,9 +344,9 @@ window.GAME.what.push(
     "I am made mostly of wood.",
     "I am a star of the orchestra.",
     "I am the smallest and highest of my string family.",
-    "I am tucked under the player's chin.",
     "I have four strings.",
     "The famous Stradivarius is a prized kind of me.",
+    "I am tucked under the player's chin.",
     "A bow is drawn across me to produce my soaring sound."
   ]},
   { a:"Drum", init:"D.", clues:[
@@ -361,8 +361,8 @@ window.GAME.what.push(
   ]},
   { a:"Trumpet", init:"T.", clues:[
     "I am a musical instrument.",
-    "I am made of shiny brass.",
     "I am loud and bright.",
+    "I am made of shiny brass.",
     "I feature in jazz bands and orchestras alike.",
     "A mute can be placed in my bell to soften my sound.",
     "I have three valves you press to change notes.",
@@ -375,14 +375,14 @@ window.GAME.what.push(
     "I belong to the woodwind family.",
     "I am often made of silver-colored metal.",
     "I am one of the highest-pitched instruments in a band.",
-    "I am held sideways across the player's lips.",
     "You blow across a hole rather than into a mouthpiece.",
+    "I am held sideways across the player's lips.",
     "Covering my keys with your fingers changes the pitch."
   ]},
   { a:"Harp", init:"H.", clues:[
     "I am a musical instrument.",
-    "I am tall and stand on the floor.",
     "I produce a gentle, heavenly sound.",
+    "I am tall and stand on the floor.",
     "I am often associated with angels and Ireland.",
     "I am one of the largest instruments in an orchestra.",
     "My player leans me back to rest against the shoulder.",
@@ -391,9 +391,9 @@ window.GAME.what.push(
   ]},
   { a:"Accordion", init:"A.", clues:[
     "I am a musical instrument.",
-    "I am worn strapped to the player's chest.",
     "I am popular in folk music across many countries.",
     "I am a favorite in polka music.",
+    "I am worn strapped to the player's chest.",
     "I have keys or buttons on my sides.",
     "I make sound by pushing air across metal reeds.",
     "I have a bellows in my middle.",
@@ -403,10 +403,10 @@ window.GAME.what.push(
     "I am a musical instrument.",
     "I am made of brass but counted as a woodwind.",
     "I am a favorite in jazz music.",
-    "I hang from a strap around the player's neck.",
     "I come in alto, tenor, and other sizes.",
-    "I have a curved, hooked shape.",
     "I use a single reed in my mouthpiece.",
+    "I hang from a strap around the player's neck.",
+    "I have a curved, hooked shape.",
     "Adolphe Sax invented me and gave me his name."
   ]},
   { a:"Chess", init:"C.", clues:[
@@ -415,8 +415,8 @@ window.GAME.what.push(
     "I am a battle of strategy and patience.",
     "I am played on a board of sixty-four squares.",
     "My squares alternate between light and dark.",
-    "My pieces include knights, bishops, and rooks.",
     "A grandmaster is the highest title a player of me can earn.",
+    "My pieces include knights, bishops, and rooks.",
     "The goal is to checkmate the opponent's king."
   ]},
   { a:"Soccer", init:"S.", clues:[
@@ -434,8 +434,8 @@ window.GAME.what.push(
     "I am played on a hard court.",
     "I move at a fast, energetic pace.",
     "Each team has five players.",
-    "Players bounce the ball as they run.",
     "A shot from far out is worth three points.",
+    "Players bounce the ball as they run.",
     "The NBA is my most famous professional league.",
     "You score by throwing the ball through a raised hoop."
   ]},
@@ -454,8 +454,8 @@ window.GAME.what.push(
     "I am played in an indoor alley.",
     "I am a popular casual pastime.",
     "Players wear special rented shoes to play me.",
-    "You roll a heavy ball down a wooden lane.",
-    "Gutters run along each side of that lane.",
+    "Gutters run along each side of a wooden lane.",
+    "You roll a heavy ball down that lane.",
     "Ten pins stand at the far end.",
     "Knocking them all down in one roll is called a strike."
   ]},

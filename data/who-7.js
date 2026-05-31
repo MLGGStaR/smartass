@@ -33,8 +33,8 @@ window.GAME.who.push(
     "I am a real, living person.",
     "I am an American rapper and businessman.",
     "I survived being shot nine times before becoming famous.",
-    "I was signed by Eminem and Dr. Dre in the early 2000s.",
     "I led the group G-Unit.",
+    "I was signed by Eminem and Dr. Dre in the early 2000s.",
     "I later became a TV producer behind the 'Power' franchise.",
     "My debut album was 'Get Rich or Die Tryin'.'",
     "My breakout hit invites everyone to the party 'In Da Club.'"
@@ -53,19 +53,19 @@ window.GAME.who.push(
     "I am a real, living person.",
     "I am an American rapper and actor.",
     "I started rapping in the late 1980s.",
-    "I was a key lyricist in the group N.W.A.",
     "I founded the Big3 basketball league.",
+    "I was a key lyricist in the group N.W.A.",
     "I later starred in and wrote comedy films.",
-    "I created the 'Friday' and 'Are We There Yet?' movies.",
-    "'It Was a Good Day' is one of my most famous solo tracks."
+    "'It Was a Good Day' is one of my most famous solo tracks.",
+    "I created the 'Friday' and 'Are We There Yet?' movies."
   ]},
   { a:"Missy Elliott", init:"M.E.", clues:[
     "I am a real, living person.",
     "I am an American rapper, singer, and producer.",
     "I am one of the best-selling female rap artists ever.",
-    "I am known for surreal, groundbreaking music videos.",
-    "I worked closely with producer Timbaland.",
     "I became the first female rapper inducted into the Songwriters Hall of Fame.",
+    "I worked closely with producer Timbaland.",
+    "I am known for surreal, groundbreaking music videos.",
     "In one video I wore an inflatable trash-bag suit for the song 'The Rain.'",
     "My hits include 'Get Ur Freak On' and 'Work It.'"
   ]},
@@ -73,8 +73,8 @@ window.GAME.who.push(
     "I am a real, living person.",
     "I am an American rapper.",
     "I started rapping as a child in the 1990s.",
-    "I am famous for raspy vocals and constant mixtapes.",
     "I rose through the New Orleans label Cash Money Records.",
+    "I am famous for raspy vocals and constant mixtapes.",
     "I founded Young Money and signed Drake and Nicki Minaj.",
     "My album 'Tha Carter III' sold a million copies in its first week.",
     "I am nicknamed Weezy, and my hit 'Lollipop' topped the charts."
@@ -83,17 +83,17 @@ window.GAME.who.push(
     "I am a real, living person.",
     "I am a rapper and singer born in Trinidad.",
     "I am one of the best-selling female rappers in history.",
-    "I am known for colorful wigs and animated alter egos.",
-    "I was signed to Young Money by Lil Wayne.",
     "I served as a judge on 'American Idol.'",
+    "I was signed to Young Money by Lil Wayne.",
+    "I am known for colorful wigs and animated alter egos.",
     "My albums include 'Pink Friday.'",
     "My hits include 'Super Bass' and 'Anaconda.'"
   ]},
   { a:"Cardi B", init:"C.B.", clues:[
     "I am a real, living person.",
     "I am an American rapper.",
-    "I first became famous on reality TV and social media.",
     "I am known for a brash personality and Bronx accent.",
+    "I first became famous on reality TV and social media.",
     "I won a Grammy for my debut album.",
     "I collaborated with Megan Thee Stallion on a chart-topping hit.",
     "My first number-one solo single was 'Bodak Yellow.'",
@@ -104,9 +104,9 @@ window.GAME.who.push(
     "I am an American rapper from Houston.",
     "I am known for confident, high-energy verses.",
     "I graduated from college while topping the charts.",
-    "I popularized a summer catchphrase about being a 'hottie.'",
     "I featured on Cardi B's hit 'WAP.'",
     "A remix of my song 'Savage' with Beyonce hit number one.",
+    "I popularized a summer catchphrase about being a 'hottie.'",
     "My nickname is Hot Girl, and I coined 'Hot Girl Summer.'"
   ]},
   { a:"Travis Scott", init:"T.S.", clues:[
@@ -114,8 +114,8 @@ window.GAME.who.push(
     "I am an American rapper and producer from Houston.",
     "I am known for psychedelic, auto-tuned 'rage' anthems.",
     "I had a high-profile relationship with a Kardashian-Jenner.",
-    "I host a festival called Astroworld.",
     "I released a wildly popular McDonald's meal collaboration.",
+    "I host a festival called Astroworld.",
     "My catchphrase ad-lib is a screamed 'It's lit!' and I go by La Flame.",
     "My album 'Astroworld' featured the number-one hit 'Sicko Mode.'"
   ]},
@@ -132,8 +132,8 @@ window.GAME.who.push(
   { a:"Kid Cudi", init:"K.C.", clues:[
     "I am a real, living person.",
     "I am an American rapper, singer, and actor from Cleveland.",
-    "I am known for melodic humming and emotional, moody music.",
     "I heavily influenced a generation of emo and melodic rappers.",
+    "I am known for melodic humming and emotional, moody music.",
     "I collaborated often with Kanye West.",
     "My real name is Scott.",
     "My album series is called 'Man on the Moon.'",
@@ -145,9 +145,9 @@ window.GAME.who.push(
     "I direct my own surreal music videos.",
     "I have a fashion brand called Golf Wang.",
     "I founded the alternative hip-hop collective Odd Future.",
-    "My stage name describes me as a youthful maker, and it ends with a comma plus 'the' and a job title.",
+    "I won a Grammy for the album 'Igor.'",
     "My albums include 'Flower Boy' and 'Call Me If You Get Lost.'",
-    "I won a Grammy for the album 'Igor.'"
+    "My stage name describes me as a youthful maker, and it ends with a comma plus 'the' and a job title."
   ]},
   { a:"A$AP Rocky", init:"A.R.", clues:[
     "I am a real, living person.",
@@ -155,9 +155,9 @@ window.GAME.who.push(
     "I am known as a fashion icon as much as a musician.",
     "I belong to a hip-hop collective called the Mob.",
     "I once spent time in a Swedish jail, sparking international headlines.",
+    "My albums include 'Long. Live. ASAP.'",
     "I am in a high-profile relationship with the singer Rihanna.",
-    "My stage name starts with a four-letter Harlem-crew abbreviation written with a dollar sign, followed by a boxer's first name.",
-    "My albums include 'Long. Live. ASAP.'"
+    "My stage name starts with a four-letter Harlem-crew abbreviation written with a dollar sign, followed by a boxer's first name."
   ]},
   { a:"Wiz Khalifa", init:"W.K.", clues:[
     "I am a real, living person.",
@@ -166,27 +166,27 @@ window.GAME.who.push(
     "I am heavily associated with cannabis culture.",
     "I had a son with the model Amber Rose.",
     "I co-headlined tours with Snoop Dogg.",
-    "My hit 'Black and Yellow' celebrates Pittsburgh's colors.",
-    "I sang 'See You Again' as a tribute to Paul Walker."
+    "I sang 'See You Again' as a tribute to Paul Walker.",
+    "My hit 'Black and Yellow' celebrates Pittsburgh's colors."
   ]},
   { a:"Big Sean", init:"B.S.", clues:[
     "I am a real, living person.",
     "I am an American rapper from Detroit.",
     "I am known for punchline-heavy verses.",
-    "I was signed to Kanye West's GOOD Music label.",
     "I dated and made music with the singer Jhene Aiko.",
-    "My stage name pairs a size word with a common first name.",
+    "I was signed to Kanye West's GOOD Music label.",
     "My albums include 'Dark Sky Paradise.'",
+    "My stage name pairs a size word with a common first name.",
     "My hits include 'Bounce Back' and 'I Don't F*** With You.'"
   ]},
   { a:"Future", init:"F.", clues:[
     "I am a real, living person.",
     "I am an American rapper from Atlanta.",
-    "I am a pioneer of melodic, auto-tuned trap music.",
     "I am famous for an incredibly prolific mixtape output.",
-    "My stage name is a single word meaning 'what is to come.'",
-    "I collaborated with Drake on the album 'What a Time to Be Alive.'",
+    "I am a pioneer of melodic, auto-tuned trap music.",
     "I topped the charts with Metro Boomin on 'Like That.'",
+    "I collaborated with Drake on the album 'What a Time to Be Alive.'",
+    "My stage name is a single word meaning 'what is to come.'",
     "My hits include 'Mask Off.'"
   ]},
   { a:"21 Savage", init:"2.S.", clues:[
@@ -194,18 +194,18 @@ window.GAME.who.push(
     "I am a rapper based in Atlanta but born in London.",
     "I am known for a calm, deadpan delivery.",
     "My immigration status once made major headlines after an ICE detention.",
-    "I collaborated with Metro Boomin and Offset.",
-    "My stage name pairs the number twenty-one with a fierce adjective meaning wild or brutal.",
     "I made a Grammy-nominated joint project series with Metro Boomin.",
-    "I teamed with Drake on the album 'Her Loss.'"
+    "I collaborated with Metro Boomin and Offset.",
+    "I teamed with Drake on the album 'Her Loss.'",
+    "My stage name pairs the number twenty-one with a fierce adjective meaning wild or brutal."
   ]},
   { a:"Lil Nas X", init:"L.N.X.", clues:[
     "I am a real, living person.",
     "I am an American rapper and singer.",
     "I went viral on social media before breaking out.",
     "I am openly gay and known for provocative visuals.",
-    "I blended country and rap on my breakout hit.",
     "I later released the hit 'Montero (Call Me by Your Name).'",
+    "I blended country and rap on my breakout hit.",
     "That breakout song shattered the record for longest-running number one ever.",
     "It was 'Old Town Road,' featuring Billy Ray Cyrus."
   ]},
@@ -213,8 +213,8 @@ window.GAME.who.push(
     "I am a real, living person.",
     "I am an American musician who blends rap, pop, and rock.",
     "I am known for a melancholy, melodic style.",
-    "I am covered in face tattoos.",
     "I love Bud Light and the game Pokemon.",
+    "I am covered in face tattoos.",
     "My stage name pairs a 'mail' homophone with a generated last name.",
     "My albums include 'Hollywood's Bleeding.'",
     "My hits include 'Rockstar,' 'Circles,' and 'Sunflower.'"
@@ -246,37 +246,37 @@ window.GAME.who.push(
     "I was a flagship artist for Def Jam Recordings.",
     "I hosted the Grammy Awards multiple times.",
     "I star in the TV series 'NCIS: Los Angeles.'",
-    "My hits include 'Mama Said Knock You Out' and 'I Need Love.'",
-    "My stage name is a four-character acronym standing for a phrase about ladies loving a confident man named James."
+    "My stage name is a four-character acronym standing for a phrase about ladies loving a confident man named James.",
+    "My hits include 'Mama Said Knock You Out' and 'I Need Love.'"
   ]},
   { a:"Run-DMC", init:"R.D.", clues:[
     "We are real people, an American rap group.",
     "We were pioneers who took rap to the mainstream in the 1980s.",
     "We come from Hollis, Queens, in New York.",
+    "We were among the first rap acts in the Rock and Roll Hall of Fame.",
     "We were known for black hats, tracksuits, and shell-toe sneakers.",
     "We fused rock and rap on a famous cover song.",
-    "We were among the first rap acts in the Rock and Roll Hall of Fame.",
     "That cover was a remake of Aerosmith's 'Walk This Way.'",
     "Our hits include 'It's Tricky' and 'My Adidas.'"
   ]},
   { a:"Public Enemy", init:"P.E.", clues:[
     "We are real people, an American rap group.",
     "We formed on Long Island in the 1980s.",
-    "We are known for politically charged, militant lyrics.",
     "We featured the explosive production of the Bomb Squad.",
     "We were inducted into the Rock and Roll Hall of Fame.",
-    "Our frontman is Chuck D, with a clock-wearing hype man named Flavor Flav.",
+    "We are known for politically charged, militant lyrics.",
     "Our album 'It Takes a Nation of Millions' is a hip-hop classic.",
+    "Our frontman is Chuck D, with a clock-wearing hype man named Flavor Flav.",
     "Our anthems include 'Fight the Power.'"
   ]},
   { a:"Wu-Tang Clan", init:"W.C.", clues:[
     "We are real people, an American rap group.",
     "We come from Staten Island, New York.",
     "We are one of the largest and most influential rap collectives.",
-    "We took our name and imagery from kung-fu films.",
     "We released a single-copy album auctioned for millions.",
-    "Our members include RZA, GZA, Method Man, and Ol' Dirty Bastard.",
+    "We took our name and imagery from kung-fu films.",
     "Our motto declares that our name 'ain't nuthing ta f' wit.'",
+    "Our members include RZA, GZA, Method Man, and Ol' Dirty Bastard.",
     "Our classic debut album shares its name with our group and references '36 Chambers.'"
   ]},
   { a:"OutKast", init:"O.", clues:[
@@ -285,8 +285,8 @@ window.GAME.who.push(
     "We helped put Southern hip-hop on the map.",
     "We are known for eclectic, genre-bending music.",
     "Our name is a misspelled word for someone who doesn't fit in.",
-    "Our two members are Andre 3000 and Big Boi.",
     "We won the Grammy for Album of the Year for 'Speakerboxxx/The Love Below.'",
+    "Our two members are Andre 3000 and Big Boi.",
     "Our hits include 'Ms. Jackson' and 'Hey Ya!'"
   ]},
   { a:"Beastie Boys", init:"B.B.", clues:[
@@ -306,8 +306,8 @@ window.GAME.who.push(
     "I helped invent turntable techniques like the backspin and scratch.",
     "I was among the first hip-hop acts in the Rock and Roll Hall of Fame.",
     "I led a group called the Furious Five.",
-    "My stage name pairs a chess title with a word meaning quick.",
-    "My group's song 'The Message' is a landmark of socially conscious rap."
+    "My group's song 'The Message' is a landmark of socially conscious rap.",
+    "My stage name pairs a chess title with a word meaning quick."
   ]},
   { a:"Afrika Bambaataa", init:"A.B.", clues:[
     "I am a real person.",
@@ -335,8 +335,8 @@ window.GAME.who.push(
     "I revolutionized rap with complex internal rhymes in the 1980s.",
     "Many MCs cite me as the godfather of modern lyrical flow.",
     "I was half of a legendary duo with a famous DJ.",
-    "That partner was DJ Eric B.",
     "Our album 'Paid in Full' is a classic.",
+    "That partner was DJ Eric B.",
     "My stage name is a single Arabic name; the duo was Eric B. & me."
   ]},
   { a:"Big Daddy Kane", init:"B.D.K.", clues:[
@@ -346,16 +346,16 @@ window.GAME.who.push(
     "I am known for smooth ladies'-man charisma and rapid-fire flow.",
     "I was part of the Juice Crew collective.",
     "I am cited as a major influence on Jay-Z and Biggie.",
-    "My stage name calls me a large father figure and ends with a 'cane' homophone spelled with a K.",
-    "My hits include 'Ain't No Half-Steppin'' and 'Smooth Operator.'"
+    "My hits include 'Ain't No Half-Steppin'' and 'Smooth Operator.'",
+    "My stage name calls me a large father figure and ends with a 'cane' homophone spelled with a K."
   ]},
   { a:"Method Man", init:"M.M.", clues:[
     "I am a real, living person.",
     "I am an American rapper and actor.",
     "I formed a comedic duo with Redman.",
+    "I starred in the TV series 'Power Book II' and 'The Wire.'",
     "I am a member of a famous Staten Island collective.",
     "That group is the Wu-Tang Clan.",
-    "I starred in the TV series 'Power Book II' and 'The Wire.'",
     "My stage name pairs a word for a systematic procedure with a word for an adult male.",
     "I won a Grammy for the duet 'I'll Be There for You' with Mary J. Blige."
   ]},
@@ -364,30 +364,30 @@ window.GAME.who.push(
     "I am an American rapper and actor from Atlanta.",
     "I am known for animated, exaggerated delivery and humor.",
     "I started as a radio DJ before rapping.",
-    "I play the character Tej in the 'Fast & Furious' films.",
-    "My stage name is a misspelling of a word meaning 'absurd.'",
     "I won a Grammy for the verse on 'Yeah!' with Usher.",
-    "My hits include 'Move B****' and 'Stand Up.'"
+    "I play the character Tej in the 'Fast & Furious' films.",
+    "My hits include 'Move B****' and 'Stand Up.'",
+    "My stage name is a misspelling of a word meaning 'absurd.'"
   ]},
   { a:"Common", init:"C.", clues:[
     "I am a real, living person.",
     "I am an American rapper and actor from Chicago.",
     "I am known for conscious, poetic, soulful hip-hop.",
-    "My one-word stage name means 'ordinary' or 'shared.'",
-    "I acted in films like 'Selma' and the 'John Wick' series.",
     "I have won Grammys, an Oscar, and an Emmy.",
+    "I acted in films like 'Selma' and the 'John Wick' series.",
     "I won that Oscar for a song from the film 'Selma.'",
-    "That song, 'Glory,' was made with John Legend."
+    "That song, 'Glory,' was made with John Legend.",
+    "My one-word stage name means 'ordinary' or 'shared.'"
   ]},
   { a:"Timbaland", init:"T.", clues:[
     "I am a real, living person.",
     "I am an American record producer and rapper.",
-    "I am known for innovative, beatbox-influenced, stuttering beats.",
     "I rose from Virginia in the 1990s.",
+    "I am known for innovative, beatbox-influenced, stuttering beats.",
     "I produced extensively for Missy Elliott and Aaliyah.",
     "I helped craft major hits for Justin Timberlake and Nelly Furtado.",
-    "My stage name comes from a brand of work boots.",
-    "My hits as an artist include 'The Way I Are' and 'Apologize.'"
+    "My hits as an artist include 'The Way I Are' and 'Apologize.'",
+    "My stage name comes from a brand of work boots."
   ]},
   { a:"Pharrell Williams", init:"P.W.", clues:[
     "I am a real, living person.",
@@ -403,8 +403,8 @@ window.GAME.who.push(
     "I am a real, living person.",
     "I am an American hip-hop producer from St. Louis.",
     "I am one of the most successful trap producers of my generation.",
-    "I collaborated constantly with Future and 21 Savage.",
     "I scored the animated film 'Spider-Man: Across the Spider-Verse.'",
+    "I collaborated constantly with Future and 21 Savage.",
     "I made the joint album 'Heroes & Villains.'",
     "My producer tag is sung at the start of countless hits.",
     "My tag warns: 'If Young  trust you, I'm gonna shoot you,' and my name pairs a transit word with a boom."
@@ -413,18 +413,18 @@ window.GAME.who.push(
     "I am a real, living person.",
     "I am an American DJ and record executive.",
     "I am famous more for assembling all-star collaborations than rapping.",
-    "I am known for loud motivational catchphrases.",
     "I founded the label We the Best Music.",
+    "I am known for loud motivational catchphrases.",
+    "My posse-cut hits include 'All I Do Is Win' and 'I'm the One.'",
     "Another key catchphrase of mine is 'Another one!'",
-    "I shout my own name and 'We the best!' constantly.",
-    "My posse-cut hits include 'All I Do Is Win' and 'I'm the One.'"
+    "I shout my own name and 'We the best!' constantly."
   ]},
   { a:"Childish Gambino", init:"C.G.", clues:[
     "I am a real, living person.",
     "I am an American rapper, singer, actor, and comedian.",
     "I use a different stage name for my acting career.",
-    "I created and star in the TV series 'Atlanta.'",
     "As an actor I appear in 'Community' and a 'Star Wars' film as Lando.",
+    "I created and star in the TV series 'Atlanta.'",
     "My musical stage name was generated by a Wu-Tang name website.",
     "My real name is Donald Glover.",
     "My provocative song and video 'This Is America' won record of the year."
@@ -433,27 +433,27 @@ window.GAME.who.push(
     "I am a real person, now deceased.",
     "I am a British-American underground rapper.",
     "I am known for dense, complex rhymes and a comic-book persona.",
+    "I passed away in 2020, announced months later.",
     "I always performed wearing a metal supervillain mask.",
     "My mask was inspired by a Marvel villain.",
-    "I passed away in 2020, announced months later.",
-    "My stage name is styled in all capitals after a 'Doctor' villain.",
-    "I made the acclaimed album 'Madvillainy' with producer Madlib."
+    "I made the acclaimed album 'Madvillainy' with producer Madlib.",
+    "My stage name is styled in all capitals after a 'Doctor' villain."
   ]},
   { a:"Eazy-E", init:"E.E.", clues:[
     "I am a real person, now deceased.",
     "I am an American rapper from Compton, California.",
     "I am called the 'Godfather of Gangsta Rap.'",
     "I founded Ruthless Records.",
-    "I was a founding member of the group N.W.A.",
     "I died of complications from AIDS in 1995.",
-    "My stage name pairs a phonetic 'easy' spelling with a single letter.",
-    "My debut solo album's title playfully claimed that I 'does it.'"
+    "I was a founding member of the group N.W.A.",
+    "My debut solo album's title playfully claimed that I 'does it.'",
+    "My stage name pairs a phonetic 'easy' spelling with a single letter."
   ]},
   { a:"DMX", init:"D.", clues:[
     "I am a real person, now deceased.",
     "I am an American rapper from Yonkers, New York.",
-    "I am known for an aggressive, gravelly, bark-filled delivery.",
     "I also acted in action films.",
+    "I am known for an aggressive, gravelly, bark-filled delivery.",
     "I often barked and growled like a dog on tracks.",
     "I was the first artist to have my first five albums all debut at number one.",
     "My hits include 'Party Up (Up in Here)' and 'X Gon' Give It to Ya.'",
@@ -462,10 +462,10 @@ window.GAME.who.push(
   { a:"Busta Rhymes", init:"B.R.", clues:[
     "I am a real, living person.",
     "I am an American rapper from Brooklyn.",
-    "I am famous for extremely fast, rapid-fire delivery.",
-    "I am known for energetic, surreal music videos.",
     "I started in the group Leaders of the New School.",
     "I have collaborated across decades with countless artists.",
+    "I am famous for extremely fast, rapid-fire delivery.",
+    "I am known for energetic, surreal music videos.",
     "My stage name was given to me by Chuck D, after a football player nicknamed 'Buster.'",
     "My hits include 'Woo Hah!! Got You All in Check' and 'Touch It.'"
   ]},
@@ -475,8 +475,8 @@ window.GAME.who.push(
     "I helped popularize the trap subgenre.",
     "I am sometimes called the 'King of the South.'",
     "I starred in a reality show with my family.",
-    "My stage name is just two initials, and I am also called Tip.",
     "My albums include 'Paper Trail.'",
+    "My stage name is just two initials, and I am also called Tip.",
     "My hits include 'Whatever You Like' and 'Live Your Life.'"
   ]},
   { a:"Roddy Ricch", init:"R.R.", clues:[
