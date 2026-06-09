@@ -1,502 +1,462 @@
 window.GAME.who.push(
-  { a:"Luffy", init:"L.", clues:[
-    "I am a fictional character.",
-    "My grandfather is a famous figure in the world's navy, though we are on opposite sides.",
-    "I have two sworn brothers from my childhood, though we are not blood-related.",
-    "A scar under my left eye is self-inflicted, a wound I made to prove my toughness.",
-    "I idolized a red-haired man who lost an arm protecting me as a boy.",
-    "I lead a small but infamous crew on a vast and dangerous sea.",
-    "My signature headwear was lent to me by my mentor, who told me to return it one day.",
-    "I ate a Devil Fruit that turned my body to stretchy rubber, and I dream of being King of the Pirates in 'One Piece'."
+  { a:"Beast", init:"B.", clues:[
+    "I am a fictional superhero.",
+    "I debuted in 1963 cover-dated as a lumbering, large-footed bruiser, only later redrawn as sleek and graceful.",
+    "Before my fur, I once moonlighted as the costumed Avenger nicknamed for an old comic-strip bruiser.",
+    "I joined a research firm called the Brand Corporation, where a misguided self-experiment changed me irreversibly.",
+    "I served a U.S. cabinet-level post overseeing my own kind under a president-friendly administration.",
+    "A mutated form of myself once split off into a feline 'Dark' variant during a clandestine team's run.",
+    "I pepper my acrobatics with Latin tags and Bard quotations to mask a grief-prone temperament.",
+    "Twice depicted on screen, once by a Frasier-famous actor and once by a younger British performer, I'm the indigo-furred polymath of a school for the gifted."
   ]},
-  { a:"Roronoa Zoro", init:"R.Z.", clues:[
-    "I am a fictional character.",
-    "As a child I made a promise to a girl I trained with, who died young.",
-    "I have an absolutely terrible sense of direction and get lost constantly.",
-    "I once let an enemy nearly cut me down rather than take a single step back.",
-    "I carry the white sword that once belonged to my late childhood friend.",
-    "I serve as the right-hand fighter and first mate of a small pirate crew.",
-    "I gained a scar over one eye after a brutal two-year training period.",
-    "I fight with a three-sword style, one blade in my teeth, aboard Luffy's crew in 'One Piece'."
+  { a:"Iceman", init:"I.", clues:[
+    "I am a fictional superhero.",
+    "Of my team's founding five, I was the second to enlist and the comic relief of the early run.",
+    "A psychic named Emma once briefly possessed my body and demonstrated I'd been throttling my own potential.",
+    "Writers eventually classed me as Omega-tier, citing a near-limitless command over my elemental medium.",
+    "A confrontation with a time-displaced teenage copy of myself forced me to publicly reckon with my orientation.",
+    "I can drop ambient humidity to lethal cold and reconstitute my entire body from environmental moisture if shattered.",
+    "My surname plays on my power so literally that newspapers might mistake it for a weather report.",
+    "I am the perennial joker of that founding five, able to convert wholly to a transparent crystalline substance."
   ]},
-  { a:"Nami", init:"N.", clues:[
-    "I am a fictional character.",
-    "My adoptive mother, a former soldier, died protecting me and my sister.",
-    "I have an obsessive love of money and a particular fondness for tangerines.",
-    "I once spent years drawing maps for a tyrant while plotting to buy back my village.",
-    "I have a tattoo on my shoulder that replaced a hated mark from my past.",
-    "I am the navigator who charts the course for a small pirate crew.",
-    "I can predict and even manipulate the weather with a special staff.",
-    "I wield the Clima-Tact and sail with Luffy as his navigator in 'One Piece'."
+  { a:"Colossus", init:"C.", clues:[
+    "I am a fictional superhero.",
+    "I was the soft-spoken farmhand recruited in the 1975 relaunch that rescued my book from cancellation.",
+    "At heart I am a canvas-and-brush man, sketching teammates between battles on a Siberian collective.",
+    "My younger sister, a Limbo-born sorceress, and a stint bearing a crimson gem's curse both haunt my history.",
+    "A heroic sacrifice once cured a deadly mutant plague using my own body before a later resurrection undid it.",
+    "My trademark teamwork stunt involves a short, clawed teammate launching me like a human projectile.",
+    "On command my flesh sheaths in an osmium-hard organic alloy nearly impossible to dent.",
+    "This towering Russian farmer-artist turns to living metal and once traded blows with a certain red-suited mercenary."
   ]},
-  { a:"Light Yagami", init:"L.Y.", clues:[
-    "I am a fictional character.",
-    "My father holds a high-ranking position in the police force.",
-    "I am ranked the top student in the entire nation on my exams.",
-    "I grew bored with a world I saw as rotten and decided to remake it.",
-    "I came to see myself as a god who would judge humanity.",
-    "A grinning, apple-craving creature only I can see follows me everywhere.",
-    "The public worships my secret persona under the name 'Kira'.",
-    "I kill criminals by writing their names in a notebook, hunted by the detective L in 'Death Note'."
+  { a:"Jubilee", init:"J.", clues:[
+    "I am a fictional superhero.",
+    "I first turned up squatting in a California mall, swiping food and dodging security as a runaway.",
+    "A trio of women on an Outback-based roster scooped me up after I trailed them through a teleport gate.",
+    "On the day a chaos-wielding witch unmade most of mutantkind, I lost my gift entirely.",
+    "Years later a bite from the undead reinvented me as a creature of the night nursing an adopted infant.",
+    "I became the quippy teenage shadow of a short, clawed loner with a healing factor.",
+    "My discharges look like Fourth-of-July pyrotechnics, detonating in colorful concussive sparks.",
+    "My adopted name is literally a word for jubilation, and my powers resemble fireworks."
   ]},
-  { a:"Ryuk", init:"R.", clues:[
-    "I am a fictional character.",
-    "I am not human, and I find my own kind unbearably dull.",
-    "I once won a certain item gambling against another of my kind.",
-    "Out of sheer boredom, I dropped something into the human world to see what would happen.",
-    "I am bound to whoever picks up what I dropped, and I merely observe their choices.",
-    "I have an insatiable craving for apples and suffer withdrawal without them.",
-    "I am a god of death with a ghoulish grin and dark wings.",
-    "I follow Light Yagami and the cursed notebook in 'Death Note'."
+  { a:"Cable", init:"C.", clues:[
+    "I am a fictional superhero.",
+    "I am the grown infant of a laser-eyed leader and a lab-grown duplicate of a fiery telekinetic.",
+    "Whisked millennia forward as a baby to outrun a metal-spreading plague, I aged while my parents stayed young.",
+    "A constant drain of my telekinesis is spent merely caging the infection that armors half my body.",
+    "I once founded a militant strike team and governed a city-state that floated above the clouds.",
+    "I returned across time to shepherd a foretold mutant infant against those who'd see her dead.",
+    "One eye burns gold from my affliction, and I favor absurdly oversized future ordnance.",
+    "Brought to the screen by a Goonies-and-No-Country actor, I'm the grizzled time-soldier paired with a wisecracking merc."
   ]},
-  { a:"Edward Elric", init:"E.E.", clues:[
-    "I am a fictional character.",
-    "My father, who abandoned our family, is far older and stranger than he looks.",
-    "I burned down my own childhood home so I could never turn back.",
-    "I am extremely sensitive about my short height and explode when teased about it.",
-    "As a child I broke a sacred taboo of my craft and paid a terrible price for it.",
-    "I lost an arm and a leg, and my brother lost his entire body, in one night.",
-    "I have metal automail limbs built by my childhood friend and her grandmother.",
-    "I am the youngest State Alchemist, the Fullmetal Alchemist seeking the Philosopher's Stone in 'Fullmetal Alchemist'."
+  { a:"Bishop", init:"B.", clues:[
+    "I am a fictional superhero.",
+    "I came of age branded with an 'M' over one eye inside a future detention camp for my kind.",
+    "I once served a tomorrow-era police force, the XSE, before chasing a fugitive into the past.",
+    "I crossed time convinced a traitor in my heroes' ranks would one day doom everyone.",
+    "In a later, divisive arc I myself became the hunter of a prophesied mutant infant.",
+    "I metabolize incoming energy and fling it back as concussive bursts from my hands.",
+    "A French actor known from 'The Intouchables' embodied my screen counterpart in a time-spanning film.",
+    "Dreadlocked and time-stranded, my surname doubles as both a chess piece and a clergyman's rank."
   ]},
-  { a:"Eren Yeager", init:"E.Y.", clues:[
-    "I am a fictional character.",
-    "My father was a doctor who carried dark secrets and a hidden key.",
-    "As a child I helped rescue a girl from kidnappers, killing for the first time.",
-    "I am driven by an obsession with freedom above all else.",
-    "I watched a monster devour my mother when the outer wall was breached.",
-    "I joined an elite corps that ventures outside the safety of the walls.",
-    "I inherited a power passed down through generations by eating my own father.",
-    "I can transform into a Titan, and I star in 'Attack on Titan'."
+  { a:"Psylocke", init:"P.", clues:[
+    "I am a fictional superhero.",
+    "I started out flying charter aircraft, the twin of a man who channels the power of a mythic isle.",
+    "Once blinded, I wore cybernetic eyes courtesy of a corporate jailer before a far stranger fate.",
+    "A body-swap engineered with an assassin named Kwannon left me inhabiting a different woman's form.",
+    "My birth surname is shared with a hero who guards Britain in his own right.",
+    "I focus my mind into a shimmering blade I once called the 'focused totality' of my gifts.",
+    "Trained as both telepath and Hand-honed killer, I favor a violet motif and a psionic katana.",
+    "Once a flame-haired pilot, then a raven-haired ninja, I'm the purple-clad psychic swordswoman of a mutant team."
   ]},
-  { a:"Mikasa Ackerman", init:"M.A.", clues:[
-    "I am a fictional character.",
-    "My parents were murdered before my eyes when I was a small child.",
-    "I belong to a rare clan that awakens extraordinary combat instinct.",
-    "I am of partly East Asian descent, one of the last of my kind in this land.",
-    "A boy I was rescued by gave me something I cherish above all else.",
-    "I am rated the single most gifted soldier of my graduating class.",
-    "I wear a red scarf that holds deep sentimental meaning.",
-    "I zip through the air on ODM gear to protect Eren in 'Attack on Titan'."
+  { a:"Mystique", init:"M.", clues:[
+    "I am a fictional supervillain.",
+    "I have prowled the 20th century barely aging, my origins reaching back over a hundred years.",
+    "I once ran a government-sanctioned team rebranded from a 'Brotherhood' into Freedom Force.",
+    "A precognitive lover of mine, who shared my surname in spirit, shaped many of my schemes.",
+    "I birthed a blue, three-fingered teleporter and fostered a touch-cursed power-absorber.",
+    "My given name is that of a black-feathered bird, fitting my unaging cunning.",
+    "Stripped to my true self, I show indigo skin, scarlet hair, and gleaming yellow eyes.",
+    "Played on film by a swimsuit-model actress and later an Oscar-winning ingenue, I'm the scaled impostor who can wear any face."
   ]},
-  { a:"Levi", init:"L.", clues:[
-    "I am a fictional character.",
-    "I was raised by a skilled criminal uncle after my mother died.",
-    "I grew up in a filthy underground city, never seeing the sky.",
-    "I am obsessed with cleanliness and order to an extreme degree.",
-    "I am very short, yet feared as the deadliest soldier alive.",
-    "I lead an elite special operations squad and once lost my whole team in a single mission.",
-    "I am known as humanity's strongest soldier.",
-    "I slice titan napes with breathtaking speed in the Survey Corps in 'Attack on Titan'."
+  { a:"Sabretooth", init:"S.", clues:[
+    "I am a fictional supervillain.",
+    "My legal name is Victor Creed, bound to a clawed rival by a century of mutual savagery.",
+    "I rode with a butcher squad called the Marauders and was processed through a clandestine weapons program.",
+    "Each year I observe a private ritual hunt, stalking my hated counterpart on a chosen anniversary.",
+    "My regenerative gift and heightened senses nearly match the shorter man I despise.",
+    "I sport fangs, talons, and a wild mane of pale blond hair.",
+    "A pro-wrestler-turned-actor and later a 'Ray Donovan' lead both gave me a face on film.",
+    "My name welds an extinct fanged cat to a tooth, marking me the eternal foe of a man called Logan."
   ]},
-  { a:"Tanjiro Kamado", init:"T.K.", clues:[
-    "I am a fictional character.",
-    "I am the eldest child of a large family of charcoal makers in the mountains.",
-    "I inherited a mysterious mark on my forehead and a dance my father taught me.",
-    "I have an extraordinary sense of smell that lets me detect emotions and threats.",
-    "I came home one snowy day to find my entire family slaughtered.",
-    "My one surviving sibling was transformed into a monster but still protects people.",
-    "I wear a checkered haori and a hanafuda earring from my late father.",
-    "I am a demon slayer using water and sun breathing to protect my sister Nezuko in 'Demon Slayer'."
+  { a:"Apocalypse", init:"A.", clues:[
+    "I am a fictional supervillain.",
+    "Abandoned at birth in Bronze-Age Egypt, I was taken in by raiders and called En Sabah Nur.",
+    "A marooned interstellar vessel from a conquering race gifted me technology that reshaped my body.",
+    "My creed is brutal natural selection, and I anoint four servants after a biblical quartet.",
+    "I once twisted a winged hero into my metal-pinioned harbinger of Death.",
+    "I am reckoned among the very first and mightiest of my kind to walk the earth.",
+    "A 2016 film bearing my name cast a Coen-favorite actor beneath heavy blue prosthetics.",
+    "My chosen name is a synonym for the world's cataclysmic end, and I command four mounted heralds."
   ]},
-  { a:"Nezuko Kamado", init:"N.K.", clues:[
-    "I am a fictional character.",
-    "I was the second-oldest child in a large mountain family.",
-    "I once dreamed of an ordinary human life before a single night changed everything.",
-    "I survived a massacre but was transformed into a creature of the night.",
-    "Unlike others of my kind, I sleep to recover energy instead of eating people.",
-    "I refuse to harm humans and instead fight to defend them.",
-    "I can shrink small enough to be carried in a wooden box on my brother's back.",
-    "I keep a bamboo muzzle in my mouth as my brother Tanjiro hunts demons in 'Demon Slayer'."
+  { a:"Juggernaut", init:"J.", clues:[
+    "I am a fictional supervillain.",
+    "I share a hated childhood with a bald telepath who happens to be my stepbrother.",
+    "My might is not mutant at all but a boon from a crimson gem tied to a demon named Cyttorak.",
+    "Prying the dome off my head is about the only sure way to break my focus, since it wards my mind.",
+    "Once I gather momentum, no force on this planet can arrest my forward charge.",
+    "I am a mountain of a man encased in red plate beneath a smooth domed helm.",
+    "A former-footballer actor barked my boastful 'I'm the...' line in a 2006 film.",
+    "My name is itself a word for an unstoppable crushing force, and I'm Professor X's loathed half-brother."
   ]},
-  { a:"Itadori Yuji", init:"I.Y.", clues:[
-    "I am a fictional character.",
-    "My grandfather's dying words told me to always help others and die surrounded by people.",
-    "I have absurd physical strength and can throw a shot put far past records.",
-    "I joined an occult-loving school club before my life turned supernatural.",
-    "I swallowed a rotting cursed object to save my friends from a monster.",
-    "I now share my body with a powerful ancient spirit who despises me.",
-    "I train as a sorcerer at a hidden school in Tokyo.",
-    "I host the King of Curses, Sukuna, in 'Jujutsu Kaisen'."
+  { a:"Cassandra Nova", init:"C.N.", clues:[
+    "I am a fictional supervillain.",
+    "I am a mummudrai, a bodiless predator conceived in the womb beside a powerful telepath.",
+    "Sensing my malice, my twin tried to strangle me before birth, yet I endured as raw consciousness.",
+    "I marshaled a horde of mutant-hunting machines against an island nation, slaughtering its millions.",
+    "I once hijacked my sibling's body to seize command of his celebrated school for the gifted.",
+    "I am the venomous mirror-soul of the man who founded a famous team of misfits.",
+    "A 'Crown'-and-'Murder on the Orient Express' actor brought me into a merc-and-mutant team-up film.",
+    "My first name recalls a Trojan seer doomed never to be believed, and I'm Charles Xavier's parasitic twin."
   ]},
-  { a:"Gojo Satoru", init:"G.S.", clues:[
-    "I am a fictional character.",
-    "I was the first in my prestigious clan to be born with two rare inherited gifts in centuries.",
-    "I once failed to protect a person I was escorting, an event that changed me forever.",
-    "I am arrogant, playful, and a bit of a troll despite my responsibilities.",
-    "I teach at a secret school and fiercely protect my students.",
-    "I am widely considered the strongest of all my kind alive.",
-    "I keep my eyes covered with a blindfold or dark glasses to manage my vision.",
-    "My techniques are Limitless and Six Eyes; my moves are Blue, Red, and Hollow Purple, in 'Jujutsu Kaisen'."
+  { a:"Drax", init:"D.", clues:[
+    "I am a fictional superhero.",
+    "I once lived as a mortal named Arthur Douglas until a fleeing cosmic murderer wiped out my family.",
+    "A planet-sized entity called Kronos reincarnated my spirit into a fresh body forged for one mission.",
+    "Idioms baffle me completely; I parse every figure of speech with hopeless literalism.",
+    "My whole reforged existence orbits a single vendetta against the killer of my wife and child.",
+    "I crew a vessel beside a foul-mouthed rodent and an ambulatory sapling.",
+    "Crimson ritual markings cover my skin, and my obsession centers on a purple-skinned warlord of a moon called Titan.",
+    "A former WWE giant played me as the literal-minded Destroyer among a band of cosmic outlaws."
   ]},
-  { a:"Deku", init:"D.", clues:[
-    "I am a fictional character.",
-    "I grew up scribbling detailed analysis notebooks about people with powers.",
-    "I was born into a world of superhumans but had no ability of my own.",
-    "A childhood friend bullied me for years over my lack of power.",
-    "A great hero saw my courage when I rushed to save that same friend.",
-    "I attend a famous academy training the next generation of heroes.",
-    "My idol chose me as his successor and passed his power to me.",
-    "My borrowed power is One For All; my name is Izuku Midoriya, in 'My Hero Academia'."
+  { a:"Mantis", init:"M.", clues:[
+    "I am a fictional superhero.",
+    "A pacifist alien priesthood reared me and hailed me as their prophesied 'Celestial Madonna.'",
+    "In print I'm of half-Vietnamese parentage and once melded my mind with a sentient cosmic tree.",
+    "I was the hidden offspring of a purple-skinned Titan, raised in secret as his empathic instrument.",
+    "I lull a planet-sized living world named Ego into slumber with a brush of my fingers.",
+    "A single touch lets me read and gently reshape another being's feelings.",
+    "Twin antennae crown my head, my black eyes are oversized, and I am hopelessly literal in conversation.",
+    "A French-Korean actress plays me, the naive empath who falls in with a crew of cosmic misfits."
   ]},
-  { a:"Bakugo Katsuki", init:"B.K.", clues:[
-    "I am a fictional character.",
-    "I once nearly drowned in a river as a child, an event a classmate witnessed.",
-    "I am hot-tempered, foul-mouthed, and obsessively competitive.",
-    "I looked down on a powerless childhood neighbor for years.",
-    "My pride was shattered when that same neighbor gained power and surpassed me.",
-    "I attend an elite school for aspiring heroes and aim to be number one.",
-    "My power lets me detonate explosions from the sweat in my palms.",
-    "My hero name is Dynamight, and I am Deku's rival in 'My Hero Academia'."
+  { a:"Nebula", init:"N.", clues:[
+    "I am a fictional supervillain turned anti-hero.",
+    "In the comics I once posed as a tyrant-Titan's granddaughter and briefly claimed a reality-warping gauntlet.",
+    "Piece by piece my organic body was stripped away and rebuilt in metal as penance for failure.",
+    "I was raised as the adopted sister of a green-skinned killer, pitted against her in lethal contests.",
+    "Every bout I lost cost me another limb or organ, swapped for cybernetics by a cruel guardian.",
+    "Ultimately I turned on the abusive 'father' who mutilated me to help bring about his fall.",
+    "I am hairless and blue, my flesh threaded with mechanical implants.",
+    "A 'Doctor Who'-companion actress plays me, the cyborg daughter of a mad Titan and estranged sister of a green assassin."
   ]},
-  { a:"All Might", init:"A.M.", clues:[
-    "I am a fictional character.",
-    "I inherited my strength from a mentor who was murdered by my greatest enemy.",
-    "My power is one that can only be transferred, never inherited at birth.",
-    "A grave wound years ago destroyed part of my body and slowly drains my time.",
-    "I hide a frail, skeletal true form behind a massive muscular shape.",
-    "I chose a powerless boy as my successor after seeing his heroism.",
-    "My catchphrase reassures people that I have now arrived.",
-    "I am the Symbol of Peace who once wielded One For All and now mentor Deku in 'My Hero Academia'."
+  { a:"Yondu", init:"Y.", clues:[
+    "I am a fictional anti-hero.",
+    "In the original comics I hailed from the 31st century, a tribal archer fighting beside future heroes.",
+    "I belonged to a tomorrow-era band who battled across a thousand years ahead of the present day.",
+    "Onscreen I captained a crew of blue-skinned plunderers, exiled by the larger brotherhood of scavengers.",
+    "Hired to deliver a half-celestial boy to his father, I kept the child and reared him myself instead.",
+    "I steer a deadly fin-guided dart through the air using only the pitch of my whistle.",
+    "My skin is blue and a tall crimson crest arcs over my scalp.",
+    "A 'Walking Dead'-villain actor plays me, the whistling scavenger who became a surrogate dad to a galaxy-saving Earthling."
   ]},
-  { a:"Sasuke Uchiha", init:"S.U.", clues:[
-    "I am a fictional character.",
-    "I come from a once-proud clan that was wiped out in a single night.",
-    "My older brother spared me during that massacre and told me to grow strong and hate him.",
-    "I am consumed by a desire for revenge that I let define my whole life.",
-    "I am the bitter rival of my village's loudest, most hyperactive ninja.",
-    "I possess inherited eyes that can copy techniques and cast illusions.",
-    "I abandoned my village to seek power from a snake-like exile.",
-    "I awaken the Sharingan and hunt my brother Itachi in 'Naruto'."
+  { a:"Adam Warlock", init:"A.W.", clues:[
+    "I am a fictional superhero.",
+    "Geneticists sealed me in a cocoon to engineer a flawless man, and at first they simply called me 'Him.'",
+    "I bore a green gem in my brow capable of devouring the very souls of those it touched.",
+    "My darkest foe is a tyrant version of my own future self called the Magus.",
+    "A speedster-and-tree-creating tinkerer known as the High Evolutionary figures heavily in my origin.",
+    "After helping topple a purple Titan, I gathered guardians to safeguard six reality-bending gems.",
+    "I am a golden, artificially grown being radiating cosmic might.",
+    "A 'Maze Runner'-and-'Midsommar' actor plays me, the perfected creation of a race called the Sovereign."
   ]},
-  { a:"Kakashi Hatake", init:"K.H.", clues:[
-    "I am a fictional character.",
-    "My father, a respected ninja, took his own life after being shamed for his choices.",
-    "I always arrive late and bury my face in a cheeky adult novel.",
-    "A teammate died saving me and gave me a gift before his death.",
-    "I cover most of my face with a mask, and few have ever seen beneath it.",
-    "I hide one eye beneath my slanted headband.",
-    "That hidden eye holds a transplanted ability that copies any technique.",
-    "I am the Copy Ninja who leads Team 7 in 'Naruto'."
+  { a:"Kraglin", init:"K.", clues:[
+    "I am a fictional anti-hero.",
+    "I am a gangly alien who spent years as first mate aboard a roving band of space scavengers.",
+    "Bitterness gnawed at me as my captain doted on a kidnapped Earth boy over his veteran crew.",
+    "When my captain died, his telekinetic head-implant and prized arrow passed to me.",
+    "I fumbled comically for ages trying to master the whistle that steers that flying dart.",
+    "In time I threw in with the very cosmic heroes I'd once helped snatch from Earth.",
+    "An actor who is also the director's brother plays me, the loyal scavenger and a blue captain's right hand.",
+    "I inherited my fin-crested mentor's whistling arrow and became a late addition to a galaxy-guarding crew."
   ]},
-  { a:"Sakura Haruno", init:"S.H.", clues:[
-    "I am a fictional character.",
-    "I was a timid girl until an older friend taught me to stand up for myself.",
-    "I started out on a three-member squad with two boys.",
-    "I nursed a years-long crush on my brooding teammate.",
-    "I was teased about my large forehead as a child.",
-    "I trained under a legendary slug-summoning woman to become a healer.",
-    "I master medical ninjutsu and chakra-enhanced super strength.",
-    "I shatter the ground with my fists as the third member of Team 7 in 'Naruto'."
+  { a:"Cosmo the Spacedog", init:"C.T.S.", clues:[
+    "I am a fictional superhero.",
+    "I was a flesh-and-blood Soviet test animal flung into orbit, then lost adrift through cosmic rays.",
+    "The radiation rewired my brain, granting me telepathy and intellect far beyond my breed.",
+    "I run security aboard a colossal station carved inside the severed head of a dead celestial.",
+    "My telepathic 'voice' carries a heavy Russian inflection.",
+    "I am a Labrador patrolling a lawless mining outpost named Knowhere.",
+    "I am the psychic canine who throws in with a band of cosmic outlaws.",
+    "My Russian name literally means 'universe,' and I'm the telepathic space dog of Marvel's star-faring crew."
   ]},
-  { a:"Ichigo Kurosaki", init:"I.K.", clues:[
-    "I am a fictional character.",
-    "My mother was killed in front of me when I was a young child, and I blamed myself.",
-    "My father runs a small family clinic, and I have two younger twin sisters.",
-    "I have been able to see the dead my entire life.",
-    "My bright orange hair constantly gets me into street fights.",
-    "I gained borrowed spiritual powers to defend my family from a monster.",
-    "I took up the duty of guiding souls and slaying evil spirits.",
-    "I battle Hollows as a Soul Reaper with my blade Zangetsu in 'Bleach'."
+  { a:"She-Hulk", init:"S.H.", clues:[
+    "I am a fictional superhero.",
+    "By trade I'm a Los Angeles attorney named Jennifer, juggling super-powered clients in court.",
+    "An emergency transfusion of my gamma-tainted cousin's blood, after I was shot, sparked my change.",
+    "I shattered the fourth wall and chatted up readers decades before that became a fashionable trick.",
+    "I've held membership in both the premier Avengers and the first family of explorers.",
+    "Unlike my brutish relative, I keep my wit and personality intact when I transform.",
+    "An 'Orphan Black' lead played me in a Disney+ legal sitcom.",
+    "I am the emerald-skinned lawyer cousin of a gamma-cursed scientist, smashing my way through case law."
   ]},
-  { a:"Spike Spiegel", init:"S.S.", clues:[
-    "I am a fictional character.",
-    "I have a prosthetic eye, a relic of a deal that went terribly wrong.",
-    "I faked my own death to escape a criminal syndicate I once belonged to.",
-    "I am laid-back and lanky, fond of cigarettes and old kung-fu philosophy.",
-    "I drift through space with a small, broke crew of bounty hunters.",
-    "I practice a fluid martial art and dodge bullets with ease.",
-    "I pilot a small starfighter called the Swordfish II.",
-    "My past with Julia and my rival Vicious haunts me aboard the Bebop in 'Cowboy Bebop'."
+  { a:"Moon Knight", init:"M.K.", clues:[
+    "I am a fictional superhero.",
+    "I was once a Marine and CIA man who drifted into mercenary work across North Africa.",
+    "Beaten and left to die beneath a jackal-god's statue, I was offered a second life as that deity's avatar.",
+    "I deliberately maintain a cabbie persona and a tycoon persona among my many selves.",
+    "I wrestle with fractured identities and the whispered demands of a bird-headed Egyptian god.",
+    "I clad myself all in white precisely so foes will see me coming and dread it.",
+    "A Coen-favorite actor played me in a Disney+ series steeped in Egyptian mythology.",
+    "My name welds a night-sky body to a chess piece, marking me Marvel's pale lunar avenger."
   ]},
-  { a:"Vegeta", init:"V.", clues:[
-    "I am a fictional character.",
-    "I am the prince of a proud warrior race that was nearly wiped out.",
-    "A tyrant destroyed my homeworld and forced me to serve him as a child.",
-    "I began as a ruthless villain before slowly becoming a reluctant ally.",
-    "I am consumed by my obsession to surpass a cheerful rival who always stays one step ahead.",
-    "I eventually settle down, marry, and raise a family despite my pride.",
-    "I can power up into golden-haired transformations and fire the Galick Gun.",
-    "Frieza destroyed my Saiyan homeworld, and I am the rival of Goku in 'Dragon Ball'."
+  { a:"Blade", init:"B.", clues:[
+    "I am a fictional superhero.",
+    "My mother was savaged by one of the undead in the very act of bearing me, marking me forever.",
+    "I am a dhampir: heir to nocturnal strengths yet immune to nearly all their kindred's frailties.",
+    "I first stalked panels in the 1970s within a horror title centered on a famous Transylvanian count.",
+    "An armorer named Whistler keeps me stocked with silver-edged tools for my nightly hunts.",
+    "I favor shades and a long leather duster while drawing a silvered edged weapon.",
+    "A 'Demolition Man'-and-'Major League' actor played me in a trilogy that helped ignite the comic-film era.",
+    "My name is a word for a keen cutting edge, and I'm the half-vampire who hunts his own kind by day."
   ]},
-  { a:"Gon Freecss", init:"G.F.", clues:[
-    "I am a fictional character.",
-    "I was raised by my aunt on a remote island, believing my parents were dead.",
-    "I learned my father was alive and had simply chosen his career over me.",
-    "I have an incredible sense of smell and superhuman athleticism.",
-    "I am relentlessly optimistic and form fast bonds with everyone I meet.",
-    "I passed a brutal, deadly exam to earn a coveted professional license.",
-    "I befriended a former child assassin who became my best friend.",
-    "I am a Hunter wielding Nen, searching for my father Ging in 'Hunter x Hunter'."
+  { a:"Punisher", init:"P.", clues:[
+    "I am a fictional anti-hero.",
+    "I am a former Marine special-operations officer and a guilt-wracked, devout Catholic.",
+    "My wife and children were cut down in a public park after stumbling onto a mob killing.",
+    "I debuted as a hired gun sent to murder a certain wall-crawling hero, not as a star of my own.",
+    "I prosecute a relentless one-man war on organized crime, never flinching from lethal force.",
+    "A broad pale skull stretches across the chest of my gear.",
+    "A 'Walking Dead'-alum actor plays me across street-level Marvel television.",
+    "My name denotes one who inflicts harsh penalties, and my emblem is a white death's-head."
   ]},
-  { a:"Killua Zoldyck", init:"K.Z.", clues:[
-    "I am a fictional character.",
-    "I was tortured and conditioned from birth to be the heir of my profession.",
-    "My family is infamous, and even my younger brother can manipulate my mind.",
-    "I am extraordinarily fast and lethal despite my young age.",
-    "I ran away from my family to choose my own path in life.",
-    "I have a deep love of sweets and snacks.",
-    "I became the loyal best friend of a cheerful, optimistic boy.",
-    "I channel electricity through my body and travel with Gon in 'Hunter x Hunter'."
+  { a:"Elektra", init:"E.", clues:[
+    "I am a fictional anti-hero.",
+    "I am the daughter of a Greek diplomat slain during a hostage siege I witnessed as a young woman.",
+    "I studied under a blind sensei until my inner darkness got me cast out of his discipline.",
+    "A death-cult of ninja called the Hand once both employed me and dragged me back from the grave.",
+    "In my youth I shared a doomed college romance with a sightless future lawyer.",
+    "My weapons of choice are a paired set of three-pronged blades called sai.",
+    "A 'Alias'-star actress played me in a film spun off from a blind hero's franchise.",
+    "I share my name with a vengeful heroine of Greek tragedy, and I'm the lethal ex-lover of a man without fear."
   ]},
-  { a:"Saitama", init:"S.", clues:[
-    "I am a fictional character.",
-    "I quit job hunting after a chance encounter changed the course of my life.",
-    "I took up my current calling purely as a hobby, just for fun.",
-    "I am perpetually bored because nothing can give me a real challenge anymore.",
-    "I claim my strength came from a simple daily routine of basic exercises.",
-    "I am completely bald, and I am a little sad about losing my hair.",
-    "I wear a plain yellow jumpsuit, red gloves, and a white cape.",
-    "I defeat every foe with a single strike as the title hero of 'One-Punch Man'."
+  { a:"Kingpin", init:"K.", clues:[
+    "I am a fictional supervillain.",
+    "Bullied and scrawny as a boy named Wilson, I rebuilt myself into a mountain of menace.",
+    "Despite my girth, nearly all my bulk is muscle, making me a startlingly skilled brawler.",
+    "I first tormented a web-slinging hero before becoming the personal nemesis of a blind attorney.",
+    "I run my rackets while posing as a respectable magnate, even courting public office.",
+    "I am a vast, bald figure rarely seen out of an immaculate white suit.",
+    "An actor famed for 'Full Metal Jacket' plays me as the looming crime lord opposite a sightless vigilante.",
+    "My name is a bowling term for the lead piece, and I rule the underworld of a great city."
   ]},
-  { a:"Asta", init:"A.", clues:[
-    "I am a fictional character.",
-    "I was left as a baby at a church in a poor rural village.",
-    "I grew up beside a gifted rival who was abandoned the same day as me.",
-    "I live in a world where everyone wields magic, yet I was born with none at all.",
-    "I trained my body relentlessly to make up for what I lack.",
-    "I am loud, tireless, and refuse to ever give up on my dream.",
-    "I swing enormous heavy swords that nullify and cut through magic itself.",
-    "My grimoire holds a devil, and I want to be the Wizard King in 'Black Clover'."
+  { a:"Bullseye", init:"B.", clues:[
+    "I am a fictional supervillain.",
+    "My real name and beginnings are kept deliberately tangled, with rival origin tales contradicting one another.",
+    "I once usurped the role of a star-spangled killer within a government black-ops unit.",
+    "I nurse a grudge against a sightless vigilante who once let me plunge to near-death.",
+    "I boast I can kill with anything at hand, naming a humble playing card or a peanut as proof.",
+    "No improvised projectile ever misses once it leaves my fingers.",
+    "An Irish actor who'd later play Penguin portrayed me in a 2003 film.",
+    "My name is the dead center of a target, and I'm the deadliest marksman tormenting the man without fear."
   ]},
-  { a:"Yusuke Urameshi", init:"Y.U.", clues:[
-    "I am a fictional character.",
-    "I was a delinquent raised by a young, often-absent mother.",
-    "I died saving a small child who ran into traffic.",
-    "The afterlife was so unprepared for my selfless death that I earned a second chance.",
-    "I was revived to serve a special role investigating the supernatural.",
-    "I handle cases involving demons, spirits, and the afterlife.",
-    "I fire a glowing blast of spirit energy from my finger.",
-    "My signature move is the Spirit Gun, and I am the Spirit Detective in 'Yu Yu Hakusho'."
+  { a:"Hela", init:"H.", clues:[
+    "I am a fictional supervillain.",
+    "I hold dominion over two of the Norse realms of the dead, doling out rest or torment.",
+    "One side of my face is fair and lovely, the other a withered corpse.",
+    "My might is chained to my realm; sundered from it, I grow markedly weaker.",
+    "I clash time and again with a hammer-swinging thunderer and his Asgardian allies.",
+    "A crown of enormous antler-like horns sweeps back from my head.",
+    "A two-time Oscar-winning Australian actress played me as a goddess of death in a 2017 film.",
+    "My name is the root of a fiery netherworld in English, and I'm the death-queen kin of the thunder god."
   ]},
-  { a:"Inuyasha", init:"I.", clues:[
-    "I am a fictional character.",
-    "I am the son of a great demon and a human noblewoman, accepted by neither world.",
-    "On the night of the new moon I temporarily lose my powers and turn fully human.",
-    "I was sealed to a tree for fifty years by a sacred arrow before being freed.",
-    "A schoolgirl from the modern era travels back in time to join me.",
-    "A beaded necklace lets her subdue me instantly with a single command word.",
-    "I have long silver hair and dog-like ears atop my head.",
-    "I wield a sword forged from my father's fang and hunt Shikon Jewel shards in a series named after me."
+  { a:"Enchantress", init:"E.", clues:[
+    "I am a fictional supervillain.",
+    "My true name is Amora, a sorceress exiled from a gilded Norse realm for reckless dark magic.",
+    "A hulking axe-wielding henchman called the Executioner trails me in hopeless devotion.",
+    "Time and again I've schemed to ensnare and bend a certain thunder-god to my desires.",
+    "I weaponize beauty as readily as spellcraft, bending powerful men to my whims.",
+    "I am a golden-haired Asgardian sorceress and a recurring scourge of Earth's mightiest heroes.",
+    "I wield charm-magic so potent that a single kiss can enslave a mortal's loyalty for a year.",
+    "My name is a word for a bewitching woman, and I'm the magical seductress who covets the god of thunder."
   ]},
-  { a:"Sailor Moon", init:"S.M.", clues:[
-    "I am a fictional character.",
-    "In a past life I was the princess of a long-lost kingdom on Earth's pale satellite.",
-    "I am a clumsy crybaby schoolgirl who is bad at studying.",
-    "My civilian name is Usagi Tsukino.",
-    "A talking black cat with a crescent mark guides me on my mission.",
-    "I have long blonde hair styled in twin buns with trailing ponytails.",
-    "I lead a team of guardians each named for a planet.",
-    "I transform and fight evil by lunar light in the name of love and justice."
+  { a:"Wong", init:"W.", clues:[
+    "I am a fictional superhero.",
+    "My family line has served the same mystic master through generations as sworn protectors.",
+    "I was first penned as a mere manservant before later writers elevated me to a master in my own right.",
+    "I keep watch over relics and forbidden tomes within a mountain refuge called Kamar-Taj.",
+    "I rose to claim the mantle of Sorcerer Supreme and steward a hidden New York sanctum.",
+    "I conjure blazing amber mandalas of energy to repel threats from beyond.",
+    "The 'Sherlock'-famous actor who portrays me shares my single-syllable name as his own surname.",
+    "I am the steadfast spellcasting ally of a goateed ex-surgeon, my entire name a single syllable."
   ]},
-  { a:"Lelouch Lamperouge", init:"L.L.", clues:[
-    "I am a fictional character.",
-    "I am an exiled prince living under a false name, hiding my royal blood.",
-    "I am raising and protecting my disabled younger sister in secret.",
-    "I am a brilliant strategist who attends an ordinary school as a cover.",
-    "A mysterious green-haired girl granted me a contract and a power.",
-    "My power can force anyone to absolutely obey one command of mine.",
-    "I lead a rebellion against a vast empire from behind a mask.",
-    "My alter ego is Zero, my power is Geass, and I pilot Knightmare Frames in 'Code Geass'."
+  { a:"Baron Mordo", init:"B.M.", clues:[
+    "I am a fictional supervillain.",
+    "I am of Transylvanian noble blood and first apprenticed under a Tibetan mystic in the mountains.",
+    "I plotted to murder our shared master, only to be thwarted by a newly arrived pupil.",
+    "My given name is Karl, and I carry an inherited rank of nobility.",
+    "Envy and a hunger for power dragged me from comrade to enemy of a master sorcerer.",
+    "I wield the identical sorcery as my rival, but always toward selfish ends.",
+    "A '12 Years a Slave'-Oscar-nominee actor played me in a 2016 mystic origin film.",
+    "My noble title joined to my surname marks me the foremost magical rival of a certain Doctor of the arts."
   ]},
-  { a:"Hinata Hyuga", init:"H.H.", clues:[
-    "I am a fictional character.",
-    "I was born heir to a noble clan but was deemed too weak and gentle by my father.",
-    "My cousin once held a deep grudge against my branch of the family.",
-    "I was painfully shy and lacked all confidence in my youth.",
-    "Watching a never-give-up classmate inspired me to grow stronger.",
-    "My clan's inherited eyes can see chakra points and through solid objects.",
-    "I have long dark hair and pale lavender eyes.",
-    "My eyes are the Byakugan, and I eventually marry Naruto in 'Naruto'."
+  { a:"Dormammu", init:"D.", clues:[
+    "I am a fictional supervillain.",
+    "I am an elder of the Faltine, a near-omnipotent race woven from raw mystical energy.",
+    "I reign over a churning pocket reality where the ordinary rules of time and matter dissolve.",
+    "My ceaseless ambition is to swallow Earth into my borderless domain.",
+    "A crafty conjurer once snared me in an unending loop until I begged for release.",
+    "My skull is wreathed in roaring otherworldly flame.",
+    "I am the blazing tyrant of the Dark Dimension undone by a sorcerer who simply refused to stay dead.",
+    "Bested by a foe endlessly intoning 'I've come to bargain,' I'm the dread fiery lord of a realm beyond time."
   ]},
-  { a:"Guts", init:"G.", clues:[
-    "I am a fictional character.",
-    "I was born from a corpse and raised by a band of mercenaries who never loved me.",
-    "A man I once admired and followed betrayed me in the worst way imaginable.",
-    "I bear a brand that bleeds and draws evil spirits to me every night.",
-    "I lost an eye and an arm during that terrible betrayal.",
-    "My missing arm was replaced with iron, concealing a hidden cannon.",
-    "I hunt demons across a grim, brutal medieval-style world.",
-    "I swing the massive sword Dragon Slayer as the Black Swordsman of 'Berserk'."
+  { a:"Kang the Conqueror", init:"K.T.C.", clues:[
+    "I am a fictional supervillain.",
+    "My ancestry is traced, depending on the timeline you trust, to either Reed Richards or Doctor Doom.",
+    "I once governed ancient Egypt as a pharaoh called Rama-Tut using purloined future technology.",
+    "I splinter across the multiverse into countless selves, among them a peaceful Immortus and a Scarlet Centurion.",
+    "I command time travel and tomorrow's weaponry in my drive to rule every age at once.",
+    "My armor gleams green and purple, my face hidden behind a blue mask.",
+    "A 'Lovecraft Country' actor portrayed me and my variants before his recasting in a film franchise.",
+    "My royal epithet brands me a multiverse-spanning time-tyrant and scourge of Earth's mightiest heroes."
   ]},
-  { a:"Kenshin Himura", init:"K.H.", clues:[
-    "I am a fictional character.",
-    "I was orphaned by disease and slavers as a child, then taken in by a master swordsman.",
-    "I speak humbly and refer to myself with an old-fashioned, archaic pronoun.",
-    "During a great revolution I was a feared assassin in the shadows.",
-    "I now wander the land, vowing never to take a life again to atone for my past.",
-    "I have long red hair tied back and a cross-shaped scar on my left cheek.",
-    "I carry a sword whose blade is reversed so its edge cannot kill.",
-    "I am the wandering swordsman once called Battosai, hero of a Meiji-era manga named for me."
+  { a:"Mister Sinister", init:"M.S.", clues:[
+    "I am a fictional supervillain.",
+    "I began as a Victorian geneticist named Nathaniel Essex, fixated on the destiny of evolution.",
+    "An ancient survival-obsessed mutant granted me deathlessness in trade for my monstrous research.",
+    "I am obsessed with two particular mutant bloodlines whose union could yield a perfect weapon.",
+    "I loosed a death-squad called the Marauders to massacre a community of tunnel-dwelling mutants.",
+    "My skin is chalk-white and a crimson diamond gleams upon my brow.",
+    "I am a peerless cloner whose meddling engineered the very birth of a certain time-tossed soldier.",
+    "My ominous two-word alias names me the diamond-foreheaded genetic puppet-master plaguing a school of mutants."
   ]},
-  { a:"Alphonse Elric", init:"A.E.", clues:[
-    "I am a fictional character.",
-    "My father, who walked out on us, is far older and stranger than he appears.",
-    "I helped break a sacred taboo of my craft as a boy and paid dearly for it.",
-    "I have a soft spot for stray cats and often try to hide them.",
-    "I am gentle and kind despite a fearsome outward appearance.",
-    "My very soul was bound to a hollow object by my older brother to save my life.",
-    "I exist as a massive, empty suit of armor with no body inside.",
-    "I journey to restore our bodies with my older brother Edward in 'Fullmetal Alchemist'."
+  { a:"Nova", init:"N.", clues:[
+    "I am a fictional superhero.",
+    "I was a struggling high-schooler named Richard until a dying alien officer's beam singled me out.",
+    "I inherited a glowing helm and rank from a fallen member of an interstellar police force.",
+    "A sentient living computer dubbed the Worldmind tutors and channels my powers.",
+    "I once stood as nearly the last survivor of my corps after a ruinous war against an insectoid swarm.",
+    "I siphon a cosmic reservoir shared by my order to fly and to hurl energy blasts.",
+    "My golden helmet burns around the eyes, and my fallen corps hailed from the world Xandar.",
+    "My code-name denotes a star erupting in sudden brilliance, and I'm Marvel's 'Human Rocket' of a galactic constabulary."
   ]},
-  { a:"Roy Mustang", init:"R.M.", clues:[
-    "I am a fictional character.",
-    "I once carried out devastating orders in a war I deeply regret to this day.",
-    "I am ambitious, charming, confident, and a bit of a flirt.",
-    "I learned the secrets of my craft from the father of a woman now loyal to me.",
-    "I dream of one day rising to lead my entire nation.",
-    "I wear special ignition-cloth gloves marked with a transmutation array.",
-    "I snap my fingers to ignite bursts of fire at will.",
-    "I am the Flame Alchemist who serves alongside the Elric brothers in 'Fullmetal Alchemist'."
+  { a:"Quicksilver", init:"Q.", clues:[
+    "I am a fictional superhero.",
+    "My twin sister bends probability and reality, and we were raised in an Eastern European backwater.",
+    "For decades I was led to believe a magnetism-wielding mutant overlord had sired me.",
+    "My given name is Pietro, and I once muscled my way onto a hero team by saving them uninvited.",
+    "I started among a 'Brotherhood' of malcontents before drifting toward the heroic side.",
+    "Chronic impatience plagues me, since the rest of the world seems to crawl in slow motion.",
+    "Two actors, a 'Kick-Ass' lead and an 'American Horror Story' regular, gave me dueling screen versions.",
+    "My code-name evokes liquid mercury, and I'm the fleet-footed twin brother of a reality-warping witch."
   ]},
-  { a:"Mob", init:"M.", clues:[
-    "I am a fictional character.",
-    "My younger brother is far more popular and outwardly talented than I am.",
-    "I am a shy, expressionless middle schooler who struggles to express my feelings.",
-    "I joined a fitness club to better myself and impress a girl I like.",
-    "I work part-time as the assistant to a phony, fraudulent spirit medium.",
-    "I deliberately bottle up my emotions to keep my hidden powers in check.",
-    "When my emotions reach 100 percent, immense psychic power erupts from me.",
-    "My real name is Shigeo Kageyama, the esper of 'Mob Psycho 100'."
+  { a:"Wasp", init:"W.", clues:[
+    "I am a fictional superhero.",
+    "I was a moneyed socialite named Janet whose father fell to a creature from another dimension.",
+    "I personally coined the rallying name of a famous super-team during their very first outing.",
+    "I stood among that team's founders, one of the rare women in its original roster.",
+    "My scientist partner devised the size-altering technology that powers my heroics.",
+    "I shrink to insect scale, unfurl wings, and loose 'stings' of charged bio-energy.",
+    "A 'Lost'-star actress and a multiple-Oscar-nominee veteran have both played versions of me on film.",
+    "My insect name is the partner to Ant-Man's, and I'm the founder who christened the Avengers."
   ]},
-  { a:"Thorfinn", init:"T.", clues:[
-    "I am a fictional character.",
-    "I belong to a seafaring raiding culture of the medieval far north.",
-    "My father was a legendary warrior who had abandoned the warrior's life for peace.",
-    "I watched my father die at the hands of a cunning mercenary leader.",
-    "I joined the very band that killed him, demanding duels to avenge him.",
-    "I am a small but lethal fighter who wields a pair of daggers.",
-    "After years of revenge I lose my purpose and become a slave seeking meaning.",
-    "I am a young Viking on a long journey, the hero of 'Vinland Saga'."
+  { a:"Shang-Chi", init:"S.C.", clues:[
+    "I am a fictional superhero.",
+    "I was bred from childhood to be an assassin by a criminal-mastermind father.",
+    "For years my father was drawn as the pulp arch-fiend Fu Manchu until licensing forced a rewrite.",
+    "I broke from him the moment I grasped the true evil of the empire he'd built.",
+    "I'm widely held to be the finest unarmed martial artist in the entire Marvel cosmos.",
+    "Recent screen tales arm me against a father who commands ten mystic arm-bands of power.",
+    "A Chinese-Canadian actor known from 'Kim's Convenience' plays me, son of the lord of the Ten Rings.",
+    "My name translates roughly to 'the rising of the spirit,' and I'm Marvel's Master of Kung Fu."
   ]},
-  { a:"Senku Ishigami", init:"S.I.", clues:[
-    "I am a fictional character.",
-    "I was adopted, and I deeply admire the father who raised me.",
-    "I have distinctive green-and-white spiky hair.",
-    "I once built a working escape plan and counted down time precisely for years in my head.",
-    "I awoke after the entire human race was mysteriously turned to stone for millennia.",
-    "I set out to rebuild all of human civilization from absolutely nothing.",
-    "My catchphrase celebrates how exhilarating discovery is.",
-    "I recreate everything from gunpowder to medicine as the brain of 'Dr. Stone'."
+  { a:"Namor", init:"N.", clues:[
+    "I am a fictional anti-hero.",
+    "I first surfaced in 1939, one of the oldest characters in the publisher's entire history.",
+    "I am the half-breed son of a human sea captain and a princess of a drowned kingdom.",
+    "Tiny wings sprout from my ankles, granting me flight rare even among my own people.",
+    "I rule a submerged realm and routinely declare war upon the dry-landers above.",
+    "Proud and imperious, I bear the title of a prince of the deep.",
+    "A 'Narcos: Mexico'-actor played a version of me in a 2022 Wakandan sequel.",
+    "Spell my name backward and you nearly get 'Roman'; I'm the winged-ankle Sub-Mariner sovereign of a sunken realm."
   ]},
-  { a:"Anya Forger", init:"A.F.", clues:[
-    "I am a fictional character.",
-    "I was the subject of a secret experiment and given a code-name before I escaped.",
-    "I was adopted from an orphanage by a man who needed a child for his mission.",
-    "I can secretly hear the thoughts of everyone around me.",
-    "I love spy cartoons and peanuts, and I act far younger than I really am.",
-    "I attend a prestigious elite school as part of my new father's hidden plan.",
-    "I have pink hair with little horn-shaped tufts.",
-    "I keep my spy father and assassin mother's secrets to myself in 'Spy x Family'."
+  { a:"Sentry", init:"S.", clues:[
+    "I am a fictional superhero.",
+    "My name is Robert Reynolds, and a stolen experimental serum granted me my godlike might.",
+    "I am said to harness the strength of a million exploding suns.",
+    "The entire world, myself included, was once mystically made to forget I had ever existed.",
+    "My deadliest enemy, a devouring darkness, is in truth my own shadow-self and my illness made manifest.",
+    "Crippling agoraphobia and gnawing self-doubt shackle me despite my limitless power.",
+    "I am a blond figure in gold and blue, often dubbed this publisher's answer to a famous caped alien.",
+    "My name suggests a watchman standing guard, and I wage endless war against my own dark Void."
   ]},
-  { a:"Loid Forger", init:"L.F.", clues:[
-    "I am a fictional character.",
-    "I was orphaned by war as a child, which set me on my secret path.",
-    "I am a master of disguise who has worn countless identities.",
-    "I am calm and brilliant, always thinking many steps ahead.",
-    "My professional code-name references a fading evening sky.",
-    "I have no idea my wife is a contract killer or my daughter a telepath.",
-    "I assembled a fake family purely to carry out a covert assignment.",
-    "I am the spy codenamed Twilight, the father in 'Spy x Family'."
+  { a:"Taskmaster", init:"T.", clues:[
+    "I am a fictional anti-hero and mercenary.",
+    "I'm gifted with 'photographic reflexes,' instantly copying any physical motion I observe.",
+    "That very gift erodes my own personal memories the more skills I absorb.",
+    "I operate an academy that drills henchmen for supervillains across the criminal underworld.",
+    "I can blend the fighting styles of a shield-bearer, an archer, and dozens more in a single brawl.",
+    "I carry a shield, a bow, and a sword to ape whichever hero I'm imitating.",
+    "A skull-like mask and a hooded cape complete my battle dress.",
+    "My name denotes a stern drillmaster, and I'm the mercenary who mirrors any hero's technique."
   ]},
-  { a:"Power", init:"P.", clues:[
-    "I am a fictional character.",
-    "I am not truly human but a malevolent being inhabiting a human corpse.",
-    "I am chaotic, selfish, boastful, and a habitual liar.",
-    "I have an intense, surprising attachment to my beloved pet cat.",
-    "I have a pair of small horns poking out from my blonde hair.",
-    "I am partnered with a quiet, deadly young man at a public safety agency.",
-    "I can freely control and shape my own blood into weapons.",
-    "I am the Blood Fiend who teams up with a chainsaw-wielding boy in 'Chainsaw Man'."
+  { a:"Klaw", init:"K.", clues:[
+    "I am a fictional supervillain.",
+    "My real name is Ulysses, a physicist who built a device to forge solid mass out of pure sound.",
+    "I murdered an African monarch to plunder his nation's hoard of a rare, near-indestructible metal.",
+    "Eventually I converted my entire body into living, sculpted sound.",
+    "My right hand was struck off and replaced with a sonic-emitting apparatus.",
+    "I am a sworn enemy of the king of a concealed, ultra-advanced nation.",
+    "A motion-capture-pioneer actor played me as an arms dealer obsessed with vibranium in two films.",
+    "My name is a homophone for a beast's sharp talon, and I'm the sonic-armed nemesis of a panther-clad king."
   ]},
-  { a:"Denji", init:"D.", clues:[
-    "I am a fictional character.",
-    "I grew up dirt poor, burdened by the crushing debt my dead father left behind.",
-    "I sold my own organs just to survive and pay off what I owed.",
-    "My only friend was a small pet devil with a chainsaw for a nose.",
-    "I was betrayed and killed, then fused with my pet to come back to life.",
-    "My simple dreams are just to eat well and live an ordinary, happy life.",
-    "I can pull a cord on my chest to sprout blades from my arms and head.",
-    "I am a devil hunter for a public safety agency, the title character of 'Chainsaw Man'."
+  { a:"Mister Knight", init:"M.K.", clues:[
+    "I am a fictional anti-hero from the streets of New York.",
+    "My birth name is Marc Spector, and I am one and the same as a notorious lunar avenger.",
+    "This guise of mine works cases as a sort of supernatural private investigator.",
+    "I am but one of several deliberately maintained identities within a single fractured mind.",
+    "Unlike my brutal cloaked self, I conduct this business in a crisp tailored suit.",
+    "I dress in a spotless white three-piece with a matching cloth mask.",
+    "I am the dapper detective persona of the chosen servant of a jackal-headed moon god.",
+    "My name pairs a courteous honorific with a chess piece, the suited alter ego of a pale lunar vigilante."
   ]},
-  { a:"Yuno", init:"Y.", clues:[
-    "I am a fictional character.",
-    "I was abandoned as a baby at a rural church on the same day as my rival.",
-    "I was a timid, bullied child until a loud friend taught me courage.",
-    "I am calm, composed, and naturally gifted with magic from birth.",
-    "I received a rare four-leaf clover grimoire as a teenager.",
-    "Later a wind spirit becomes my contracted partner.",
-    "I joined the most elite magic squad in the kingdom.",
-    "I wield wind magic and compete to become the Wizard King in 'Black Clover'."
+  { a:"Domino", init:"D.", clues:[
+    "I am a fictional anti-hero.",
+    "I was bred in a covert government program intended to manufacture a flawless living weapon.",
+    "Of all the test subjects, I alone survived, smuggled out of the lab as an infant.",
+    "My gift quietly tilts probability so that wildly unlikely good fortune always breaks my way.",
+    "I'm a longtime member of a mercenary outfit captained by a battle-scarred time traveler.",
+    "A black ring is tattooed around my left eye, a striking mark on my face.",
+    "An 'Atlanta'-cast actress played me in the sequel to a fourth-wall-breaking merc's film.",
+    "My name is that of a black-and-white game tile, and my power is nothing but pure good luck."
   ]},
-  { a:"Rimuru Tempest", init:"R.T.", clues:[
-    "I am a fictional character.",
-    "In my previous life I was an ordinary office worker, stabbed to death on the street.",
-    "I was reincarnated into a fantasy world in a strange, formless new body.",
-    "I can absorb others and mimic their abilities and appearance.",
-    "I befriended a powerful storm dragon sealed away in a cave, and we became sworn friends.",
-    "I have an analytical voice in my head that helps me make decisions.",
-    "I started my new life as a humble blue slime.",
-    "I founded and rule a nation of monsters in 'That Time I Got Reincarnated as a Slime'."
+  { a:"Negasonic Teenage Warhead", init:"N.T.W.", clues:[
+    "I am a fictional superhero.",
+    "My code name was lifted wholesale from a track by the band Monster Magnet.",
+    "In the comics I was a bit-part precognitive student who perished in a notorious island massacre.",
+    "The films scrapped my original gift and reinvented me with utterly different explosive powers.",
+    "I'm a glowering trainee at a school for gifted youngsters who'd rather scroll her phone.",
+    "I share my life with a girlfriend named Yukio and sport a shaved-sided haircut.",
+    "I charge up and release a devastating concussive blast straight from my body.",
+    "My preposterously long four-word name belongs to the deadpan teenage X-recruit shadowing a chatty merc."
   ]},
-  { a:"Subaru Natsuki", init:"S.N.", clues:[
-    "I am a fictional character.",
-    "I was a withdrawn shut-in in my old life before being pulled into another world.",
-    "I have no special combat ability or magic of my own whatsoever.",
-    "I fell for a silver-haired half-elf girl I met within hours of arriving.",
-    "I suffer, fail, and die over and over again in agony.",
-    "Each time I die, I am sent back to a fixed point earlier in time.",
-    "I am the only one who keeps the memories of every failed loop.",
-    "My power is Return by Death, and I star in 'Re:Zero'."
+  { a:"M.O.D.O.K.", init:"M.", clues:[
+    "I am a fictional supervillain.",
+    "I started as a lowly technician named George Tarleton at a subversive research outfit.",
+    "My superiors mutated me into a living computer to serve their ends, whereupon I seized command.",
+    "My acronym first stood for an organism 'Designed Only for Killing' before being softened to 'Computing.'",
+    "I drift about in a custom hovering throne because my frame can no longer bear my own weight.",
+    "An enormous cranium dwarfs my shriveled, near-useless limbs.",
+    "I command the criminal brain-trust known as A.I.M.",
+    "My acronym spells out a Mental Organism Designed Only for Killing, a colossal floating head."
   ]},
-  { a:"Tohru Honda", init:"T.H.", clues:[
-    "I am a fictional character.",
-    "I lost my father young, then lost my beloved mother in an accident.",
-    "I was secretly living alone in a tent to avoid burdening my relatives.",
-    "I am relentlessly kind, selfless, and hardworking despite my hardships.",
-    "I came to live with a peculiar, secretive family I stumbled upon.",
-    "I discovered that family carries a strange generational curse.",
-    "Its members transform into zodiac animals when embraced by the opposite sex.",
-    "I try to break the Sohma family's curse, the heroine of 'Fruits Basket'."
-  ]},
-  { a:"Escanor", init:"E.", clues:[
-    "I am a fictional character.",
-    "I was born a prince but exiled and feared for a power I could not control.",
-    "I belong to a legendary band of powerful, sinful knights.",
-    "I am meek, gentle, and deeply humble through the hours of night.",
-    "My confidence and might swell hour by hour as the sun climbs the sky.",
-    "I embody the sin of pride among my comrades.",
-    "At high noon I reach my absolute, unstoppable peak of power.",
-    "My power is literally named Sunshine, and I am one of 'The Seven Deadly Sins'."
-  ]},
-  { a:"Meliodas", init:"M.", clues:[
-    "I am a fictional character.",
-    "I am bound by a curse of eternal reincarnation tied to a woman I love.",
-    "I look like a harmless young boy but I am thousands of years old.",
-    "I am connected by blood to a fearsome demon clan I turned against.",
-    "I run a tavern and lead a band of legendary outlaw knights.",
-    "I carry a broken sword for much of my journey.",
-    "I can reflect any attack back at my enemy with a power called Full Counter.",
-    "I am the Dragon's Sin of wrath and captain of 'The Seven Deadly Sins'."
-  ]},
-  { a:"Saber", init:"S.", clues:[
-    "I am a fictional character.",
-    "In life I concealed my true sex to take a throne, and I ruled until betrayal tore my realm apart.",
-    "I am a heroic spirit summoned into a deadly tournament between mages.",
-    "I battle other summoned legends for the right to claim a wish-granting relic.",
-    "I appear as a graceful blonde knight clad in armor.",
-    "My true identity is a legendary king of Britain from myth.",
-    "I wield a golden holy sword cloaked in invisible binding wind.",
-    "That blade is Excalibur, and I am the King of Knights in the 'Fate' series."
-  ]},
-  { a:"Yato", init:"Y.", clues:[
-    "I am a fictional character.",
-    "I am a minor deity with almost no worshippers and not a single shrine.",
-    "I have a dark history as a god of calamity, slaying at my father's command.",
-    "I take odd jobs and small requests for just five yen at a time.",
-    "I dream of one day having a grand shrine and millions of devotees.",
-    "I wear a simple tracksuit and a scarf instead of divine robes.",
-    "I am partnered with a wandering spirit who transforms into my weapon.",
-    "I am the stray god seeking a name for himself in 'Noragami'."
+  { a:"Moondragon", init:"M.", clues:[
+    "I am a fictional superhero.",
+    "Orphaned as a girl named Heather when a fleeing Titan ran down my parents on a highway.",
+    "Monks on the moon of a vast planet, the same retreat that forged Drax, raised and trained me.",
+    "I am in fact the daughter of that literal-minded green warrior himself.",
+    "A formidable telepath, I once arrogantly tried to mentally enslave an entire world.",
+    "Among the cosmic set I shared a notable romance with the warrior Phyla-Vell.",
+    "I keep my scalp shaved bald and wield immense psionic and martial skill.",
+    "My name joins a celestial body to a mythical beast, and I'm the telepathic daughter of the Destroyer."
   ]}
 );
